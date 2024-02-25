@@ -1,0 +1,993 @@
+  1
+Tim Hey everybody. This is Tim at BibleProject, and welcome to the podcast. 
+Today we are wrapping up our final conversation in our series about 
+how to read the New Testament letters. If this is the first episode you’re 
+listening to in the series or on the podcast, welcome. We do recommend 
+you go back and check out all the episodes leading up to this one. But 
+if you’re just going to dive in first right here, here’s an introduction.
+ You’re probably familiar with the letters of the New Testament. They’re 
+some of the most well-known books in the Bible and they’re full of 
+inspiring one-liners. These are letters that Christians often quote 
+just single sentences from. They’re actually are fairly easy to read 
+as devotional kind of grab bags where you just read a sentence or a 
+paragraph at a time. However, we want to invite people into a more in-
+depth and thoughtful way of reading these as whole letters. And part 
+of learning how to do that means learning the literary context of any 
+given sentence or paragraph in the flow of the letter as a whole.
+ So today, we’re going to talk about some of the skills involved with 
+following a train of thought from the letters beginning to its end in the New 
+Testament. We’re going to give you some tips and skills for how to read the 
+letters more effectively, and we’re going to discuss an interesting question 
+that comes up between Jon and I about why Paul sounds so aggressive, 
+even bombastic, and arrogant sometimes in some sections of his letters. 
+ Paul was trained in ancient Greek and Roman style of rhetoric and 
+public speaking. So the way that he writes is really different from 
+how we might try and develop a line of thought in a modern Western 
+context. We’re going to explore things like that, and even more in 
+today’s episode. One thing to note is that Jon and I recorded this 
+conversation, we were in our office. It’s a little bit different than normal 
+but we think it should be fine. Okay, thanks for joining us. Here we go. 4 Steps to Argument Tracing New Testament Letters E9
+August 3, 2020, 69.00  
+Speakers in the audio file: Jon Collins, Tim Mackie
+00:00:00
+00:01:00
+00:02:00  2Jon So, Tim, we’re recording outside the studio. 
+Tim Yes, we are. 
+Jon inaudible
+Tim Yeah, we did.
+Jon So we found this field recorder and we’re just in our office.
+Tim We’re in our office sitting next to each other having this conversation.
+Jon Staring at the screen.
+Tim Yeah, staring at the screen together. We are carrying on our 
+conversation about how to read the New Testament letters. We did a 
+whole series on the historical background of the letters, learning how 
+to dive into that. This conversation is about how to actually read the 
+New Testament letters as literary wholes from beginning to end.
+Jon You kind of broke my brain talking about these 
+letters being written in community. 
+Tim Yeah.
+Jon But it’s good.
+Tim Yeah.
+Jon There’s a new appreciation for... 
+Tim The letters come from Paul and his team.
+Jon And his team. And there’s a pro scribe involved likely. It’s just a new 
+category but it’s really helpful for me to imagine that and bring that in to 
+what does that mean for this to be God’s Word. It’s easier just imagine God 
+zapping a dude who transcribes something straight from the Holy Spirit.
+Tim Paul’s meditating and praying and a study alone. 
+Jon And he just hears the word of the Lord be like, Put it there.”
+Tim Totally.
+Jon It makes it feel more complex. But why can’t God work in that way too?
+Tim Yeah, He clearly has. We’re imagining all those scenarios from the actual 
+data in the letters. That he names co-senders or co-authors, which is not 
+standard in 1st century letters. Yeah, there you go. So they’re the product 
+of Paul and his missionary teams, and they’re working out the content over 
+the course of years. Then, as they travel and they’re on the road and so on. 00:03:00
+00:04:0000:02:18  3 Where we’re going to go now is a little more practical in how to, which 
+is strategies and tools to actually read the letters and notice stuff, and 
+learning how to identify what’s important and things like that. So the first 
+type of approach is just to understand the form of 1st century letters. I still 
+remember learning how to...be taught how to write a letter. I was given 
+a template. You put certain points on the page, the date up in the upper 
+left, and a home address, your name. I remember it felt weird to me.
+Jon Why did it feel weird?
+Tim To put that information up at the upper left and you write your 
+name and address. I remember being like, “Isn’t my address 
+on the envelope? Why do I need...” Stuff like that. 
+Jon Do you ever do that in letters?
+Tim Oh, dude, I can’t even remember the last time I wrote a paper letter. 
+Jon But have you ever opened up like a Word document and there’s templates?
+Tim Yeah, I’ve done those.
+Jon There are letter template.
+Tim You’re right. I’ve done those.
+Jon There’s a business letter template.
+Tim Totally. The thing is I don’t create it. I just use a template that’s within page...
+Jon But all to say there’s a template for how you write letter 
+and there was a template for how you wrote letters.
+Tim Template. Yeah, totally. So here we’ll just summarize it in the most basic 
+form. It’s pretty intuitive. It’s not rocket science. Ancient letters, in the 
+centuries before, especially in around the time of the apostles, the first 
+words is your name. And then the receiver. So this is called the opening 
+address. You identify yourself, who you’re writing to, and usually use some 
+form of the Greek word “charis”, which means “grace” or “favor” to say hello. 
+“Grace to you.” “Paul to the church in so and so. Grace to you.” There you go. 
+There’s almost always some little line of giving thanks to the gods for what...
+Jon After the opening address?
+Tim After the opening, there follows the second main part of the form which 
+is called the Thanksgiving. You give thanks to the gods. “I hear that 
+you’re in good health, I give thanks to the gods.” That kind of thing. 
+Then you get the body of the letter, and then you get the closing of 
+the letter, which is usually saying hi to people if you want to, travel 00:05:00
+00:06:00  4plans, a final prayer for the well-being or health or sometimes the 
+praise to the gods, and then whatever, PS (Postscript). So opening...
+Jon So opening address, thanksgiving prayer, which is kind of a 
+formality of sorts. And then you get into it, “Here’s why I’m 
+writing letter,” getting all the content, and then the closing.
+Tim That’s right. 
+Jon Then what you’ve got here is just a chart of all the New Testament letters 
+and how they do this. In the opening here, you’ve got 1, 2 Thessalonians, 
+Galatians, 1 Corinthians. You’ve got all the letters. And then you got 
+columns. And you fill them out. You got to sender column...
+Tim I just copied and pasted the opening paragraph.
+Jon Paul’s the sender. And he gives himself a title usually. He 
+doesn’t in 1 and 2 Thessalonians. In the next column over you 
+called it a description. So in the opening, it’s like, “Here’s who 
+I am, and let me describe why it’s important who I am.” 
+Tim Yeah, yeah. The most basic form would be “Paul to so and so.” Actually not 
+one of his letters begins that way. He almost always adds a description 
+of himself. Sometimes short, sometimes long. He often names the group 
+that produced the letter. He’ll name people. So that’s the first thing. He 
+rarely puts just his name. He usually puts his name and other people’s 
+names, and he usually describes himself with long or short descriptions. 
+ The basic point is that if you start comparing all the different beginnings 
+of the New Testament letters, you’ll notice when Paul or Peter or 
+John is taking the existing form and tweaking or adapting it to the 
+unique purposes of that letter. That’s the basic idea. There it is.
+Jon Cool. So the same thing is true for Thanksgiving. He always has some 
+sort of thanksgiving prayer before he gets into the meat of the letter.
+Tim Correct.
+Jon So feel free to skip that? It’s a formality?
+Tim Okay, here’s what’s interesting. From here I found a helpful collection of 
+ancient Greek and Roman letters from a collection by a scholar named John 
+White called Light from Ancient Letters. And you just read collections of 
+ancient letters. I don’t know. Most people probably should not read. In fact, 
+I don’t know. I recommend it. Actually, I do recommend it, but it’s like...You 
+know. What’s interesting is, one, we noted in our last conversation how long 
+the New Testament letters are in comparison to all ancient other letters.00:07:00
+00:09:0000:08:00  5Jon Paul writes long letters
+Tim Especially Paul and the letter to the Hebrews.
+Jon That’s a long one, too. 
+Tim They are among the longest letters from the ancient world.
+Jon Not like long like, “Oh, yeah, this is one.” It’s like, well, you 
+went twice as long as anyone else ever goes.
+Tim Twice or three times.
+Jon Twice or three times.
+Tim Yeah, that’s right. So the Thanksgiving is like this. Usually, 
+if you read any ancient letters, it’s like writing, “dear so 
+and so,” “Dear Jon,” at the beginning of the letter.
+Jon That’s the opening?
+Tim Yeah. Like using the word “dear”...
+Jon Oh, it’s a formality?
+Tim Yes. Do I actually mean you’re so dear to me? No. I 
+mean, you are Jon Collins. You are dear to me.
+Jon Thank you. 
+Tim You’re welcome. But you know what I’m saying
+Jon Yeah. 
+Tim Like when you write “dear so and so,” it’s just a formality. 
+Jon Right.
+Tim The Thanksgiving prayer: “Many thanks to the gods that you are healthy 
+and well this year. I give thanks to this God because He protected me and 
+you.” It’s just what you say. When you read Paul’s letters, he’s taken the 
+Thanksgiving and he’s turned it into a whole movement of the letter. 
+ Here’s another little fun homework assignment. Go through all of the New 
+Testament letters and study the Thanksgiving prayer. What you will find, and 
+more often than not, is all of the key themes or vocabulary that is going to be 
+developed in the letter is introduced in that opening prayer in a really cool 
+way. It shows that Paul especially saw the Thanksgiving prayer, first of all, as 
+Jewish, it’s just good biblical style to give thanks to God. And then you fill out 
+your thanksgiving to God. It’s like a third of the Psalms in the book of Psalms. 00:10:00  6 So what he’s done is taken the Thanksgiving prayer and 
+really filled it out as a communication tool, and to make 
+these theologically and poetically quite beautiful. 
+Jon So don’t skip it?
+Tim Don’t skip it. No, they’re super important.
+Jon Looking at your chart, he always has a Thanksgiving 
+except for the book of Galatians.
+Tim Yes, he’s got no thanks.
+Jon He’s not thankful.
+Tim No. In the place where you expect him to say “I give thanks to 
+God for you,” in Galatians 1:6, he just began, “I am stunned that 
+you have so quickly abandoned the good news about Jesus.” 
+Jon It’s the opposite of giving thanks.
+Tim Yeah, totally. So the absence of thanksgiving in 
+the letter to the Galatians sticks out. 
+Jon All right. So we got the opening, and then Thanksgiving 
+prayer, you could start it all see what Paul’s doing with 
+those or whoever is writing it. And then the body.
+Tim Then you come to the body, which we’ll talk about in a moment. 
+Jon Okay.
+Tim Then the final main form or standard convection is the closing, 
+which is actually fairly flexible, but it has common elements 
+in it. You usually pronounced a peace benediction...
+Jon Closing Thanksgiving of sorts. 
+Tim Yeah, that’s right. But peace be upon you and your so and so, 
+peace on you and your animals this year, that kind of thing.
+Jon The church would call this the benediction.
+Tim The benediction. That’s right. Yeah, that’s right. So what Paul will often do 
+is use the word “peace” but in creative ways. Like in Thessalonians he’ll 
+say, “May the God of peace bless you and make you holy, faithful as the 
+one who called you.” Other times he’ll just say, like the end of the Romans, 
+“May the God of peace crush the Satan on your feet.” That kind of thing. 00:12:0000:11:00  7 So with the closing, there’s often a peace benediction. Or sometimes 
+he’ll boil what he wants them to do down to a really brief command 
+called the final exhortation. There’s usually greetings. “I say hi. 
+Say hi to so and so. So and so says hi.” Then sometimes he’ll even 
+identify his autograph. Like at the end of Galatians, he says, Look 
+what large letters I’m writing with my own hand.” Actually, that 
+goes back to our scribe conversation. What Paul’s saying...
+Jon He grabs the pen from the scribe. He’s like, “Hey, let me throw in a line.”
+Tim You can tell my handwriting because I have large, sloppy letters. That’s 
+what he’s saying. Because the scribes trying to maximize space on that.
+Jon He’s got small, tight, beautiful letters. Paul comes 
+in and he’s like, “ unintelligible .”
+Tim “Look at the huge letters of my name.” But the point is, “I’m the 
+one writing this to you like this?” Yeah, that’s it. So that’s the kind 
+of the closing. So once again, it really pays off to compare the final 
+chapters or paragraphs of all the letters. And you’ll notice unique 
+things that begin to mark each letter and kind of give you the 
+unique profile of each letter. It’s opening and them it’s closing.
+ And if you do that for all the letters, you can even start to see 
+there are things that will teach you what to look for when you 
+turn to the body of the letter. Key words, key ideas. 
+Jon Why did he describe himself that way in the opening, and 
+why did he pray this specific prayer and Thanksgiving? Why 
+was this his finished final exhortations? All those things are 
+clues to what he’s doing in the body of the letter?
+Tim Correct. That’s right. One of the most helpful ways to study and get 
+the main ideas of the letters is not just to follow the train of thought 
+in the middle, but actually, pay real close attention to the beginning 
+and the end. You’ll notice things that will set you up for success 
+reading the body. That’s the basic point. That’s the basic tool. 
+Jon Great.
+Tim I think we can do that in the video in a pretty short form. 
+Jon Yeah.
+Tim So that leaves...
+Jon In the video, Paul could be opening up like a Word 
+document template and filling it out?00:13:00
+00:13:22
+00:14:00  8Tim Yeah, totally. I feel like this could be real intuitive of just like in every 
+culture, people learn how to write a letter in standard ways. Those ways 
+existed in the 1st century. And then you could show what’s interesting is 
+to watch how the apostles though would adapt, tweak it. You could show 
+the standard and then show just the basic point that we just made.
+Jon Right. 
+Tim Okay, so turning then to the most difficult part of the 
+letters then to really make sense of the body. 
+New Section
+Tim First, a quote from Randolph Richards, who quoted from 
+already Paul in 1st century letter writing in his work. He says, 
+“Paul’s letters were inordinately long. The typical papyrus letter 
+was one papyrus sheet in the approximately 14,000...
+Jon Is a papyrus sheets about 8 by 11?
+Tim On, I think a bit smaller. I forget off the top of my head.
+Jon I just read last week, the Wikipedia page on papyrus because that’s 
+the project we’re talking about. And I learned a lot. It’s this plant 
+that grows in the flood plains of Egypt. It’s from the stalk of this 
+plant. It’s like a shoot. And then you slice that up and then you got 
+these thin pieces of strips. And then they put all the strips...
+Tim You weave them together.
+Jon You weave them together, and maybe smash it, and then they 
+maybe even decompose a little bit so that they kind of stick 
+together. Then it’s dried out and then even kind of ironed out. 
+But you can stitch together as long a sheet as you want.
+Tim Correct. That’s right.
+Jon So there’s probably some sort of typical sheet slice. 
+Tim I bet that’s right. I’m sure it was standardized in the production of them. 
+The first time I ever saw one of these it actually wasn’t papyrus. It was 
+leather parchment made of animal skin. But the Dead Sea Scrolls. And I 
+remember being blown away how tiny they are. They’re not huge. When 
+you see pictures of them, these are all magnified. But they’re like this thick.
+Jon What?
+Tim Yes. 00:16:1400:15:00
+00:17:00  9Jon That’s how tall they are?
+Tim Yes.
+Jon Your hands are about 6 inches?
+Tim No, 8 inches
+Jon Eight inches?
+Tim Yeah, 8 to 12. They’re not big.
+Jon Okay. Yeah, I always imagined them like... 
+Tim When you see pictures of them, they look huge.
+Jon It’s because the handwriting is so small?
+Tim Yeah. But they’re tiny and the handwriting is so unbelievably tiny. 
+Jon Wow. 
+Tim Anyway.
+Jon That’s why you need a pro.
+Tim You need a pro. It’s about economics too. 
+Jon All right.
+Tim Okay. We’ve only made it through two sentences. So back to Randy 
+Richards. “The typical pirate’s letter was one sheet. In the approximately 
+14,000 private letters preserved from Greco Roman antiquity, the 
+average length is about 87 words, ranging in length from 18 words 
+to 209 words. That’s long. The letters or literary masters like Cicero 
+or Seneca were considerably longer. For example, Cicero’s shortest 
+letter is 22 words. His longest letter is 2,500 words. “Nonetheless,” 
+Richard goes on, “Paul stands apart from them all. Paul, shortest 
+letter, Philemon, is 335. His longest letter, Romans, is 7,100 words.”
+Jon So the average length of a letter in Greco Roman 
+antiquity, which...what’s that? That’s like?
+Tim Oh, got it. These are mostly from 3rd century 
+BC up to like 1st or 2nd century AD.
+Jon Okay. So there’s 14,000 private letters that we have preserved, we 
+found. The average length is 87. The longest letter in that collection is 
+209. But then Cicero and Seneca, they live in Greco Roman times.
+Tim They are, yeah.
+Jon Why aren’t their letters part of that collection?00:19:0000:18:00  10Tim Oh, because they are wealthy elite. Their careers are...
+Jon They are like professional letter writers.
+Tim ...progressed through letter writing. And they were some of the best letter 
+writers in the ancient world, which is why their letters have been preserved.
+Jon So you take those guys out of there and you’re like, these are the elite 
+letter writers.” Cicero’s average letters look like the size of the longest 
+letter of any other ancient letters. Seneca’s is like three times that.
+Tim Cicero’s average letter is 295 words. Seneca’s average letter, 995 
+words. Paul’s average letter, 2,495 words. I mean, like two and a half 
+times longer than the longest letter writers of the ancient world. 
+Jon Paul has a lot to say.
+Tim Paul has a lot to say. That’s the basic point here. The body of Paul’s letters 
+are among the longest and have letters preserved from the ancient world. 
+Jon That’s really interesting. 
+Tim It is. 
+Jon We talked about that before. So I’m still trying to figure out like, 
+what’s the takeaway from that? I mean, that’s interesting that...
+Tim Part of it is that Paul, among all the apostles, as N.T. Wright says, he 
+is inventing the concept and the medium of written theology. 
+Jon So that’s what I think I mean with pushing communication 
+technology. It’s like he’s got...Yeah.
+Tim He doesn’t just retell the stories, he doesn’t just quote the poetry 
+or makes exhortations, he’s developed a whole new way of 
+philosophical theological discourse of thinking through what 
+happened in the life, death and resurrection of Jesus.
+Jon Seneca was doing similar stuff, and in Cicero, right? But he’s like 
+taking it to another level. He like found a fourth and fifth gear.
+Tim What’s Cicero and Seneca, for the most part, doing is mediating 
+the traditions in which they were raised. Oh, and a lot of his 
+posturing. A lot of its rhetoric. And it’s just making friends with 
+so and so. Career strategy. For Paul, he’ll write something like the 
+letter to the Romans to a couple of hundred people in Rome.
+Jon Really it’s for everyone. 00:20:00
+00:21:00  11Tim Think about the impact of the letter to the Romans throughout history 
+and that the original audience is a couple of hundred people. What the 
+majority of the letter is his theological reasoning in light of the story of the 
+Bible and what happened with Jesus as to why they should unify together. 
+So Paul’s got a lot to say because of his unique calling and vocation.
+Jon So Seneca didn’t just write letters. He wrote like essays of sorts?
+Tim Yeah. Or his letters will have short essays. I’m not an expert. 
+Jon There’s 1st century letter writing. Was our 1st century essay writing?
+Tim Oh, yeah, sure. That’s often what’s in these letters. This is why in the era of 
+letter writing pretty much before email, this is why people preserve famous...
+Jon Correspondences.
+Tim Yeah, correspondence of famous or influential people is 
+because often their letters will have short essays and...
+Jon Beautiful thoughts in them.
+Tim Yeah, that’s right.
+Jon So these are really long bodies of letters.
+Tim Yeah, Paul’s letters, especially, but also Hebrews, and to a certain degree, 
+1 Peter, they’re pretty long, dense bodies. So there’s two things. One is 
+learning how to follow the main themes and the flow of thought through 
+a dense body from any time in place. But then second is when you have 
+Messianic Jewish authors who are using Greek and Roman rhetorical 
+styles to create that flow of thought, then that takes a little bit of adjusting 
+too. I think those are just the two basic steps. One is just thinking like, 
+“Hey, I’m entering another culture’s way of arguing a point and...
+Jon We’ve talked about this before, and like there’s two cultures we have 
+to wade through to get to what Paul’s doing. Because he’s thinking in 
+Hebrew and Jewish, shaped by Hebrew Bible. But then he’s writing 
+in Greek and he’s using Greek rhetorical style and a Greek letter 
+template, and we’re reading it in English and thinking in English.
+Tim Correct. So as with any part of the Bible, it’s a cross-cultural moment 
+to adjust. I’ve totally had this experience myself, and I’ve talked 
+with other people, especially Paul, that he comes across pretty 
+bombastic sometimes or just very aggressive or assertive. And it’s 
+off-putting for a lot of modern Western readers, I have found.
+Jon I could have imagined that’s his personality too if you met him.
+Tim I think there’s an element of personality...00:23:00
+00:24:0000:22:00  12Jon That I might be like, “This guy, he’s very sure of what he believes 
+and he talks a lot.” I’m just imagining that’s how I would feel.
+Tim Totally. But another part of it too is he was trained in the Greco Roman style 
+of giving speeches and trained in rhetoric. If you learn the art of debate 
+rhetoric if that’s a part of your training, and it was certainly a part of his 
+training and a part of education back then, it was a way of presenting your 
+thoughts to a public audience. It was a whole tradition that for the most part, 
+Western audiences works totally...we swim in a different river altogether.
+Jon I’m sure there’s still part of that in our culture. I mean, 
+were you ever part of speech debate team?
+Tim Oh, I never was.
+Jon Me neither.
+Tim But it’s a mode. It’s a mode you enter into. In fact, here’s a quote from 
+Jerome Murphy O’Connor. Very helpful. Murphy O’Connor says, “Oratory 
+and rhetoric are about the art of persuasion. At all times, and places the 
+ability to win others to one’s point of view has been esteemed, and in 
+all spheres of life, business, politics, law relationship. In the democratic 
+societies of Greece and Rome, success in public life depended on 
+eloquence. It was the hallmark of civilization and the characteristic of 
+an educated person. And while some were gifted in finding the key to 
+an audience’s heart, the majority were not. And so began the project of 
+studying and codifying the art of persuasion in Greco Roman education.” 
+ This was like a whole field that you’re trained in. It’s the equivalent of, 
+I think, what at least the American education systems what I know of 
+like math and science now. This was one of the standard tracks. 
+Jon Math, science, and rhetoric.
+Tim Rhetoric—learning how to articulate your thoughts in a way that 
+is winsome, persuasive, and gets things done. It’s an art.
+Jon Yes. I took this really interesting class. It was at a community college. 
+They took a philosophy class and a speech class, and they combined it.
+Tim Oh, interesting. 
+Jon So there was the speech teacher there and the philosophy teacher 
+there. So half the class was talking philosophy, then the other half 
+the class was now we’re going to talk about how we would present 
+these ideas to each other. And then you would do speeches of 
+different types. It’s all about how do you persuade someone? 00:25:00
+00:26:00
+00:27:00  13Tim Yeah, that’s right.
+Jon How do you give a good presentation? Still super valuable.
+Tim Totally. I took my first speech class in college. 
+Jon And it still rules the world in terms of career. If you’ve ever 
+gone on LinkedIn, it’s just what people are...they’re just talking 
+either to the camera or giving little blurbs and trying to...
+Tim You could say it’s actually a universal kind of human trait. In a group 
+of people that they get together and forms a society, the ability to 
+communicate persuasively to get things done is super valuable.
+Jon Super valuable.
+Tim Some people have innate talent and confidence to be able to do it. But 
+nobody can do it perfectly without training. I mean, you have to work at 
+it, to practice. In the 1st century, there was a whole system. Actually, a 
+lot Aristotle, Plato, all of them have famous essays and tracks on rhetoric 
+and persuasion, and so on. The most famous kind of like Godfather who 
+codified and wrote the handbook, it’s still a guy named Democritus. 
+ But in the Greco Roman tradition, there were three main forms 
+that you were trained in. This was actually helpful for me, 
+because as I’ve sat with the New Testament letters for many 
+years, it’s helped me kind of know what mode they’re in.
+ The first is called deliberative, and it’s essentially when you’re persuading 
+people to do something. So you’ll use examples from the past, you’ll project 
+future outcomes, you’re using reason, but not always logic, and not always 
+data. You’re using reason or just persuasion to get people to do something. 
+So persuasion mode. Paul is often in this mode. When he’s trying to get 
+the Corinthians to stop doing something, he’ll get into persuasion mode. 
+ Another is called forensic, which is essentially law 
+code. But it’s you get into attack mode.
+Jon Dismantling someone’s position?
+Tim Yeah. You attack someone’s credibility or the credibility of someone’s case. 
+You point out how something that’s crazy, insane, ridiculous, and then you 
+establish your own point of view as clearly superior and so on. I find that 
+this is the mode that it’s most off-putting to modern Westerners. Unless I 
+guess you’ve been in debate class, which I never was in debate. Anyway.
+ Then the third is what’s called display rhetoric. This is interesting, 
+because in display rhetoric, you’re actually not trying to make any new 
+points or ideas. What you’re doing is elevating certain people and values 00:28:00
+00:29:00
+00:30:00  14and decisions as like, “This is what we’re all about.” You’re celebrating 
+certain choices and paths or devaluing others. This is how 1 John works 
+completely. In 1 John, there isn’t really anything new. In fact, he says it 
+multiple points “You already know everything I’m writing to you.” So you’re 
+persuading people and reminding them of what they already think they 
+value and you’re just holding it up as like, “Listen, you say you value this.” 
+ So these are kind of three modes. All of them are at 
+work at different point in the New Testament.
+Tim And these are modes that in the ancient Greco Roman world...
+Tim People are trained in.
+Jon They’re specifically trained in these three modes.
+Tim Correct. Deliberative.
+Jon Deliberative. I want you to do something, so I’m going to try to convince 
+you to do that thing. Forensic is I’m trying to prove a position against 
+someone else’s position. So there’s a lot of tearing down the other position.
+Tim Yeah, that’s right.
+Jon Display rhetoric is just...
+Tim You’re reinforcing what you think your audience already believes but you’re 
+trying to remind them and reinforce it so that they’ll keep valuing that thing.
+Jon This is happening everywhere in culture. Yesterday, the US Senate 
+began its impeachment trial. It went like all day. So it was...
+Tim And late into the night.
+Jon Late in the night. Because I turned it on at night to listen to some of it....
+Tim West Coast time.
+Jon West Coast time. So it was midnight out there. And as I listened about half 
+hour, and it was a lot of forensic rhetoric. It was a lot of like, “Let me explain 
+why the other positions is just untenable and ridiculous.” And deliberative 
+rhetoric of like, “I want you to now really appreciate my position.”
+Tim That’s right.
+Jon And it really is all rhetoric. 
+Tim Persuasion.
+Jon It’s all persuasion.
+Tim That’s right.00:31:00
+00:32:00  15Jon And they literally are trying to persuade a few people 
+to change the way they’re going to vote.
+Tim Sitting at the front of the room.
+Jon I want to persuade you to change the way you think. 
+Tim Totally. Yeah, that’s exactly right. So for sure, Paul’s writing and 
+vocabulary display as all the signs of being raised in Jewish 
+education system and then in his adult years being formed in some 
+way through the Greco Roman education system. When you read 
+Seneca’s letters, you feel like Paul and Seneca were buddies. They 
+talk like each other in how they make their arguments and points 
+and what they’re reflecting is a common educational track.
+Jon Seneca was like in this stoke school of thought, right?
+Tim Oh, I believe so. To summarize this point about rhetoric, essentially, what the 
+body of the letters are is they’re stylized speeches. They’re literary stylized, 
+condensed speeches using persuasive, forensic, and display rhetoric and 
+different strategies. Here, I’ll let Murphy O’Connor say this again. He said it 
+well. First, let me contrast it. I think when I was introduced to the Bible, one 
+of the main modes that I was introduced to was the theological handbook 
+model, was I’m trying to form my beliefs as a new Christian in my 20s, what 
+should I believe? And what should I do? So theological Handbook, where I 
+go to certain verses to establish a belief based on the information inaudible . 
+ So what this mode is adopting is learning to read the letters as 
+communication wholes. And notice that their goal actually isn’t 
+just or even primarily to give me information. These letters are 
+communication acts between two people, and they’re designed 
+to do something. They’re trying to get something done.
+Jon Convince me of something.
+Tim Yeah. Or to get a certain group of people to actually do something. 
+So Murphy O’Connor puts it this way. He says, “Paul never put a pen 
+to paper except when it was absolutely imperative. A letter for Paul 
+always had a definite goal. He designed it to accomplish something. 
+Lacking any mechanism to impose his will, he couldn’t enforce. He was 
+inescapably bound persuasion. And in the ancient world, persuasion 
+was the staple of the educated who were all trained in rhetoric.”
+ So this interesting. Paul forms these communities, but these 
+are all voluntary associations. The churches. People can 
+leave. So he doesn’t have power over them the way...
+Jon Unless they give it to him.00:33:00
+00:33:36
+00:34:00  16Tim ...the senator would. So what you see Paul doing is trying to 
+persuade people to the Christian worldview. So anytime he’s 
+communicating theology, it’s always in the service of some goal, 
+very practical goal that he’s driving at in the course of the letter.
+Jon I think what I hear you saying is, as you’re reading a letter, there is a 
+purpose for him writing that letter, it isn’t “I want to give you a bunch 
+of theological thoughts for you to dig out at your pleasure.” It’s usually 
+something very tangible. “You guys need to stop living in this way. 
+Start doing these kind of things.” And all of that’s reinforced through 
+rhetoric. And in that rhetoric, he does make theological claims. But 
+those theological claims are always serving the other thing. 
+Tim That’s right.
+Jon So to isolate the theological claim and then build something all 
+around it apart from what he’s doing, you can get in trouble.
+Tim You can get in trouble. That’s right. We’re kind of back to the first one of 
+what you call situational context. What can I learn about the situation he’s 
+writing into to understand his goals? Then knowing what his goals are 
+will help me read the body of the letter and its flow of thought with more 
+precision. Honoring his intent more, basically. So that’s the first basic point. 
+They are written speeches designed to accomplish something and they’re 
+using rhetoric to do it. That’s one whole thing. We could go much further 
+down that rabbit hole, but it’s just a point to make that I found very helpful.
+ So that leaves really the most practical work left, which is to 
+actually just read and reread and reread the body of the letter, 
+and to follow it. I have found four practical steps to be immensely 
+helpful. So I think what would be helpful is actually the pick a letter 
+for us and for the video. I think the letter to the Ephesians could 
+be really helpful. And just to kind of illustrate these steps.
+Jon These steps?
+Tim Yeah. There we go. Four steps to a better life by 
+reading the New Testament letters.
+New Section
+Tim Step one. Get a sense of the whole body and 
+isolate the paragraphs. Main paragraphs.
+Jon Now Paul didn’t write or any of these authors didn’t write in paragraphs.
+Tim Correct.00:37:0000:35:00
+00:36:00
+00:37:40  17Jon It would all be just one dense...
+Tim Yeah, one dense text.
+Jon Maximizing space.
+Tim That’s right. So remember they were designed to be listened to. 
+So what you’re looking for is cues for transitions between bodies 
+of thought. Now, let’s talk about paragraphs for a second.
+Tim Okay.
+Jon Because I was never really taught what a paragraph is. I think I had to 
+intuit it. Even to this day, there’s times when I’m writing something, and 
+I’m like, “I’m going to put a paragraph here.” I could also not. I could 
+put these two together.” It almost feels like an art, not a science.
+Tim It’s totally an art. It’s absolutely an art
+Jon What makes a paragraph? And why are we isolating paragraphs?
+Tim Oh, yeah, good. So you got the body of the letter. There’s something 
+that Paul or Peter wants to accomplish, and they’ve written a movement 
+of thought to take me on a journey somewhere. So going next level. 
+This is about learning to take my Bible reading to the next level.
+Jon Because you could read that. You read the whole body in one go.
+Tim In one go.
+Jon And most letters you could do that in 15, 20 minutes. 
+You can get a sense of what he’s doing. 
+Tim Yeah, some main ideas, good one-liners, the basic flow of 
+thought. So yeah, this is about taking your Bible reading one step 
+further and really making more explicit and tracing and going 
+slower to identify each step of where they’ve taken me and what 
+each step is actually doing and how it fits into the whole.
+Jon Now, a lot of Bibles have tried to do that for you.
+Tim They have broken things into paragraphs.
+Jon They break into paragraphs, and oftentimes even 
+sections. Like, “Here’s a header for you.” 
+Tim And often giving them little summary headings that 
+are sometimes helpful, sometimes unhelpful.
+Jon So most likely in an opening row, you’re going to find that was 
+already broken down into paragraphs and main thoughts.00:39:00  18Tim That’s right. They’re usually maybe indent. Different Bibles have different 
+conventions for how they marked paragraphs. But what you’ll find in 
+the body of letters is that each paragraph will almost always begin 
+with what the author intended as a cue, an oral cue. For like Phoebe 
+who’s performing the letter to the Romans to a group of people, these 
+would be cues that Phoebe would be following as she reads it aloud.
+Jon I see. These would be kind of like “therefores”? 
+Tim Yeah. I’m going to call a group of words called logical connectors. 
+They’re hinge words that transition between a paragraph and a 
+new paragraph. So yeah, it can be as simple as “and” but more 
+often, words like “therefore”, “for this reason”, “because of this”. So, 
+here. Ephesians essentially consists of about 13 large paragraphs, 
+and each one of them begins with a line like “For this reason.”
+Jon You haven’t defined paragraph yet.
+Tim Oh, a paragraph is either one focused movement of thought on a 
+specific topic or idea. Or sometimes it will be a paragraph has itself 
+a progression of thought within it. But it’s a coherent, complete 
+movement of thought signaled by these words called logical 
+connectors. So as you go through, what you can often do is trace—
+and the translators will usually have done it for you—trace what are 
+the paragraphs and identify the logical connector words that are 
+the hinges between them. So “for this reason”, “and as for you”...
+Jon The logical connective word.
+Tim ...”therefore”, “on account of this”, “now then”, “so then”. You get 
+the idea. “Finally then”. So visually when you’re reading, this help. 
+But this is why listening to something I find sometimes listening 
+and reading, and you’ll just start to notice these cues. So the 
+first step in tracing the argument and flow of thought...
+Jon Would you recommend for someone then to have a Bible that 
+doesn’t already do it for you just so you can practice doing it?
+Tim You can. Yeah, totally. A practice I’ve been getting into 
+in general for study mode is to get a digital Bible, get my 
+computer out, and copy and paste to a Word doc... 
+Jon With no formatting?
+Tim With no formatting. And just start doing the work myself. It forces you 
+to slow down, pay attention in a way you wouldn’t normally. These sorts 
+of hinge words that summarize or transition paragraphs they really 00:41:00
+00:42:0000:40:00  19stick out. Then there are some parts where you realize like, “Oh, the 
+translators in my Bible made a decision to make a new paragraph here.
+Jon I don’t know if I would have done that.
+Tim I maybe wouldn’t have done that. But it gets you 
+thinking in a way that you wouldn’t have.
+Jon Or maybe I didn’t see something that they saw.
+Tim Correct. You know, there’s the difference between sitting down and 
+eating a meal that’s been prepared for you and then going back 
+in the kitchen and getting the raw ingredients, and then making 
+it yourself. It’s been huge for me to just copy and paste.
+Jon When you copy and paste from an online Bible, when I’ve done that, it always 
+pulls over the verse markers, and oftentimes other footnote notations.
+Tim Oh, yeah.
+Jon Do you have any way around that?
+Tim I don’t know. For study...
+Jon Are you doing in Logos? 
+Tim I do in Logos. But I’ll just copy and paste usually the New 
+American Standard because it’s the most kind of word for word. 
+But I try and find a version of copy and paste that doesn’t have 
+all the extra. So the first is just isolate the ingredients.
+Jon The main paragraphs, the main flow thoughts. One of the authors shift 
+from one idea and kind of finish up that idea and then go to the next.
+Tim Correct.
+Jon And there’s usually a logical connector of sorts. Like, therefore, finally. 
+Tim That’s right. 
+Jon And that’s a hinge.
+Tim Again, they’re designed to be listened to and feel like a short 
+speech. So usually, those logical connectors will stick out as 
+oral cues to the transition. First, get all the main paragraphs. For 
+Romans, it takes a long time. There are so many paragraphs.
+Jon But in Ephesians, there’s only 13.
+Tim Yeah. There’s a few debatable points, but there’s 13. 
+Jon And that’s just for the body or is that for the whole thing?00:43:00
+00:44:00  20Tim That’s for the body? 
+Jon For the body. Thirteen in the body. 
+Tim That’s right. That’s the first step. These steps are cyclical. The more 
+you go through them, the more you’ll be like, “Oh, I see. I think that is a 
+paragraph” or “I think what I thought was a paragraph is actually two now.”
+ Step two. Set each paragraph aside, and you’re going to do individual work 
+on it just studying it. So first is pay extra lavish attention to the opening 
+paragraph. So very often, and especially Paul, Peter is like this too, the 
+opening paragraphs are a little Symphony condensing all of the main...
+Kind of like Thanksgiving prayer, but then ratchet it up. Here’s the basic 
+thing. Everything that spills out of this is going to be coming back to the 
+vocabulary and ideas of that opening movement, opening paragraph.
+ For example, if we’re going to go with Ephesians, the opening paragraph of 
+Ephesians is so remarkable. It’s a beautiful poem that works in three steps, 
+and ends each step with the same phrase, a little refrain, to the praise 
+of God’s glory, or to the praise of God’s glorious grace. There are three 
+movements. In good Hebrew Bible form, the first and third movements 
+are symmetrical in vocabulary. The Trinitarian, where he’s praising the 
+Father, and the Messiah, and the Spirit for blessing and choosing us.
+ Then in the very center of the opening paragraph, he has this 
+key point, which is going to unfold...literally, every paragraph in 
+Ephesians is going to unfold something related to the thing at the 
+very center of the opening paragraph. Which in Ephesians, Paul 
+calls the mysterion. “God has made known to us the mystery.” It 
+gets translated mysteries sometimes. I like the translation of Lesslie 
+Newbigin. He translates the word “mystery” as the “open secret”. 
+Jon Open secret.
+Tim Yeah. In English, mystery means something that is still hidden.
+Jon Something hidden, yeah.
+Tim In Greek, mysterion mean something that was hidden, but now is out. 
+Jon But now is available. Do we have another word for that? 
+I guess we don’t. If Leslie had a better word.
+Tim Yeah. The open secret. So these are the sentences at the center 
+of the opening paragraph of Ephesians. “He made known to us 
+the open secret of his will, according to this kind intention that he 
+purposed in the Messiah. This was in accordance with his purpose 
+that he pre-planned in the Messiah for the purpose of arranging 
+the fulfillment of the times.” This paragraph is remarkable.00:45:00
+00:46:00  21 Clearly, the point is God’s been up to something, a plan, and that plan 
+came to its fulfillment. And it’s all been worked out. And what is the 
+open secret that has been pre-planned? It’s to head up or summarize. 
+We’ll talk about this. To summarize or head up all things in the Messiah, 
+things in heaven and things on earth. So it’s all about the heaven and 
+earth coming together, becoming one in the Messiah through His 
+life, death, resurrection, and ascension to become the cosmic King. 
+There it is. I mean, he’s made his main point in the first paragraph. 
+ Not all of the opening paragraphs are designed 
+quite as exquisitely as Ephesians.
+Jon Well, is this likely a prayer or a poem that he had and then go, 
+“Oh, that would be great to open the letter with this poem?
+Tim It’s a great question. It begins the way a number of Psalms begin 
+in the book of Psalms. So he’s written it as a Messianic Jewish 
+psalm but it’s so clearly dialed in to the vocabulary and ideas that 
+are going to repeat throughout the letter. Even if it had a pre-
+existence, he’s adapted it to be the introduction of his letter.
+Jon Okay. So we’re in step two, we take one paragraph, and we just...you can 
+even break that down. You can see, like, for example, in this first paragraph 
+in Ephesians, it’s got a three-part flow. It’s a chasm of sorts. And in the center 
+of it, he’s making a point that ends up really summarizing the whole book. 
+Tim That’s right. That’s right. And gives you the vocabulary that he’s going to 
+work out through the rest of it. Because what he’s going to go on is then 
+begin to talk about how God has brought together Israelites and non-
+Israelites, the nations together into one body. That’s going to be major theme 
+of the letter. Then he’s going to talk about how within just the community 
+of Jesus, slave and free, and the poor, and the rich you’ve all been brought 
+together into one. Then he’s going to go to the household, the husband 
+and wife are brought together as one. The slave and Master are one.
+Jon This is heading up all things?
+Tim It’s about all things being unified in the Messiah. So he’s introducing 
+it here, and then the rest of the letter he’s going to be working out 
+how it is exactly that heaven and earth and all things on heaven and 
+earth have been made one in the Messiah. That’s the basic idea.
+Jon And it is usually the case that his first paragraph does this kind of work.
+Tim Yeah. The Thanksgiving and then opening paragraph are often these places 
+where he introduces. So what you’re going to do, then, step three, then 00:48:00
+00:49:0000:47:00  22is to then go forward. And if you’ve isolated all the paragraphs, you’re just 
+going to now kind of work your way through them and just study each one.
+Jon So step two is just the first paragraph.
+Tim One is isolate all the paragraphs. Step two, give a little extra love 
+to the first paragraph because it’s usually very strategic.
+Jon Step three is now go through and look at all of them.
+Tim Go through and just...and I find over time...
+Jon So you just summarize like, “Oh, this paragraph is about 
+this,” and try to create your own headers almost.
+Tim Yeah, I’ll create my own summaries, identify repeated words. 
+So this is where repeated words come in really...
+Jon Repeated words within a paragraph?
+Tim Studying repeated words within a paragraph. That’s what we’re 
+focusing on right now. This is the most intuitive thing. It was one of 
+the first skills I learned reading the Bible is learning to pay attention 
+to repeated words. Which doesn’t mean the identical word. It can 
+be a group of words or related words. This happens a lot in the 
+Hebrew Bible. This is what a German scholar Martin Buber called...
+we call it in German light word. In English, it means lead word.
+ Israelite biblical style of communication and the apostles pick it 
+up where they’ll have a word group or a key image that just works 
+through the whole paragraph. I find getting colored markers and 
+isolating repeated words and ideas, and then you can just see it in 
+color. You can just see the flow of thought through the ideas.
+ So I have one example. For podcast listeners, this is not 
+going to be that helpful. But I just put Romans 8.
+Jon And then you highlighted keywords. Would you consider this one paragraph? 
+Tim Oh, I just have the whole chapter.
+Jon Oh, you have the whole chapter.
+Tim Just have the whole chapter here. So forget even the paragraphs 
+within the chapter. I’m just paying attention to words.
+Jon So you’re doing repeated words across a whole string of paragraphs?
+Tim Yeah, within one chapter. That’s right. Totally. I should 
+have technically broken into paragraphs.00:51:0000:50:00  23Jon And obviously, there’s no one correct way of doing this. But you’re 
+kind of giving a progression. And in your progression, you isolate the 
+paragraphs and then you look at just the key words within a paragraph 
+first before you start seeing key words that go across paragraphs.
+Tim Correct. That’s right.
+Jon Okay.
+Tim Romans 8 is itself a whole movement that culminates chapters 5 through 
+8 and then culminates, and a new movement of the letter begins.
+Jon When letters get really long like Romans, you could have paragraphs that 
+lead up to the body. It’s almost like you get these new paragraphs that 
+lead up to like whole movements and movements that build the body.
+Tim That’s right. The main movements of Romans are like 1 through 4, 5 through 
+eight, 9 to 11, 12 to 15. Then within each of those, there’s paragraphs and 
+subheadings and stuff like that. This is more just an exercise to say, here’s 
+Romans, chapter 8.” And you can just see the spirit is through almost the 
+entire chapter, in almost all the key important movements of thought.
+ This contrast between spirit and flesh goes all the way up through 
+verses 1 to 13. Then you don’t see flesh anymore. What you see is 
+spirit and family language. So the spirit is dealing with the flesh in 
+the first movement. Then the spirit is creating the new family of God: 
+children, Father, heirs, children, childbirth, sonship, firstborn. Then the 
+whole chapter culminates in this dense repetition of the word “love”. 
+The love of Christ, the one who loved us with the love of God.
+ Even just like going through and with a marker, and you can just start to see 
+big movements of thought of the spirit is dealing with the old humanity, 
+creating a new family. And it all culminates in the love of God. And just that 
+right there is cool to notice. You can even just see a movement of thought 
+by paying attention to the color of your markers and noting repeated words.
+Jon It seems like this is the most valuable when you do it across 
+paragraphs, so you can see the flow of thought.
+Tim If you’re looking at Romans 8:1-13, what you’ll notice is a dense 
+repetition of “spirit” and “flesh” and dense repetition of “death” and 
+“life” vocabulary. Like right in here, verses 1 through 11, would be like 
+a paragraph. Then as you begin verse 12, you get a therefore, new 
+paragraph, you get a little spirit and flesh, it’s like a hinge, and then 
+he starts moving into the spirit and the new family language.00:53:00
+00:54:0000:52:00  24 This would be like one paragraph to study verses 1 through 11, 
+and just noticing what’s going on here. Yeah, isolate the next 
+one, noticing there. But it’s the same skill set as the do the next 
+step, which is start to notice patterns repetition across.
+Jon Once you’ve done it, or just individual paragraphs, and 
+you can step back and look at the whole thing.
+Tim Yeah. And usually, it’s happening simultaneously. So I think visually what 
+we can do in the video, I think we can communicate this all pretty simply. 
+To say there are ancient style speeches, they have movements of thought, 
+broken into paragraphs, indicated by logical connectors. That’s one step.
+ Second step is start noticing we can use color or something, repetition of 
+words within individual bits, and then how whole themes occur across the 
+letters repetition. That’s pretty simple point. But at least for me, it’s taken 
+me years of reading and rereading to really get it. Because this is dense. 
+Jon Yeah. I mean, once you’ve done this, it’s not like all 
+of a sudden, “Oh, it’s all makes sense now.”
+Tim Yeah, totally. Sure. There’s still individual bits or paragraphs 
+where you’re just like, “How does that fit in?”
+New Section
+Jon This is step three or this is step four? 
+Tim Step three is identify repeated words within individual paragraphs. The 
+next part of step three is follow it throughout paragraphs. This is what your 
+intuition is. So if you do it through Ephesians, for example, if we wanted 
+to do it through Ephesians, it would be about the unity of all things in 
+heaven on earth and the Messiah. And then what you would start to pay 
+attention to is, okay, this image of many becoming one, things coming 
+together, things unify, things coming under the head, the verbiage is to 
+head up, is all going to be connected. And so lo and behold, the next 
+paragraph culminates with Jesus being made head over all things. 
+ Chapter 2 has this long thing about Jew and non-Jew, the two becoming 
+one in one body. In chapter 3, it’s about my role as an apostle, that Jews 
+and non-Jews are fellow heirs in the same body. Chapter 4 has this long 
+bit about how we’re all really different, but we all are part of one body 
+with one spirit and one hope. So you can start to see the key vocabulary 
+of unity and oneness and body summary. And it’s just like a red thread 
+throughout the whole letter from beginning to end. And it was all given 
+to you in that first paragraph. Then you notice it in each individual 
+paragraph, and then you see it like a thread uniting all the paragraphs.00:55:00
+00:56:04
+00:57:00  25 So the last step is go back, and you’ve got repeated words in each 
+paragraph throughout. Now, come back to those clues that helped 
+you identify paragraphs in the first place, those logical connectors, 
+and then take them seriously. It’s like a building of an argument.
+ So the opening prayer of Ephesians 1:15, “For this reason.” Chapter 
+2, verse 1, “And as for you.” Then really allow those to inform the 
+logic of how the paragraphs progress as a flow of thought. There 
+you go. You feel like you’re being taken on a ride. All of a sudden, 
+the role that a paragraph plays within the larger whole, you begin 
+to see it more as like a little movement within a big symphony.
+ What I have found is as I begin to read the letters as holds this way, the 
+old mode of treating these letters as theological dictionary and coming 
+to a paragraph and just taking one verse out, it almost feels wrong. 
+Because what I’ll be asking is, “No, wait a minute, this paragraph comes 
+at this point in the argument. And in light of the whole, it’s making this 
+point.” I guess you can quote it out of context and use it to make this 
+point. And sometimes you’d be like, “Oh, yeah, that’s what Paul was 
+trying to say. That’s a good point. I should build that into my theology.” 
+ But it’ll also really help you spot verses that are taken out of context. 
+And then you’ll kind of be able to see maybe when there’s some 
+verse or some idea that you had that was being built on verse 
+being totally taken out of context in the flow of thought.
+Jon Here’s what I’ve I find is my experience in the letters. I’m now 
+imagining, “Okay, I’m going to do this exercise” is I’m going to get 
+to a paragraph and I’m going to get to a sentence in a paragraph. 
+And that sentence is just going to confuse me and confound me. 
+Tim Oh, sure. Yeah, yeah.
+Jon And it’s going to use a word that’s just loaded in my mind, like predestined 
+or something. And then I’m going to start thinking about everything I 
+think that might mean and I’ll just get stuck there. My intuition is I got 
+to solve this, I got to figure out what Paul means here. I guess what I’m 
+hearing potentially is some freedom to then not try to solve all the like, 
+what does Paul exactly mean by this term? And what is his theology 
+behind this and that? It’s to just move on and really try to see what’s 
+he doing in this letter and not get tripped up by those questions?
+Tim Yeah. But I build lists of those questions.
+Jon You start marking those questions. 00:58:00
+00:59:00
+01:00:00   26Tim Yeah, you start marking them. And then I go back. Sometimes it’s the word 
+study. So it’d be like, okay, let’s dive in, create destination vocabulary. So 
+you get out of concordance. Where else did Paul use this word? Look 
+at all those? Where else is the word used in the New Testament and the 
+rest of the Bible? So sometimes a word study will be the next step if it’s a 
+word that’s throwing you. If it’s just the sentence doesn’t make any sense 
+to me, then you go to your nerd friend, Tim, and say, “Do you have any 
+commentary on Ephesians?” And I’ll be like, “Which one?” There you go.
+ But if you want to understand these texts, easiest skill set to develop is 
+what we just went through. That’s not going to solve everything but it’s 
+going to highlight all kinds of things. But my hunch is that you would 
+have a sense of “Okay, he’s at this point in the argument and it seems like 
+this is what he’s doing. I can see that’s what this paragraph is about...”
+Jon Helps me organize what I do and do not understand, or oftentimes I’ll 
+come to the part of the letter and it’s just like, “What is he talking about?” 
+And I have like a dozen questions. I feel frustrated. But now I have so 
+many questions. I don’t even know how to prioritize the questions. If 
+I open up someone else’s commentary, they have different questions 
+that they’re trying to answer sometimes. Not my questions. So now 
+I’ve got their questions and my questions. I just often find myself like, 
+“This is too much work.” What I hear this doing is at least it’s helping 
+me organize my questions and understand where they fit within the 
+whole flow of the body of the letter and get some more shape to it.
+Tim Totally. Yeah, that’s right. This is a process that I was introduced to in my 
+second class on how to study the Bible. I didn’t even know Greek. And I 
+just started doing this in English. Anybody could do this in translation. It’s 
+learning how to follow the big picture flow of thought, looking at each 
+step of the journey, and beginning to profile each paragraph. Then it 
+gives you a place to hang all your questions about each paragraph and 
+how it fits in at the words. It brings order to the chaos. Otherwise, you’re 
+just like, “What do you do with these huge bodies of these letters?”
+Jon What you do is you just find a part of it and read that part, you 
+meditate on it and hope that that gives you something.
+Tim That’s what most of us do. This is more just kind of “here’s a way 
+to take it easy next step.” And that can take you really far. What I 
+find then is when I do start using commentaries, I’m coming with 
+some insights that I’ve already gained on my own. I’m not a blank 
+slate anymore to just take whatever they say at face value. It’s 
+that I’m invested. So we haven’t addressed this. This is work. 
+Jon It is work.01:01:00 
+01:02:00 
+01:03:00   27Tim It’s work. It’s work to really understand these letters, and 
+internalize what they’re trying to communicate.
+New Section 
+Tim So another step, which would be like next level would be 
+when they quote from the Old Testament, go look it up.
+Jon You know what I’m realizing is there’s a couple of things like word 
+studies or looking at things in Old Testament. These are almost 
+like meta skills that we could add to the how to read the Bible. 
+Tim True. Oh, to the series?
+Jon To the series. I mean, we did one on design patterns, 
+which wasn’t originally on your list.
+Tim Correct. It’s true.
+Jon So kind of the same thing with word studies that 
+kind of get you in the same world.
+Tim There is a sense in which I think we could maybe build it into 
+this video. I feel like we could do even though it’s taken us a 
+while to talk through all of this, I feel like this is all...
+Jon Yeah, it’s very visual thing...
+Tim It’s visual. We can communicate it pretty simply. We could do a quick 
+little...it would just take 30 seconds of like a little bonus. “If you really 
+want to supercharge your reading, notice there’s always quoting from 
+the first three-quarters of the Bible. Start going and looking that up...
+Jon Go look that up
+Tim ...and read them in context. And you’ll either be confused like I 
+was actually most of the time, or you’ll see cool things. Then the 
+second would be word studies, which is essentially a concordance. 
+Technically, that could be its own video—how to do word studies.
+Jon But looking up, your translation will likely show you when 
+there is reference to another part of the Bible.
+Tim That’s right. If you’re quoting from another part of the Bible.
+Jon And sometimes they quote directly, and sometimes it’s more of a summary.
+Tim They’ll paraphrase; they’ll use a couple of words. Yeah, that’s right. 01:04:04
+01:05:00  28Jon What I found is most Bibles do a pretty good job of showing you those 
+in footnotes. But then what I find is I go look those up and now I’m in 
+another text, or I’m even more confused than the text it came from.
+Tim Yeah, totally.
+Jon So it’s truly like a two unintelligible  level.
+Tim That’s right. So this video is about the literary context, reading the letters 
+as wholes, crafted written speeches. Notice when they’re tweaking the 
+forms, and also learn how to follow and trace the flow of thought through 
+repeated words over the course of many paragraphs. There you go. 
+Jon That’s a lot of work.
+Tim That’s a whole lot of work and potential just right there.
+ Thank you, everybody, for listening to this episode of the BibleProject 
+podcast. This series on how to read the Bible, it’s done. We’re going 
+to release a final Q&R episode for this series on the letters. But this 
+How to Read the Bible series, it’s been years in the making. It’s a long 
+playlist of episodes in our podcast archive. Thank you for coming on 
+this amazing journey with us. John and I have learned so much.
+ If you want to submit a question for the last Q&R in the How to 
+Read the Bible series, you can submit it by the end of the day 
+Tuesday, August 4th. If you could record yourself asking a question 
+and then you can send it to us at info@bibleproject.com. Also 
+Goldstar if you could write out the question, transcribe it for us. 
+Also, we’d love to know your name and where you’re from.
+ Today’s show is produced by Dan Gummel, the show notes were 
+produced by Camden McAfee, and the theme music is from the band 
+Tents. This whole series of podcasts conversations on how to read 
+the Bible goes along with a collection of videos on how to read the 
+Bible that we made for the BibleProject. You can find all of that on 
+YouTube or on the Bible project website, which is bibleproject.com. 
+It’s all available for free, and that’s because of the generous support of 
+all kinds of people around the world just like you all. So thank you so 
+much, everybody. And thank you for being a part of this with us. 
+Saavi  Hi, this is Saavi SP and I’m from India. I first heard about the BibleProject 
+when I watched one of their videos on YouTube. I use the BibleProject 
+for having a better understanding of the Bible. My favorite thing 
+about the BibleProject is the wonderful and engaging animation 
+and how they break down complex theology into things that I can 01:05:56
+01:06:00
+01:07:00
+01:08:00  29understand. We believe the Bible is a unified story that leads to Jesus. 
+We are a crowdfunded project by people like me. Find free videos, 
+study notes, podcast, classes, and more at bibleproject.com. 

@@ -1,0 +1,967 @@
+ 
+ 
+ 
+ 
+H2R P14 -Design Patterns E2  
+Live from Milpitas  
+Podcast Date: April 19, 2018  
+(78:43)  
+ 
+ 
+Speakers in the audio file:  
+Jon Collins  
+Tim Mackie  
+Daud  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Live from Milpitas  
+2 
+ Jon: Hey, this is Jon from The Bible Project. Today on the podcast, we're going to finish 
+the conversation that we began last week. It's a live conversation that Tim and I had 
+in Milpitas, California at the end of last year on Design Patterns. If you haven't 
+listened to the las t episode, I highly recommend you do that. We introduced the idea 
+of design patterns. Walk through one in particular in detail so that you can 
+understand what it is and how significant it is to understanding the Bible as 
+literature. This conversation, we c omplete that.  
+ We have the video on Design Patterns up on our YouTube channel that you can 
+watch. It's Youtube.com/thebibleproject. Without further ado, here is the rest of our 
+conversation from Milpitas, California.  
+Jon: We're talking about biblical narra tive and the sophistication that biblical authors 
+have in linking together ideas through repetition. At this point, to me, it kind of 
+seems like this is pretty simple. This doesn't seem unexpected to me.  
+Tim: Intuitive.  
+Jon: When you've been telling me lik e, "Oh, man, this has been blowing my mind," I 
+didn't think you just were going to talk about how words repeat."  
+Tim: No. But you know me. We're both the same way. If we want to understand 
+something, we want to build it from the ground up.  
+Jon: So we're go ing deeper?  
+Tim: Totally. If you don't have this tool in your toolset, you won't track with anything else 
+that happens. You have to become a skilled observer of repeated words.  
+Jon: That's why you say it's Level 1?  
+Tim: Correct.  
+Jon: What we'll do is we'll  go to the next level, then we'll stop again for an extended Q&R 
+that can just be open to anything at the end of this. Sounds good?  
+Audience:  Yeah.  
+Jon: Okay, cool. So do a couple more, however many we can do and then we'll do that.  
+Tim:  All right. I mean , Robert Alter, he's great. It's a good summary transition quote. He 
+says, "One of the most imposing barriers that stand between modern readers and 
+the imaginative subtlety of biblical authors is the prominence of repetition. We're 
+accustomed to stories in  which repetition is far less obvious." This is probably the 
+feature a biblical narrative that looks the most primitive to the modern eye.  Live from Milpitas  
+3 
+  "In order to appreciate the artfulness of this kind of repetition, the modern reader 
+has to cultivate a new, even opposite set of expectations than what they bring to 
+literary works." Modern stories usually attempt to mimic...This important, and I think 
+this is a good observation. "Modern stories mimic reality by giving us large amounts 
+of information that aren't cruc ial to the plot so that one is expected to detect the 
+repetition of key themes and words against all the other background noise.  
+ Biblical narrative is precisely the opposite. Here we're confronted with extremely 
+spare narrative with a high degree of repet ition and similarity. What we're expected 
+to notice is the small but revealing differences among the sea of similarities. This is 
+how new meanings emerge in patterns of expectation." I love this. It's such a concise 
+way of putting it.  
+ You've said it in di fferent ways before that we're used to stories that tell you all kinds 
+of stuff. The famous example is [inaudible 00:04:30] where it's like a whole chapter on 
+the gutters of Paris or something like that. In many classic works, it's like whole 
+chapter is on  the main character's grandmother or something.  
+ We know biblical narrative's not like that. What it means is that paying attention not 
+just to these repetitions but to how they differ and their variation, that's the skill that 
+these authors assume you're going to cultivate as you read this text. Oh, yes, I have 
+my own illustration with Star Wars. Okay, deal.  
+ Here's what this is. This is somebody who chose scenes from "The Force Awakens" 
+the most recent trilogy installation and then...Oh, actually from the  whole first trilogy. 
+Can you guys even see?  
+Audience:  Yeah.  
+Tim: Okay, good. All right. This is bad angle from here. Just watch it and you'll just see. 
+What are these movies about? Well, let's see. They open the same. They begin with 
+an introduction to en emy spaceships that make you realize they're gigantic, but then 
+there are robots. There are rescue robots somehow and then there's a smoky 
+introduction of the evil enemies and the soldiers. Then lots of good people are 
+dying.  
+ But then there are little rob ots that are the crucial elements. They're going to save 
+the whole world through these crucial robots. Then this smoky entrance of the bad 
+guy. You guys get it?  
+Audience:  Yeah.  
+Tim: I mean, It's crazy. The innocent victim is slain. Then the person who gave  the robot 
+the information, and then the robot escapes into the desert. Did you guys notice this Live from Milpitas  
+4 
+ stuff? If you're a Star Wars nerd, did you notice these things? I mean, look at this. 
+Then the person is captured who gave away the information. Then there's a  whole 
+torture scene while trying to get the information.   
+Jon: It looks crazy actually.  
+Tim: Now what's interesting is that different scenes get overlapped in different ways. This 
+is escaping from the desert planet. The Millennium Falcon escape, that was  so 
+obvious. I don't know if you spotted that one. Then the gun scene with the old 
+school sites. Just look at this. It's great.  
+ Now what's most fascinating is, for example, the discovery of the lightsaber. This is 
+important. Notice, there are all these di fferent scenes where people discover the 
+lightsaber. In the first one, it's Rey opening up. Here she's mapped on to Obi -Wan 
+opening up.  
+Jon: A lot of people have the theory that she's ....the Obi -Wan theory.  
+Tim: But then notice they par allel. When Luke turns on the lightsaber is paralleled to 
+when Finn turns on the lightsaber. The discovery of the lightsaber is something that's 
+about the Jedi. Finn, as far as we know, doesn't have Jedi. It's Rey who's the Jedi.  
+Jon: But he knows how to u se one.  
+Tim: So you have the same motifs that can swap characters in these repeated scenes. It's 
+not just that the same character always does the same thing. It's that the 
+composition of the frame makes you all of a sudden compare two characters you 
+would have never thought to compare before. But then once you see it like this, 
+you're just like, "Yeah, I get it," in this scene.  
+ Another good example is in comparing the destruction of the Death Star and the 
+battle of the trench scenes. Because in the battle trench of the Death Star in A New 
+Hope, who's the one who scores the winning shot? It's Luke. That's where one o f his 
+first times of cluing into the force, where he becomes aware of his ability and that's 
+how we can get the things down the tiny  little tunnel.  
+ But in "The Force Awakens," who is it? Who goes down the trench? It's Poe Dameron. 
+And is he the budding Jedi in the story? He's not. Who’s the budding Jedi? It's Rey. 
+What's Rey doing at that moment in the story where Poe is up there doin g this thing, 
+Rey is down on the planet discovering her Jedi powers. So they've taken the motif of 
+Luke discovering his Jedi powers while destroying the Death Star, and they split it up 
+between two characters. Do you see that spirit? You're just like, "Tha t's brilliant."  
+Jon: J.J. did a good job.  Live from Milpitas  
+5 
+ Tim: Yeah. Now you could have a whole debate on how this is so unoriginal. What 
+unoriginal way to write a movie?  
+Jon: But it doesn't feel that way. It felt thrilling.  
+Tim: You could watch it by yourself, never havi ng seen the first one and you just be like, 
+"That's an awesome story here "The Force Awakens." Then you could go back and 
+begin to reread the epic and then you would see all of the things that you never 
+noticed before through these parallels.  
+Jon: How much  of this did you notice when you saw it the first time?  
+Tim: Quite a lot.  
+Jon: We saw it together, right? Was that your second time?  
+Tim: That was actually my third.  
+Jon: That was awesome. That was my first time.    
+Tim: Here's my point. We get this. This is like real -time in cinematic art in 21st -century 
+Western culture. The question is, is this a new thing to create epic story worlds where 
+later characters are playing and riffing off of earlier characters in stories in such a 
+way that you actually grasp d eeper significance of what's happening here, only if you 
+grasp variations on the theme? We kind of expect this in the Star Wars universe.  
+ There are different things like this going on in many epic narratives. I've never read 
+"Harry Potter," but the way my  wife tells me how the stories work, it's very similar 
+iterations. "The Lord of the Rings" is like this. Are you with me? Is there a common?  
+ I'm telling you guys, the biblical authors, it's uncanny. It's uncanny the level to which 
+they're doing this kind of thing. And it raises all kinds of questions about how the 
+narratives came into existence or the stages by which they do. And that's a 
+fascinating conversation about how the Mona Lisa came into existence, but don't 
+ever let that distract you from just st aring at the Mona Lisa and seeing what it's 
+doing. It'll blow your mind.  
+ Here's an example. Often this will happen in stories that are right next to each other. 
+I chose this example because we've actually talked it at length before. Which is how 
+the story  of the temptation and rebellion of the first human characters whose names 
+are human and life - it's important - how they're precisely mapped on to each other 
+just like Luke and Poe Dameron in the Death Star trench. For example, you have a 
+human who has a significant choice set before them, but for kind of an unclear 
+reason...  Live from Milpitas  
+6 
+ Jon: The knowledge of the tree?  
+Tim: ..."Eat from any tree, not from this one."  
+Jon: I know. It's a pet peeve of mind. It's like they've been put in the middle of the garden. 
+Just put  off to the side.  
+Tim: Yes, totally.  
+Jon: It's ridiculous.  
+Tim: But see, that's good. It's a gap in the narrative that it's so clearly forcing you to see, 
+like, "Okay, I guess..." Notice how without repeated words, the next story has the 
+same thing going o n. Here it's about Cain being given a choice about what he's 
+going to do with his anger that God has chosen and favored Abel sacrifice but not 
+his own. Here's just a thematic overlap. You have two characters who now...  
+Jon: It's a choice?  
+Tim: The whole st ory is about their choice. And both of it it's a choice resulting from 
+something God did and the humans don't understand it. So their lack of 
+understanding God's decision or God's behavior is what creates the conflict in the 
+story.  
+ Then what's interesting  is the agent of the human failure is depicted as another 
+entity. For human and life, it's a snake, animal. We've talked about this one. In the 
+Cain story - it's the first time the word sin appears in the Bible - it's sin. Then sin is 
+described with poetic  animal language. It's as animal.  
+Jon: That "crouching" word is what animals do before they're going to pounce on you.  
+Tim: Lurking or something. Crouching. That's a good one. Usually, you're crouching 
+because you're going to leap or pounce. So once again,  it's not a repeated word...  
+Jon: That's cool image of sin. Have you seen the new "Planet Earth" series?  
+Tim: No. 
+Jon: It's really good.  
+Tim: Oh, the snake scene?  
+Jon: Oh, not the snake scene. But they show this mountain lion. I don't know exactly what 
+it was, but just pouncing. And it's amazing how high these things get. They are just Live from Milpitas  
+7 
+ like really slowly moving, watching every step and then all sudden just blast in the 
+air. It's such a frightening if you were a mouse, right?  
+Tim: Yes. 
+Jon: It's this massive  mammal just flying at you.  
+Tim: That's a good example. Notice the intentionality there. Animals that crouch or they 
+are like that...Would you say they're surprising?  
+Jon: Yeah.  
+Tim: You don't realize how much muscle and energy is in that little crouching animal right 
+there. Notice this is the poetic nature of these narratives. Notice how that has this 
+thematic overlap with a snake, which doesn't pounce. But it is also mysterious and 
+sly and crafty. There's more than meets the eye here.  
+ Somehow the temptat ion is depicted as you wouldn't expect that this thing's going 
+to ruin your life. When you first see it, it's weird what's going on, and it's the thing 
+that's going to destroy you.  
+Jon: And strike you quickly.  
+Tim: And it's an animal. It's also the first a ppearance of sin. Here the snake figure gets 
+overlapped with a more abstract concept of sin. It's brilliant. It's brilliant.  
+ When the human gives in, they make the wrong decision. In life's case, it's taking 
+from the tree and then giving to her husband. I n Cain's case, he was angry, gave in to 
+his anger, and kills his brother. God's first response in both stories is identical, both in 
+Hebrew and English. God called out to the human, "Where are you?" Which is what 
+God said to Cain. "Where's your brother?" G od said to the woman, "What have you 
+done?" God said to Cain, "What have you done?" It's verbatim repetition.  
+ In fact, that might be when you're reading through the story, you just like, "Oh, it's a 
+new story, Cain, and Abel." That's the first verbatim re petition.  
+Jon: And all sudden, you should be like, "Wait a second."  
+Tim: Yes. It's like that's the little trigger word. And then you're like, "Wait, that's what God 
+said to...hold on." Then you stop, then you go reread Genesis 3, then you reread 
+Genesis 4 again, and then you're "Oh, I see." Then you like spend a week just reading 
+these chapters of the Bible creating all the connections. It's the dense German bread.  
+ The human dodges the question. The man, Adam says, "Well, it's the woman. She's 
+the one who gave it to me." Then the woman says, "It was the snake." Cain dodges Live from Milpitas  
+8 
+ the question. "I don't know. Am I my brother's keeper?" The perpetrator is cursed in 
+which case it's the serpent, and he's cursed more than...in Hebrew, it's cursed from 
+every beast. Then  the ground is cursed for the humans. And then Cain, this is the 
+same phrase. "You are cursed from the ground."  
+ In both cases, working the ground will be more difficult. "In pain, the humans will eat 
+from the ground." Whereas Cain's says, "You'll work the  ground, but it won't give you 
+anything, so you're going to be a wanderer." Then both cases and again with an 
+identical uncommon Hebrew word "banish"  
+Jon: Is that common?  
+Tim: It's not that common of a word. The only verbatim keywords are "what have you 
+done" and "banished." But then the moment your radar is triggered, then you are 
+meant to go back and reread the narratives and start seeing Poe Dameron and Luke 
+flying through the trench.  
+ Think of what this does. I mean, I'll just ask you. All of a sudden, how does reading 
+these narratives that's overlapping, how does it enrich one's readings of the story? 
+What do you now start to think about the tree story and what is…?  
+Jon: We've talked about this before. I think what unlocked for me was seeing that these 
+stories in Genesis have a bigger motivation at hand than just telling us what 
+happened with first human.  
+Tim: Interesting things that happened a long time ago.  
+Jon: Interesting thing happens with first humans. It's a great story about my great -great -
+grandp a. It wants you to key in on one idea and really drill it home. And that idea 
+being, look how tragic it is when humans decide what is good and give in to this 
+mysterious evil. I guess the question is, why not just one story? That would have 
+been good enoug h. Let's pick one good story, but instead, then you get to that 
+parallel each other so closely.  
+Tim: Yeah, that's right. Remember the name of the characters in the first one, human.  
+Jon: Adam.  
+Tim: Human. The first story in the Bible about people making a stupid decision, it's 
+human and life. And you go through the list, they redefine good and evil. Actually, it 
+will be good for me to do the thing that God said not to do, even though I don't 
+quite understand why. But it's all you go through.  
+ Then the first  story given to you is about a human. Another human replaying the 
+same exact thing. Then the moment those two are set there, it's like the western Live from Milpitas  
+9 
+ quick drop pattern. These stories are giving us the fundamental template of the 
+human condition.  
+Jon: I shoul d see this pattern in my life.  
+Tim: Yes. And I should expect to see this pattern again in the story.  
+Jon: And I should expect this pattern in biblical stories.  
+Tim: It as if each now that I've been given the base template, the human story, pages 2 
+and 3, t hen all these other portraits that come after it's doing what we're going to 
+talk about and the character’s video, which is different examples. So maybe the one 
+with Saul doesn't land or something. Or maybe the story of Samson doesn't work. 
+But then maybe this one, I see myself and Abraham, where I see myself. And it's 
+becomes a whole wall of family portraits of stupid humans.  
+ There's no way you're going to escape the Hebrew Scriptures without seeing yourself 
+in many of these characters because there are a lso reflective mirrors. Because they're 
+all about humans. And who am I sitting here reading this text? I'm a human. So it's 
+exactly right. The more I ponder how Genesis 1 through 4 works is amazing.  
+Jon: It's kind of like you talked about the musical analo gy that happens in classical music. 
+You will be introduced to...what do they call it? A phrase?  
+Tim: Like the opening melody. The opening sentence.  
+Jon: Yeah. And then you'll hear it again and you go, "Okay, I'm going to expect to hear 
+that." So now your e ars tuned to hear that melody. But you are hearing different 
+ways and you hear it overlapped with different thing.  
+Tim: Yeah, that's right.  
+Jon: So that's what we're supposed to be listening for this melody of the human 
+condition?  
+Tim: Yeah.  
+Jon: From righ t off the bat, I'm on page 4 of the Bible, and I'm now, "Okay, I'm paying 
+attention. I know what's coming."  
+Tim: I get it. I get it now.  
+Jon: This whole book is going to be wrestling with this thing.  Live from Milpitas  
+10 
+ Tim: Those are in two stories right next to each other. Once you hear the melody or see 
+the thematic repetition or patterning, then you just tuck it away and you keep 
+reading in the story. I'm going to skip some examples because we're on this train 
+and this is just a setup for the next examples.  
+ These are two stories next to each other. Human and life next to Cain and Abel. Let's 
+come back and just revisit a couple things then. I go back and I'm on example...Yeah, 
+that's right. Now I'm like, "Oh, okay, I need to go back and reread the human and life 
+story just to make sure I didn't miss anything that was important there." Because I 
+know this is the template now.   
+Jon: It's very thorough of you.  
+Tim: Let's track with some details. I put in bullet points here all the ones that are going to 
+be important for everyt hing that follows. Here's the divine command. "From any tree 
+in the garden you may eat; from the tree of the knowledge of good and evil, you 
+shall not eat from it, for the day you eat of it you'll surely die." It's a crystal clear 
+divine command. We may no t understand the motive, but what it is I'm supposed to 
+not do is immediately obvious.  
+Jon: Yeah, that's clear. "There's the tree, do not eat it."  
+Tim: That's right.  
+Jon: Got it.  
+Tim: And what is the narrative of the failure? Genesis 3:6. "When the woman s aw..." We 
+had talked about this. It's the woman doing what God has been doing. God sees 
+what is good just because He provides what is good. But now it's the woman seeing. 
+What else does she see? She sees that it's desirable to the eyes. "I want that." "It' s 
+good and I want it."   
+Jon: It must have been a nectarine.  
+Tim: I want it. It's also desirable. "Machmad.” It's desirable to make me wise. God's holding 
+out on me.  
+Jon: There's more to know.  
+Tim: "There's more maturity, there's more experience that's accessible to me if I do this 
+thing that God is prohibiting me from doing."  
+Jon: I've never thought that before.  Live from Milpitas  
+11 
+ Tim: She took from its fruit, she ate, she gave to her husband, he ate. What's the result? 
+Their eyes are open, and "Oh, we're naked." Saw this  nakedness which keys back to 
+the thing of they were naked at first, but no shame. Total vulnerability. But now they 
+see that they're naked and they hide their bodies from each other.  
+ Then they heard the voice. They heard the sound. This is tricky. This i s a Hebrew 
+thing. The Hebrew word "qol" is the same word for "voice," "a personal noise" or 
+"sound." No, it is from an impersonal object. It's just "qol." That's important.  
+Jon: Got it.  
+Tim: Trust me, that's important. So they hear the sound of Yahweh God walking in the 
+garden and they hide themselves. Then God says, "Where are you? Where are you?" 
+Then He finds human. And human says, "The woman." The blame shifting, lame 
+excuse. "She gave it to me and I ate." Question, "What have you done?"  
+ Then there's i nteresting little phrase there. He holds both the man and the woman 
+responsible. But He uses this phrase. He says, "Because you listened to the voice of 
+your wife." So the humans hear the voice of God walking, and then He says, 
+"Because you listened not to  me, what I said to you, you listened to the voice of your 
+wife." There you go. So those are other interesting things that I noticed in the story.  
+ I move on then. What's the next story in the Bible, as you're reading, about a 
+husband and a wife trying to navigate a difficult decision? You just read through it. 
+What's the next story about husband and wife navigating a difficult decision about a 
+divine promise that was given or a divine word? Abraham and Sarah. Now this story 
+is about how God promised that t hey were gonna have children - great family, which 
+is quite remarkable.  
+Jon: Because they're super old.  
+Tim: Yeah. But God was crystal clear "a family is going to come from you." That's in the 
+previous story Chapter 15. "Look up in the stars, a child will come from you not 
+someone else in your house." That kind of thing. The story begins. "Now Sarai, 
+Abrams wife, had no children. But she had an Egyptian slave named Hagar." Notice 
+how it's the female figure is the first main actor in the story.  
+ "She says to  Abram, 'Go now, have sex with my female slave; perhaps I will be built 
+up from her.'" It's the word for literally construct a building. It's a very odd turn of 
+phrase. "I will be built up from her." This is also something biblical authors - they 
+love to d o this. I'm discovering. And it's something like what's going on in Star Wars 
+is they'll introduce some glitch in the story, a weird turn of phrase...  
+Jon: That's not a normal way to say that.  Live from Milpitas  
+12 
+ Tim: It's not a normal way to say that. That's a weird way to s ay that. I will be built up from 
+her like I'm a building. Can you think of anywhere earlier in the story where the 
+woman was built up? It's precisely the Hebrew word us to describe the creation of 
+the woman as the companion for the man. In Genesis 2, "God took from the side of 
+the human and built the woman." The word built appears just two times in the Bible 
+at this point in the story right there and right here. So now you're thinking about the 
+building of a family. It echoes the Adam and Eve story. Are you  with me?  
+Jon: Yeah.  
+Tim: It's a subtle little queue. Maybe wouldn't think anything of it until you notice some 
+other things. Abrams like, "Hey, I get to have more sex," so he listened quite happily 
+to the voice of his wife.  
+Jon: Yeah, he didn't argue.  
+Tim: The whole story depict is very odd, especially after he's become the paradigm of 
+faith in the previous narrative. There he is, and it’s Sarah speaks first. "Have sex with 
+my Egyptian slave." And Abram's like, "Okay." Notice the phrasing. "He listened to 
+the voice of Sarai."  
+Jon: Oh, there it is. It's in bold.  
+Tim: "Sarai, the wife of Abram, the woman, took Hagar and gave her to Abram as a wife 
+and he had sex with her." When she, that is Hagar, became pregnant, and when she 
+saw, Hagar sees that she was pregnant, and her mistress became despised or 
+became less than her eyes." What goes on from the story here is so Hagar is the one 
+who sees. In the first story, it was "the woman saw," but now we're riffing off of her 
+seeing.  
+ Sarah was the one who took, ga ve to her husband, but it's Hagar, the other woman, 
+who sees. And what does she see? "Oh, now I could be the favored one in the family. 
+Sarah gets super ticked off. It just says, "She oppressed Hagar."  
+ She goes to Abraham and says, "Look, she's pregnant n ow, and she's being rude to 
+me." And what's Abrams response?" "Look, your female slave is in your hand. Do to 
+her what's good in your eyes?" Good for the eyes. Come on. It's too good. "Sarah 
+oppressed Hagar, Hagar fled before her." And where does she go? S he's banished to 
+the wilderness. Precisely like Adam and Eve. Do I need to say anything? You tell me 
+what you see is going on here.  
+Jon: What seems to be going on here is that the author wants you at this point not 
+just...it's not just a story of Abraham s crewing up. This is a story of Abraham 
+wrestling with the same serious evil that all humanity has been wrestling with.  Live from Milpitas  
+13 
+ Tim: Is Satan mentioned in the story?  
+Jon: No. 
+Tim: No. 
+Jon: But he doesn't need to be.  
+Tim: He doesn't need to be. He was not on page th ree. 
+Jon: He was in there.  
+Tim: He was on the story about human. And you get the template.  
+Jon: The melody's coming out again now in the story of Abraham, and it's texturing the 
+story. It makes it way more meaningful.  
+Tim: You would read the story and you' re just like, "It's so weird. The last story they were 
+heroes but now they're oppressing this Egyptian slave." Hagar's the victim here in 
+the story. She's the victim of their stupid decision and it's going to produce conflict 
+in their family. She's going t o give birth to Ishmael. That's going to produce all this 
+conflict in the family.  
+Jon: So the biblical author could have said, "Look, they made a bad decision. It's going to 
+some family strife." But instead he crafted the story in such a way that it's now 
+echoing from this previous story.  
+Tim: It's another iteration of the theme. Notice here in the garden story, it was the 
+response to a divine command that I didn't understand the motive. Here, they're 
+responding to a divine promise that seems incredible. Go d said, "It's going to come 
+from you," and Abram and Sarai are like, "It's not happening so let's find our own 
+solution."  
+Jon: "We don't get it and we want to find her own solution."  
+Tim: Hagar becomes the fruit. She becomes the way that they are redefinin g good and 
+evil in their own eyes. Then all of a sudden, you have a very realistic narrative portrait 
+of the human condition. "Things are difficult. Things aren't working out the way I 
+wanted them to. God said this was going to happen this particular way, I don't think. 
+Sometimes you got to take things into your own hands." Who hasn't lived to that 
+story like 100 times? So powerful. Want to do another one?  
+Jon: Yeah, let's do one more.  
+Tim: Deal. Just one more?  Live from Milpitas  
+14 
+ Jon: Well, 10 minutes and then Q&R or…I don't know.  
+Tim: I have a lot more. And they actually just keep getting better. How are you doing? You 
+want to do some more?  
+Audience:  Yeah.  
+Tim: Okay, right, deal. Here's the Israelites at Mount Sinai. They just got the 10 
+commandments. Smoking fire God shows u p on the mountain and the first two 
+commandments are...  
+Jon: Don't have any other gods.  
+Tim: Don't make any idols. Crystal clear. It's crystal clear. What's the first narrative after...?  
+Jon: They make an idol of another god.  
+Tim: When the people saw that Moses was delayed...This is another one of these weird 
+ways to say that. Literally, it's when Moses bosheth. It's the word "shame."  
+Jon: Like the nakedness and shame.  
+Tim: And if you look, the last time the word "shame" is not a common word in the Torah 
+up to this point. The first time that it appeared was the shame of the first humans. So 
+Moses was making them ashamed by how long they had to wait. Do you remember 
+how long it was?  
+Jon: 40 days.  
+Tim: Yeah, 40. Coming down from the mountain? The people gathered against Aaron and 
+said, "Hey, get up. Make us some gods who will go before us. As for this man, Moses 
+who brought us up out of Egypt, we don't know what happened to him." So the 
+people end up doing the last thing...You get it?  
+Jon: Right.  
+Tim: Here's what happens. The people took their gold rings and Aaron took from their 
+hand, he makes the golden calf and he saw and he built an altar before it and 
+proclaimed..." Let's just stop right there. He saw what?  
+Jon: The calf? No? The altar?  
+Tim: There it is. "He fashioned the golden calf and Aaron saw and he built an altar before 
+it and proclaimed..." It's a completely unnecessary verb in the sentence.  
+Jon: To say he saw?  Live from Milpitas  
+15 
+ Tim: It doesn't say what he saw and it doesn't say how...  
+Jon: Like everyone's always  seeing.  
+Tim: Totally.  
+Jon: Yeah. It wasn't all sudden, like, "Oh, this guy's not paying attention with his eyes 
+anymore."  
+Tim: But it's completely unnecessary to the story. There can be only one reason why this 
+unnecessary verb is introduced in the story.  
+Jon: Lazy writing it.  
+Tim: That's right. Silly green creature in front of me. So he built an altar before it and he 
+says, "Feast for Yahweh tomorrow." So they got up really early the next day. They 
+offered all these sacrifices. They're doing the very thin g that God said not to do.  
+ "Then the people sat down to eat, and they rose up to play." Now, this is a whole 
+other set of hyperlinks of playing with all of these sexual layers to its meaning that's 
+fascinating. But it's their eating results in something s ketchy happening sexually.  
+ The first thing God says to Moses, "Go. Get down." The narrative shifts. You see the 
+people doing this, then all of a sudden, you shift up to the top of the mountain, and 
+God's the first one who speaks. He speaks to Moses and He  says, "Go, Get down." 
+Moses walks up, and as they're walking up Joshua is with him. And what does 
+Joshua?  
+Jon: Hears Moses coming.   
+Tim: No, it's Moses and Joshua. Moses joins Joshua and then they're walking into the 
+camp.  
+Jon: And they're listening to t he voice of the people?  
+Tim: Yes, totally. Joshua listens to the voice of the people in the camp. This one's great 
+because the first time that appeared was human and life listening to God walk into 
+the garden.  
+Jon: This is flipped.  
+Tim: That's right. Yes, it flipped. It's like Poe Dameron vs Luke and Rey.  
+Jon: They're playing the role of God here walking into the camp.  Live from Milpitas  
+16 
+ Tim: That's right. So what does Moses do? He gets angry. He takes the calf; he burns with 
+fire. Just sit with that one. He burns it with fir e. He asked Aaron, "What did these 
+people do to you?" And Aaron said, "Oh, don't let my master's anger burn. You know 
+these people. They are in evil." Is what he says. "They are in evil." It's the same word 
+from good and evil. "And they said, 'make us a go d," and I said, "Well, who has any 
+gold? Take it off. And they gave me the gold, I put it in the fire and okay Miss calf."  
+ Notice the question is asked, "What did these people do to you?" And what's the 
+first thing he does? Blame shift with a terrible exc use.  
+Jon: Yeah, it's really bad. He just wasn't part of drunken orgies, so he probably had no 
+hangover.  
+Tim: Notice here. What do we got to work with here? We have the "sea" and "taking," we 
+have "listening" in terms of repeated words. But now it's all...  
+Jon: And "taking." Did you say that? Sorry.  
+Tim: Yeah. But notice it's out of order. Things aren't in the same order they were in. But 
+this is the third time.  
+Jon: It's getting the planner on the melody a little bit.  
+Tim: That's right. It's like when you g et into a symphony and it's the fourth time around 
+and it's the French horn doing the riff. Then it can play with it creatively to make its 
+own contribution. You want another one? Actually, to understand this one, you need 
+to have noticed the golden calf o ne. 
+Jon: How are going to make a video in five minutes?  
+Tim: We can figure it out. Actually, we totally can because with visual composition you 
+can tell these stories with characters in the same positions. I know we can.  
+Jon: It's going to be perfect for a  video.  
+Tim: It's perfect.  
+Jon: Great.  
+Tim: You have the Battle of Jericho. It's the first moment of trust for God's people in the 
+promised land. The Battle of Jericho is itself designed all around these patterns with 
+Genesis 1, the most obvious one being "march around the city for six days." Then on 
+the first one, "stand and do nothing except blow the trumpets." Six, work; one, rest.  Live from Milpitas  
+17 
+  Then God gives this command in Joshua 6. "Watch yourselves. Don't take any of the 
+dedicated plunder less you take from the dedicated plunder and place it in the camp 
+of Israel and bring trouble on it. All the silver gold and all the articles of bronze and 
+iron are holy to Yahweh." Then they conquered the city and so on. And then there's a 
+little narrative aside.  
+ "But the sons  of Israel committed treachery with the dedicated plunder, namely, one, 
+Israelite, Achan - whose name sounds a lot like trouble. Akar, Acha. Akar, Achan.  
+Jon: Wordplay.  
+Tim: It's good. What tribe does he belong to? The son of Carmi, the son of Zabdi, the s on 
+of Zerah, the tribe of... "He took from the dedicated plunder. Switched scenes. We go 
+from the battle scene immediately to Yahweh and Joshua.  
+ Who's the first one to speak up? Yahweh. He says to Joshua, "Get up, go." He said to 
+Moses, "Go and go down." He says to Joshua, "Get up and go." This is a little bit 
+reversal. It's great. Verse 11, "Israel has sinned; they've broken My covenant that I 
+commanded. They've taken the dedicated things; they've lied and placed it in their 
+baggage."  
+ Then there's this w hole weird scene. It's one of these things where you're just like, 
+"Why is this here?" It's this whole weird scene where they select by rolling dice 
+who've committed the sin. It's very odd. And it's all about these repeated words. 
+When somebody gets chosen  by the dice, the word used is "they're captured." Then 
+you take the captured one and you bring them near. It's the little genealogy you 
+were just given in reverse order. You can just see it's really full of repeated words. 
+They finally get to Achan. Joshu a, first thing he says to Achan is?  
+Jon: "What have you done?"  
+Tim: What have you done?  
+Jon: Which is what Moses and...?  
+Tim: It's what Moses said to Aaron. It's what God said to Cain. It's what God said to Adam 
+and Eve. Verbatim. The first and Achan's res ponse; "I saw among the plunder a 
+Babylonian cloak, cloak of Shinar, a good one." He's like, "What's that for."  
+Jon: It just popped out.  
+Tim: Totally. A good one. It's a cloak of Shinar, whatever, but it's a tob one. "It's about two 
+hundred shekels of silver, also a tongue of gold." Not a brick of gold, it's the Hebrew 
+word "tongue." It's very odd phrase. A tongue of gold. "About fifty shekels, and I 
+desired them and I took them; and they're hidden in ground in my tent. Joshua sent Live from Milpitas  
+18 
+ messengers, they ran to the tent and there it was." What's the response? They do to 
+him what Moses did to the golden cow.  
+ It's interesting because notice how the motifs are switching here. Because the gold 
+thing is the fruit. The thing that represents the fruit in the golden calf story is the 
+golden calf in Achan's version, but now it's the perpetrator who suffers the fate of 
+the Golden calf.  
+Jon: What seems cool about this is at this point you're just saying the word and 
+everyone's tracking you like, "Okay, I see it now."  
+Tim: How are you guys? Are you guys tracking?  
+Audience:  Yeah.  
+Tim: It's so obvious once you see it.  
+Jon: I mean you do have underlined and bold, but it's also easy.  
+Tim: Yeah, totally. Well, we don't have time, let me just quickly show you the next iteration 
+and then we can land the plane on this one here.   
+Jon: Okay, great.  
+Tim: There's a whole bunch of things in the Achan story that don't make any sense. Like 
+that weird lot castings scene. Dude, watch this. We're back to the story of Saul and 
+Samuel again.  
+Jon: Got it.  
+Tim: 1 Samuel 8; "The people approach Samuel, give us a king like all the other nations." 
+And God says to Samuel, "Listen to their voice." Now that's interesting because up to 
+this point listening to the voice has been a sound of giving — 
+Jon: Someone coming to...  
+Tim: Oh, yeah someone's going to show up to deal with the sin.  
+Jon: Oh, that's listening to the sound. Yeah.  
+Tim: Or you listen to the voice of Adam. Listen to the voice of Abraham. Listen to the 
+voice. It’s part of giving into the tem ptation. That same phrase has been used in two 
+very different ways and now it's being used here. But it's God's saying it. It's God 
+giving the people what they want.  Live from Milpitas  
+19 
+ Jon: You're supposed to at this point go, "Why is God letting them give in to their 
+tempta tions?"  
+Tim: Normally, when God shows up and we listen to the voice of God coming, it was to 
+judge.  
+Jon: Typically to command.  
+Tim: To bring justice or to give a command. Here, it's God giving the people what they 
+want which is not going to be good for the m. It's fascinating.  
+Jon: It's kind of like when your parent at some point they're just like, "Okay do whatever 
+you want." And you're like, "Wait a second. What's wrong here."  
+Tim: This happens all the time in parenting with all the kids. After a long day and you 
+know that they're going to go in and do that thing, but you've already dealt with 
+them so many times and you're just like, "Oh." You just give them over to 
+destruction. They're not going to die. They're just going to get into a fight and 
+whatever.  
+Jon: Yeah, do whatever you want.  
+Tim: So God says to Samuel, "Listen to their voice. It's not you they're rejecting but me." 
+Then the next line God says, "You know they've been doing this since I brought them 
+up out of Egypt."  
+Jon: "Yeah, we've been lookin g at that."  
+Tim: "We've been through this before; abandoning me and serving other gods." Now just 
+stop right there. What does that have to do with...  
+Jon: Wanting a king?  
+Tim: Yes. Then you're like, "Oh. Somehow their wanting a king is a lot like them want ing 
+idols." Samuel listens to their voice and then God says, "But warn them what the king 
+is going to do." And Samuel gives this speech where he says, "Five times, the Kings 
+going to take your children, he's going to take your son's, he's going to take you r 
+daughter's. He's going to take, take, take, take, take." Then the people said, "No, we 
+want it anyway."  
+ Then we're introduced to Saul who we know is the choice and good. In fact, no one 
+else was more good than him. We're already back to the one that we did. Samuel 
+saw...You didn't know I was going to do this to you. Samuel saw Saul and the Lord 
+said, "Here's the guy."  Live from Milpitas  
+20 
+  This whole thing about Samuel said to Saul, "I'm the seer..." Oh, this is fascinating in 
+Chapter 9. "Samuel says to Saul, "I am the Seer.  I'm the one who sees." Then he says 
+to Saul, "On whom is all the desire of Israel? Isn't it on you Saul. All of the Israel 
+desires you, Saul.  They see you and they desire you."  
+ Then Saul gets inaugurated and God gives the speech again saying, "You know s ince 
+the days of the Exodus you've been in rejecting me." Then it Saul's inauguration and 
+there's this weird story about how Saul is selected by casting lots, which is really odd 
+because he's already been anointed and presented to the people.  
+Jon: This is double checking.  
+Tim: It's very odd. It's a glitch and the story is logic. But it's this whole scene and it's about 
+how Samuel brought them, they cast lots. They brought him near, they captured him, 
+they brought him near. Finally, it's supposed to be Saul.  "Oh, it's Saul." Then it's the 
+punchline, but they couldn't find him anywhere. They couldn't find Saul. Did you get 
+this?  
+Jon: I'm missing it.  
+Tim: All right. Saul has been selected as King. Then all of a sudden he needs to be 
+selected all over again by r olling dice.  
+Jon: Which is back to the...?  
+Tim: Back to the Achan story. We're going to select the perpetrator. So then we're 
+selecting and we select. We get the tribe of Benjamin, captured him, we bring him in 
+near. Get the tribe of this, get the...and then all of a sudden we cast the dice and it's 
+Saul the so of Kish, and don't see him. Where did he go? Where did he go? Where is 
+he? He's hidden himself in the baggage. He's hidden himself in the baggage. Do you 
+get it? What other things have been hidden in temptation story?  
+Jon: The plunder.  
+Tim: The humans hide themselves. Then in Achan story, it's Achan took and he hid the 
+object of desire in the tent. Now all of a sudden...  
+Jon: It's like the author is kind of like, "If it was clear enough now, I'm goi ng to have Saul 
+hide in the luggage. And if you don't get it at this point, you're not paying attention."  
+Tim: What on earth is this story of the rolling the dice and Saul hiding in the baggage. It's 
+so bizarre. It makes no sense in the story unless it's d eliberately echoing the...Do you 
+see this here? If I had time I would create this chart.  Live from Milpitas  
+21 
+  But all of a sudden, you start seeing these stories all are aware of each other, and 
+they all have been introduced with little turns of phrase so that the Achan story , the 
+golden calf story, the Abraham story, they're all talking to each other. Which really it 
+says something profound about the unity.  
+ We're talking about huge sections of the Hebrew Scriptures that were originally 
+different eye witness traditions in dif ferent quilt pieces, but you just start to realize 
+that they've been woven together with these patterns of unity. This is just one. We 
+could do this all day long with different motif and different themes. But this one is 
+beautiful because it's the fundamen t— 
+Jon: It's the human condition.  
+Tim: It's the human condition.  
+Jon: Back to this question - is it Kevin? Someone back there - how do we teach this to our 
+kids to think about how this is done? It'd be interesting to have your kids show this 
+and then say, "Cool, now write a story with all these elements of the hiding and the 
+taking and the seeing. And construct your own story of something in our modern 
+world." It gets you to start to wrestle with the same themes.  
+ Because it seems like what God wants is for  these ideas to become so embedded in 
+our psyche and our soul, that we just start seeing them everywhere. There's a pattern 
+that we're not just now seeing in Scripture we're seeing in lives.  
+Tim: In our own stories. The repetition does so many things. It's  linking all these portraits 
+of human failure together. If I don't identify with the sex with an Egyptian slave one, 
+maybe identify with I want a human who I know is the choice and good one; surely 
+that will be our salvation.  
+ This whole story is saying, "No, you know about humans." From page 3, you know 
+about human. You know what they're like. In this case, the human, Saul becomes the 
+forbidden fruit. So you have all these variety portraits.  
+ Then at the same time, to your point, they're actually training  you to see the world a 
+certain way and to see patterns of my own decision making so that I can recognize 
+the snake even when he's not visible. The snake doesn't appear in any of the stories 
+after page 3. But the clear implication is that he's underneath a ll of these. It's not just 
+something that happened a long time ago, it's the human condition. That's right. 
+That's a good point.  
+Jon: Thank you, Tim.  
+Tim: I know we can capture and communicate this in the video. I'm certain that we can.  Live from Milpitas  
+22 
+ Jon: Well, I guess I don't know how to do it. You got to a tell the story. You got to a tell 
+the story, you got tell a story and then go, "Now watch them all at the same time." 
+Maybe that's...  
+Tim: Oh, we could...Yes.  
+Jon: It's just you'd have to do it really quick.  
+Tim: I understand. But we could just do a few examples. We could tell three stories 
+quickly and then do the side by side.  
+Jon: Yeah, three. We don't have to do all five. That's very cool. What we'll do is we have 20 
+more minutes and what would be great is if you h ave any questions for Tim 
+regarding this patterning in biblical narrative or just any questions in general, we'll 
+take anything. Raise your hand. It is question and response. So if you have a 
+question, Tim will give a response. And it might be a good one. It might not. That's 
+why we don't call it question and answer.  
+Tim: That's right.  
+Jon: But it's probably going to be good.  
+Woman:  In light of the repetitions, do you recommend a particular translation?  
+Tim: A lot of these might be hidden in translations. O ur translations, it's like what Robert 
+Alter was saying. If our English translation's actually mimicked the repetitive patterns, 
+it would sound like bad English. Which is why our English translations often render 
+the same Hebrew word with two different Eng lish words in the same paragraph.  
+ So the translation that does that the least is the New American Standard. That's still 
+comprehensible English. It's terrible English, but it's great Hebrew in English. The 
+New American Standard can get you a lot of the wa y there if you want to do this 
+kind of study.  
+ But I really want to underscore that the first things you'll notice is usually some really 
+obvious clear repetitions that are so obvious. Notice it's also about narrative motifs 
+and patterns. So you're like, m mh stories about husbands and wives, there's only two 
+of them within that first stretch of Genesis and they're mapped onto each other. 
+Stories about people doing exactly what God told them to do right after He told 
+them, there's not that many. And once you  look at them all, they're all talking to each 
+other.  
+ So it's also developing an awareness of repeated words, but also parallel scenes and 
+motifs. And it's a skill set. It takes practice. But once you start to develop it, you'll see Live from Milpitas  
+23 
+ it's actually a designed convention just like the westerns and the quick Draw Sheriff 
+kind of thing.  
+Woman:  I don't know whether this is a good context for this question, but I have a lot of 
+reluctant readers in my community. I was wondering what you would suggest 
+because  a lot of this requires a lot of study, a lot of reading, which is total...I work 
+with youth. That's my community. What would you suggest for reluctant readers? 
+People don't want to open a book. Barely want to read.  
+Jon: What I've heard you talk about is j ust reading in community. You don't have to go 
+away by yourself, lock yourself up and read these stories privately. You can sit in a 
+group of people and read them and then discuss them and have community around 
+that. A small group where you just get togeth er and read Scripture.  
+Tim: That's right. One way to make reading the Bible easier is to facilitate structures of 
+people just reading it aloud together. That's one way. And that's a really ancient 
+Christian and Jewish practice. But I know what you're talki ng about.  
+ I think in a way, what we're trying to do with the videos is to tell the stories in a way 
+that highlights this kind of artistry and intentionality to get people excited. So 
+maybe the videos can pick some curiosity. But I'm with you.  
+ I also find  these narratives assume a pretty high degree of ability to track with 
+narrative arguments and themes like these. That's actually what makes you want to 
+keep rereading them is once you start getting the goodies. But getting people to 
+that first stage to ev en see this isn't a silly green creature, this the wise master, that's 
+the challenge. That's American phenomenon. Our brains are melted by TV and 
+Twitter and so we just don't...I don't know what I don't know. Do you know?  
+Jon: No, I don't know.  
+Tim: I don' t know. There is a structure called the church. That's a group of people that get 
+together regularly to retell the story of Jesus and the story that makes sense of him. 
+So there's one right there to work within and through. I don't know. That's a good 
+ques tion. Let me know what you come up with.  
+Man:  When you talk about repetition and you compare it to Star Wars, or these epic tales, 
+it puts a lot of humanity on the Bible. Even the [quill? 01:00:38], like they had to put 
+the edges on him. Maybe they just we ren't there when the first pieces came. In the 
+tradition I've grown up in, that's terrifying to talk about the humanity in the Bible. 
+How do we help people move from like this perfect golden book that fell out of the 
+sky, in the King James Version, and the n moving them then to the humanity that's 
+there and how that not a scary thing?  Live from Milpitas  
+24 
+ Jon: We were just talking about that. We're going to talk it about tomorrow.  
+Tim: It's actually one of the main things we're going to talk about tomorrow in one of the 
+sessions . 
+Jon: Our key point. This was really helpful for me. I mean, we were going through these 
+videos, we're talking about this, we're talking about the literary structure, all these 
+things, and I was having the exact same uncomfortable feeling of that we're ta lking 
+about the humanity of the Bible. Isn't the Bible at divine book?  
+ In my tradition, you would say that the Bible is both human and divine. You would 
+hear that. Maybe you don't. But at least most people would admit to that that's part 
+of Orthodoxy. But  then, there's kind of a wink nudge, but really divine. We want to 
+like polish off all the thumbprints of its humanity.  
+ What I found for me is that when I approached the book, and I'm like, "This fell out 
+of the sky, and this is God's divine Word," I get to things that have humanity on it 
+and it's actually scandalous. And I get confused and feels weird and I'll give up or 
+whatever.  
+ But as we started looking at the Bible through its literary structure, and the humanity 
+of it, something really surprising st arted to happen, which is when I just stopped and 
+said, "Okay, this is a human book too," and we looked at that, suddenly, the human 
+book started seeming so beautiful. I mean, we just saw how the artistry of what 
+they're doing.  
+ And not only is that sophis ticated in its literary style, it's wrestling with something so 
+deep to me personally and to the people around me that they've got a grasp on 
+what's this essential part of being human in such a way that it just pulls on me, and 
+just all the sudden I'm goin g deeper and deeper, and then I'm confronted with its 
+divinity. It's like a backwards way of getting the sneak attack.  
+ I think it's actually a much more natural way to get to the divinity of the Bible is to 
+start with its humanity. At least for me and I t hink probably a lot of people who 
+would have that inclination of being scandalized by that.  
+Tim: Just one quick response. And again, we'll talk about it more tomorrow. But it has 
+happened multiple times in Jewish and Christian history that because of a des ire, I 
+think it's a right desire to elevate the authority, the divine authority that these texts 
+claim that they lay upon us, that causes what I think is an unnecessary sub -reaction, 
+which is to try and erase human agency from the origins of the Bible.  
+ What that really speaks to is a deep division in our own thinking about, if God is at 
+work in history, it has to be with minimal or no human agency. That's really what is Live from Milpitas  
+25 
+ the assumption driving - that fear of the humanity of the Bible. Once you say it like 
+that, just stop and read the Bible, and ask yourself the primary way that God works 
+through history in these narratives it's through humans.  
+ I seem to remember the fundamental tenet of Christian Orthodoxy is of Jesus's 
+identity as fully God and fully human . Which means he spoke Aramaic, and he 
+pooped his diapers. He was actually fully human so it was easy to dismiss him as if 
+he wasn't who he really was.  
+ So, on my mind, we're doing ourselves and people in our church communities a 
+gigantic disservice when w e ignore the very human creativity in origins of the Bible. 
+The claim has always been that it's both. Then the theology of the Spirit, the Spirit is 
+working through humans. And when God's at work in and through humans by the 
+Spirit, they don't become less themselves. They become more themselves by the 
+power of the Spirit. So what else would you expect from spirit empowered human 
+than something as beautiful as this?  
+ In my mind, this is a fundamental category reshape that Western Christianity needs 
+to underg o - when it comes to the Bible, it's just a dead end. The Golden Book from 
+heaven is a dead end. I think it actually doesn't help us understand what the Bible is. 
+Thank you for asking that question.  
+Man:  I'm wondering how a non -PhD can stay current with th ese type of ideas and maybe 
+be engaged in the conversation to some chat room or something like internet or...?  
+Tim: I quoted Robert Alter a lot. There's some points where I disagree, but he is a Jewish 
+scholar who represents a whole movement of scholarship  mostly by Israeli Jewish 
+scholars who were trying to tell the rest of the world like, "Dude, you guys wake up 
+to how incredible this literature is." That's mainly where the conversation lives at the 
+academic level is among people who have been raised spea king Hebrew, which 
+makes sense.  
+Jon: They are the ones cluing in.  
+Tim: Then they're teaching the rest of us how this literature works. I don't want to just say, 
+hang tight, but in a way that's how in most academic fields when there's a paradigm 
+shift happe ning, it just takes time before the new handbooks and the new 
+commentaries, and the new introductions get written in light of the recent 
+discoveries.  
+ To be honest, that's where a lot of the field of Biblical Studies is at for a lot of 
+complex reasons I do n't have time to go into. But this is a new edge to literary study 
+of the Bible and it's hard to find a lot of...  Live from Milpitas  
+26 
+  All right. This is Tim from the future interrupting Tim of the past. If I was listening 
+back to this conversation, and this question, in part icular, I was really disappointed in 
+myself about how I answered that question. The question was about what are other 
+people writing on this topic of hyperlinks and design patterns in the Bible. Other 
+resources to go to.  
+ The scholar that didn't come to my  mind, I can't believe I forgot about his work 
+because he's one of my most influential teachers and mentors is the work of John 
+Sailhamer, who was really the first one who introduced me to the set of concepts 
+and how Hebrew narrative works.  
+ John Sailhamer , he has a commentary on the Torah. It's called "The Pentateuch as 
+Narrative." In the introduction, he has a whole section on how a design pattern 
+works within the Pentateuch itself. Then there's a whole world of Jewish scholars that 
+he introduced me to. I  referenced Robert Alter and that question. Even how I 
+respond to that question.  
+ But also if you really want to take a deeper dive, check out the work of one of 
+Sailhamer students whose name is Seth Postell. He has a really stimulating book 
+called "Adam a s Israel: Genesis 1 -3 as the Introduction to the Torah and Tanakh" His 
+basic thesis is every random little word and detail in Genesis 1 through 3 is 
+previewing in seed form everything that's going to go down in the entire Old 
+Testament.  
+Jon: What's his nam e again?  
+Tim: Seth Postell. We'll have his book in the show notes, like a reference to it.  
+Jon: Great.  
+Tim: But Sailhamer and Postell, and then Robert Alter who I mentioned in my response is 
+also a great place to start too. So this is Tim from the future signing off so that Tim 
+from the past can continue talking  
+Jon: Thank you, Tim from the future.  
+Tim: So create your own group. I mean, really at the end of the day, you'll notice this stuff 
+if you become Bible nerds, which is what Psalm 1 says. Psalm 1 tel ls you what to do. 
+It's a meta -poem telling you what to do with the book in front of you. Which is, to 
+get it, you need to live in this thing. That not sound good news to a culture whose 
+brains are melted on TV and Twitter. I know that. But it's just what it says.  
+ This is the cave goes eternally deep and there's nothing for it. You just got to get a 
+group of friends and explore the cave. I don't know what else to tell you.  Live from Milpitas  
+27 
+ Jon: You showed me that that resource you just picked up, which was The Aramaic. 
+Wou ld that be of any interest?  
+Tim: No, no.  
+Jon: Yeah, rabbit hole. Okay.  
+Tim: I'm trying to think. I would say Robert Alter's "The Art of Biblical Narrative" it's a 
+wonderful introduction. You'll need a little online dictionary sometimes when he's 
+writing. B ut it's a pretty accessible introduction that will blow your mind as to this 
+kind of stuff. It's a wonderful introduction. That's great place to start.  
+Jon: But also I feel like in the New Testament it's very obvious that all these authors are 
+wrestling an d riffing off quoting and trying to understand how Jesus...making sense 
+of Jesus in light of all these stories. So what they're doing in these letters is basically 
+kind of what we're doing, which is trying to — 
+Tim: In the New Testament?  
+Jon: In the New Tes tament.  
+Tim: Totally. It is.  
+Jon: I mean, that's a good place to just start too is just...  
+[crosstalk 01:11:14]   
+Tim: New Testament used to be old. The way Jesus and the apostles read the Hebrew 
+Bible has seemed weird to much of Christians about Christian  history.  
+Jon: But they're doing this.  
+Tim: Because they're doing this. They read the Bible this way and they do their theology 
+of the Bible this way. All of a sudden, then Paul can be talking about baptism and the 
+wilderness wanderings, and Jesus can talk  about the snake lifted up in the 
+wilderness. They know exactly what they're doing.  
+ They're following the grain of these texts in a way that much of Christian history - 
+the moment Christian history became mostly non -Jewish and nobody reads the 
+Bible in He brew anymore to help teach this way of reading the Bible, we went for the 
+allegory route to make it about Jesus. I'll talk more about this tomorrow.  
+Jon: I think we have time for one or two more.  Live from Milpitas  
+28 
+ Man:  Bible is a big story like Star Wars that has a lot goin g on. Jon, you made the joke 
+about Rey being Kenobi. Like, so much of that is based on mislabeling in just weird 
+things that they...This is my perspective, but I don't think she's a Kenobi.  
+ As we're working through the repetition stuff, I think the potent ial is that when we 
+don't have a set grid for what are we looking for is we can turn Reys into Kenobis 
+and we can actually make repetition in stuff that isn't there. What would you say? 
+Because we've gone through the grid for so much of this, what's a help ful grid to 
+have as we're reading through and going, "Is this repetition"? And then as we come 
+to it, we think this is it. How do we check our work?  
+Jon: She might be a Kenobi.  
+Man:  She's not.  
+Tim: To be honest I'm still working through. The skill set required is clear. Patterns. 
+Noticing patterns and repetition, keywords, matching scenes and so on. The 
+question you're asking is, what are controls on this so we don't do wild?  
+Jon: How do you know that you're not getting too so weird?  
+Tim: I have an annu al research group of friends that I mentioned, we're coming around 
+this and working on it. And so I'm still trying to articulate to myself what the 
+guardrails are. But one thing that's clear to me though, is that these narratives are 
+designed in a way that  is creatively generating new associations and new meaning 
+that I wouldn't have noticed.  
+ Just think of the way the different themes and motifs are now playing different roles 
+and different stories. There's almost a sense. I'm not saying it's like a free r eign, but 
+there is a sense. In creative literature, it's meant to engage your imagination and 
+evoke wonder and transcendence. So I think there's an element of aesthetic play and 
+pleasure, tob, goodness in it that your mind is meant to entertain possibiliti es and 
+that dead ends will get closed off as you keep reading through the story. But I think 
+you can't get irresponsible with it.  
+ Right now the guardrails for me are, is there are whole bunch of repeated words in 
+one place that really you begin to build t he case. If it's just one word and it's a super 
+common word, well, I don't know I'll put it on my scale of probability of like two. To 
+me, these are so once you add it up, it's just so obvious. To me, it's more like about 
+the amount of connections there ar e is right now my control.  
+Jon: We were talking about meditation literature. The question came up for me, which is, 
+what are the guardrails? If the Bible is so sparse and you're supposed to be 
+meditating on it and seeing connections, what's going to keep y ou in orthodoxy? Live from Milpitas  
+29 
+ And it sounded like you were saying that the design of the Bible must be aware of 
+this problem. It is aware that the trade -off is let you become part of this versus the 
+opportunity of mistakes.  
+Tim: That's right.  
+Jon: And it's like, in the  same way God gave us free will and wants us to participate with 
+Him, the trade -off is when we screw a lot of things up. It's like that same kind of 
+generosity seems to be in the Bible.  
+Tim: There's a risk in writing this way, that people won't get it or t hat people will read too 
+much into it or read the wrong things into it. Apparently, these authors thought that 
+was worth the risk to create narratives that over time becomes brilliant jewels to you. 
+Because you had to work for it and discover it along with  them. Then you get to the 
+top of the mountain and you see that the author is are already there.  
+ To me, it's becoming so clear that's how the Bible works. It's participatory. There is a 
+risk in that. The history of biblical interpretation is Exhibit A.  
+ In terms of a Christian, it's this is a story that's about coming a messianic king who 
+will rescue humans from themselves, and the death, and destruction. We willfully 
+embrace of our own will. That's where the story is going. There you go. Jesus is a 
+unifie d story  
+Jon: That gets you to Jesus. Well, it's five o'clock. Thank you, everyone, for coming.  
+Tim: Thank you guys for listening to us work through these ideas.  
+Jon: Thanks for listening to this episode of The Bible Project podcast. I hope you enjoyed 
+thinking about design patterns. We have a video on design patterns live on YouTube, 
+youtube.com/thebibleproject. It's part of our How to Read the Bible series. Up next 
+in the How to Read the Bible series will be talking about biblical poetry so get 
+excited abo ut that.  
+ This episode was edited and produced by Dan Gummel. The Bible Project is a 
+nonprofit in Portland, Oregon. We make animated videos that look at the theme and 
+structure of the Bible. You can be a part of this with us. Go to the bibleproject.com 
+and see how you can be involved or just enjoy the content we make. It's all free 
+because of the generous support of people like you. Thanks so much for being part 
+of this with us.  
+ This is [Daud Fuseli [01:18:02]? from Raleigh, North Carolina. My favorite par t about 
+the Bible project is that I don't have to necessarily read the whole Bible before 
+understanding it. And then I can get that general summarization before I get Live from Milpitas  
+30 
+ motivated to read. We believe the Bible is a unified story that leads to Jesus. We are 
+a crowdfunded project by people like me. Find free videos, study notes, and more at 
+thebibleproject.com.  

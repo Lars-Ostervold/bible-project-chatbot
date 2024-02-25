@@ -1,0 +1,701 @@
+H2R P15 - Design Pattern E3
+Crossing the Chaotic Waters
+Podcast Date: April 16, 2018
+(51:31)
+Speakers in the audio file:
+Jon Collins 
+Tim Mackie
+Iorio 
+1Crossing the Chaotic Waters
+Tim:Hey everybody. Welcome to The Bible Project podcast. My name is Tim, one of the
+co-founders of The Bible Project, and you were the wonderful person that you are.
+Welcome to the podcast. Normally, my partner and co-founder of The Bible Project,
+Jon Collins does these introductions. This is actually my first one ever. So I'm a little
+bit nervous, but there you go. I'm just gonna pretend like I'm talking to you even
+though I can't see anybody. 
+Anyway, this is Episode 3 of a four-part series that Jon and I did. It was a whole set of
+conversations we had in our "How to Read the Bible" series, both conversations and
+videos that are coming out on our YouTube channel. Here, these four conversations
+are about feature of biblical narrative that we're calling Design Patterns. 
+The first two episodes were actually done live before a live audience where we did
+Q&A. I really recommend listening to the first two episodes of this series on Design
+Patterns. This episode and the following won't make a lot of sense without those
+previous episodes. 
+But basically, we're talking about the way that biblical authors have designed and
+coordinated  different  stories  across  the  whole  of  the  Bible,  and  how  they've
+embedded repeated key themes and words in all these different stories so that as
+you read through the Bible over and over and over again, you start to connect the
+thread and are able to follow the developing theological claims and arguments and
+ideas that are being worked out in all these coordinated patterns stories. 
+In this episode, we're going to finish up the example we were developing in the
+previous ones about the temptation pattern of human failure. In this one, we're
+going to start a two-part conversation about pattern of God's salvation, specifically
+about  God  providing  salvation  at  sunrise  by  rescuing  his  people  through  the
+dangerous waters. And it all leads up to the practice of early Christian baptism. And
+if that sounds weird to you, trust me, it's so incredible. 
+So there you go. This is going to be fun conversation. I learned a ton, I hope it's
+helpful for you. Let's dive in and learn together.
+[00:02:27] 
+Tim:So we're having a conversation about how to read biblical narrative. This is the last
+installment.
+Jon:Plot character setting, and now—
+Tim:Plot character and setting, and then—
+2Crossing the Chaotic Waters
+Jon:Those are basic ones.
+Tim:Pretty basic elements to any narrative whatsoever. Then this last one is actually a
+combining all of those together and learning to pay attention to design patterns in
+biblical narrative. It's actually a technique that all narratives draw upon in some way,
+but it's something that the bigger authors have refined into a supreme form of
+artistic expression and communication. 
+It's just part of how the biblical narratives make sense and make their arguments and
+communicate this through these design patterns that are asking you the reader to
+compare narratives, and characters, and settings, and plots, both the ones that are
+right next to each other, like we looked at Cain and Abel, and Adam and Eve, but
+then also to begin linking together so that you compare narratives that are distant
+from each other, but united by these design patterns.
+Jon:We looked at a bunch of examples when we were down in Milpitas, with that crew,
+and I was really surprised at how many stories pattern after each other. It's almost
+ridiculous how much they do it. Almost, to the extent of like, "Wait, is this all the
+Bible  is  doing?"  I  guess  just  rehashing  these  ideas  again,  and  again,  through
+different characters and different times. 
+Tim:This whole discussion represents a project that I'm working on with a number of
+other  friends  and  scholars.  These  design  patterns,  it's  something  people  have
+noticed for a very long time. Especially when you read Jewish literature about the
+Bible from the period of the Second Temple, early Christianity, when you look at how
+the New Testament authors, the apostles use the Old Testament, they're paying
+attention to all this stuff. They're super keyed in. 
+So this isn't a new way of reading the Bible. It's actually one of the most ancient
+ways, and it seems to have been woven into the fabric of the composition of these
+narratives in the first place. So you're right, it's not—
+Jon:It almost seems like it was the main thing on the author's mind.
+Tim:It's like one of the main vehicles of how these authors use the narratives to make
+claims, to make an argument. 
+Jon:There was different levels of how much you're using this technique as an author.
+One level was, "I wrote this really an interesting story. Oh, I have an idea. I could take
+this one scene on my story and connected back to this other scene in the story. Oh,
+that'd be neat." 
+Tim:Sure. 
+3Crossing the Chaotic Waters
+Jon:So  there's  one  level  of  like,  it's  an  afterthought.  But  on  the  other  side  of  the
+spectrum would be every time you come to the new story, you go, "Okay, what's this
+patterning? This needs to pattern something, and I'm actually going to pattern a
+number of things." It's the first thing on your mind. 
+If that's the spectrum, and anywhere in between, it really feels like biblical authors
+are on the far end of the spectrum of it's like the first thing on their mind, how is this
+connected to other stories? 
+Tim:Correct.  Plot setting  characterization  are  all  different  ways  that  they  can create
+design patterns between stories. But the patterning and design so that you begin to
+compare parallel elements and different stories, that's like the bread and butter, you
+could say, of how they communicate. Even I think we looked at a long example of
+the temptation narrative.
+Jon:Temptation narratives, yeah.  
+Tim:So the first humans to distrust God  and make a stupid decision, whereby they
+embraced their own destruction. 
+Jon:Yeah, Adam and Eve. 
+Tim:So  it  makes  perfect  sense  that  that's  the  narrative  that  would  become  like  a
+template. They get to replay it, because that narrative is trying to make a claim about
+the human condition. Of course, all these key junctures were significant characters in
+the biblical narrative are faced with moments of decision, and it's like, "Oh." That's
+what you would expect, that it would be a replaying of the humans on Pages 1, 2
+and 3 in the Bible.
+Jon:Well, and so in cinema, this happens a lot, where you have a template for how a
+story's told. Like a "Buddy Cop" movie, right? There are tons of those, and they all
+kind of have the same beats, and they all share the same beats. And you can actually
+dissect them and put like...What's Eddie Murphy one? Hollywood Cop or something?
+Anyways, you put them next to each other, and they kind of mimic each other. In
+fact, one reason why Pixar has been so good at their early storytelling is they would
+like take Toy Story 3, for example. Do you know Toy Story 3? 
+Tim:I didn't see it. 
+Jon:You never saw Toy Story 3?
+Tim:No. I just saw 1. 
+Jon:Oh, really? 
+4Crossing the Chaotic Waters
+Tim:Yeah. 
+Jon:Oh, wow. 
+Tim:I just showed it to my kids for the first time. 
+Jon:Oh, yeah?
+Tim:Yeah.
+Jon:Did they like it?
+Tim:Oh, they were so into it. I can't wait to show them 2.
+Jon:Watch 2 and then watch 3. Three, there's a scene where all the toys are...I'm going to
+spoil Toy Story 3 story for you a little bit.
+Tim:It's okay. It's totally fine.
+Jon:All the toys get sent to this daycare, and it's like prison for them and so they're just
+like, it's a nightmare. And so they need to get out of this daycare. So there's this
+whole jailbreak scene, and the authors, the writers of Toy Story, it's a bunch of
+people working out together, in order to write that scene, they watched dozens of
+prison movies and paid attention to all the just the tropes of like in the prison
+movies there's always the old man who's in prison. He's kind of a wise old man. He's
+a salty guy, but he gives you good advice. 
+There are just all these beats for how a prison escape works in Hollywood. So what
+they did is they just took the best of that, and then they retold all of those in their
+Toy Story prison break. And that's what makes it so good. 
+Tim:That's exactly right. That's a great example of both similarities but also different than
+what the biblical authors are doing. The similarity would be, when you're reading
+through key narratives about a character in the Bible of being faced with a choice in
+this, you'll start to notice, odds are that you're going to see the garden temptation,
+and then all of its iterations. Each time another iteration happens like with Abraham
+and Sarah, then the third repetition will pick up key phrases and ideas not just from
+the first one, but from both the first and the second. 
+Jon:They'd be layered on each other.
+Tim:Remembers this was why in Saul's story when Saul's hiding among the baggage,
+that's parallel not to the garden but to Achan hiding the coveted Babylonian cloak
+and gold—
+5Crossing the Chaotic Waters
+Jon:Which is connected to hiding in the garden. 
+Tim:Yeah. So in Achan story, the “gold” it's it “fruit,” whereas, in the Saul story, Saul
+becomes the “fruit.” But he also maps on to the idolatrous plunder of Achan. It's a
+narrative argument to say that Saul has become the idol. "The people have installed
+a new idol in the place of God," it's a human King. 
+So that shows a similarity that there are these repeated patterns. But the question is,
+where did these patterns come from? In the example you just gave, it's the writers
+looking to all these other literatures outside the narrative world—
+Jon:Outside of the Toy Story narrative world.
+Tim:Outside of the Toy Story narrative like, look at every other jailbreak. And that was
+actually the way Robert Alter, the scholar whose work I was drawing on, that's the
+way he frames it is there were just these Israelite ways of telling about how people
+meet and get married. It usually happens at a well and there's hero coming and the
+woman is there. But his point is, there's some pattern that exists just out there in
+Israelite culture and then all these different stories are mapping onto it. 
+What  I'm  saying  is  different  in that  when  you  see  these  patterns,  what  you're
+watching an author do is not try mold the story to some just common way Israelites
+told for narrative. It's you're watching a narrative being formed in light of that
+author's own pondering and reflection on the Genesis narrative itself. It's internal. Its
+internal to the narrative world of the Bible.
+Jon:It's all within that same [inaudible 00:11:30]. 
+Tim:That's right. So the analogy with Toy Story would be if they modeled the jailbreak
+seen off of a jailbreak in Toy Story 1.
+Jon:Right. It's going to be hard for them to really have much material until like Toy Story
+8. 
+Tim:Yeah, that's right. Then the reverse would go, it would be that they actually had
+mapped out Toy Story 1 to 18, and you can go back and see they actually designed
+Toy Story 1 to have within it all the very Easter egg clue for the rest of the unfolding
+story. But you're not going to recognize any of those until you've seen all the way
+through to 18. 
+Then you go back to one and you're like, "Whoa, that's why it talked about them
+being naked and not ashamed. That was interesting, but what does it have to do
+6Crossing the Chaotic Waters
+with anything?" And then you see that those little Easter eggs have relevance for
+later iterations of the pattern.
+[00:12:55] 
+Jon:Yeah, that makes sense. So it's not like they just looked out into culture and said like,
+"Well,  how  does  culture  at  large  talk  about  temptation  narratives?"  I  mean,
+obviously, they would be influenced by the culture at large. 
+Tim:Yeah, that's right. The question is the primary influence, where's the first place I go
+to look?
+Jon:But primarily, they'll go, "Okay, well, in our Scriptures, how have we talked about this
+before? Let's start there. 
+Tim:Let's start there. Because, again, the first instances of these patterns begin with the
+stories about human and life on pages 1, 2, 3. So the narratives, even the names of
+the characters are trying to tell you that they're giving you like a template or a
+playbook of sorts that every story after this is going be riffing off of this template in
+some way. 
+Jon:Cool. So if I remember correctly, what we did last time was we started with looking
+at how words will clue you in the patterning? 
+Tim:That's right. Key repeated words and vocabulary. 
+Jon:And then we also then—
+Tim:Clue you into the linking together stories across a long spectrum. Like the whole
+Saul story is linked together by that word "to see" - to look at or to see. And it's the
+big stretch. It's like eight or nine chapters that that keyword just keeps developing.
+So that can happen in stories next to each other where keywords clue you into
+connections and comparisons being made. 
+Jon:"Seeing."
+Tim:Yeah.  Then  we  went  broader,  and  then  we  saw  how  the  same  technique  key
+repeated words can connect stories together that are really distant from each other. 
+Jon:I see.
+Tim:That was the idea. 
+Jon:And it's not just words. It also phrases...
+7Crossing the Chaotic Waters
+Tim:Phrases, that's right. 
+Jon:...and situations.
+Tim:Parallel plot situations, parallel settings, parallel...all that. 
+Jon:Cool. We were going through a bunch just to fly by as we did. The Adam and Eve
+story, we saw how it was to Cain and Abel story, how that was connected to—
+Tim:Abraham and Sarah.
+Jon:Abraham and Sarah, yeah. I never thought about that. That's really crazy.
+Tim:Connected to Aaron and Israelites and the golden calf. 
+Jon:And then the whole story in Joshua about...what's that guy's name? 
+Tim:Achan. 
+Jon:Achan. He's hiding that plunder.
+Tim:The golden plunder.
+Jon:The golden plunder. Then that is all these ideas then link to Saul being raised up is
+king and he becomes the idol or the temptation of Israel.
+Tim:Yeah. the Israelites become the "adam," the human Adam and Eve figures redefining
+good and evil according to their desires. 
+Jon:I think you said offhand when we were there that this could be a theme video - the
+temptation motif at some point.
+Tim:Well, I'm wondering if this should be the primary example in this theme.
+Jon:In this video. So maybe this is kind of a theme video and temptation but showing
+how patterning works.
+Tim:Yeah, that's right.
+Jon:That'll be interesting. 
+Tim:Then what we didn't do with the group is the last example. It's just a short one. After
+you've got the pattern, the way that David and Bathsheba's story is introduced is
+David's on his roof, he sees a woman, the man sees the woman, and she was good
+of sight. Very.
+8Crossing the Chaotic Waters
+Jon:Is that an awkward way to say in Hebrew?
+Tim:No. Often you'll put it like that, but "very good" to see that something is good and
+then to see that it's very good. 
+Jon:Adam and Eve saw that the fruit was good. 
+Tim:That's right. Which itself is riffing off of—
+Jon:That God made things good. 
+Tim:That's right. 
+Jon:So it's this whole battle of who decides what's good? 
+Tim:Yeah. Then once David sees that she is good, he takes her. It's just kind of this crown
+jewel, all you need is a few little breadcrumbs and you get it. 
+Jon:And the story now is connected to everything before it. 
+Tim:That's right.
+Jon:And it's really rich way because of a couple of words. 
+Tim:So let's pause. This example is mainly about humans, human characters, and their
+behavior. So this isn't just a way of being artsy and fancy. Each of those stories is
+developing the Hebrew Bibles claim about the human condition. So we redefine
+good and evil.
+Jon:We see that things are good so you want to take them. 
+Tim:Yeah. Look all these different portraits of the human failure. It can take place in
+power, sexual abuse situations - Abraham and Sarah and Hagar. It can take place in
+one-person selfishness overflowing to ruin for the many like Achan. 
+Jon:And his greed. 
+Tim:Yeah. It can come when people idolize political institutions or people and turn them
+into god figures. And will compromise and redefine good and evil if we could just
+get that person as our leader. So profound. 
+Jon:Really profound. 
+Tim:So it's a really sophisticated way of these narratives making their theological claims
+about humans and how we operate. How stupid we are. 
+9Crossing the Chaotic Waters
+So the second example, I want to look at, which when we're done with it, we might
+choose to make this the prime example in the video. I can't decide. This one's about
+a pattern in God's behavior, and a way that God typically acts to bring salvation. It's
+usually at sunrise and there's usually water involved. 
+Jon:God's romantic.
+Tim:Totally. So again, it's the same technique, repeated words, parallel scenes, all this.
+And pages 1 through 3 is where it all begins as it usually does. 
+Jon:It's such a packed, dense piece of literature right there. 
+Tim:Okay. So should we go for it?
+Jon:Let's do it? 
+Tim:Dive in. All right.
+[00:19:38] 
+Jon:Here we go. 
+Tim:Literally, the first sentences of the Bible, God creates sky and the land, and God's
+Spirit is hovering over the dark, abysmal waters, the wild and waste. That's the
+foundation image. The foundation image of uncreation or the natural state of things
+that needs to be ordered is dark water. 
+Jon:Which is very intuitive to land creatures. It's gnarly out there. 
+Tim:Yeah, I don't belong out there. 
+Jon:I don't belong. 
+Tim:I belong here.
+Jon:That' chaotic out there. And man, they just found this...I feel like we're talking about
+this kind of thing a lot. But they just found this creature that's like a shark that we
+didn't know existed and it's prehistoric. And it's like this snaky crazy shark. He's got
+like—
+Tim:Where did you see this? On Wired or something?
+Jon:I hope this is legit thing. Where did I see it? It's got all these needle teeth and it just
+looks creepy. It just lives in the deep, deep ocean. Discovery of a new shark.
+10Crossing the Chaotic Waters
+Tim:Oh, yeah, did. July 31 on National Geographic: Etmopterus lailae. It belongs to the
+lanternshark family. It was found nearly 1,000 feet below the Pacific Ocean off the
+coast of Hawaii's northwestern islands.
+Jon:Like some guys were just trolling—
+Tim:It looks like a crazy dinosaur snake. 
+Jon:Yeah. Ancient shark with a snakehead. Now, can you imagine if you ran into one of
+these things and then you just had to tell stories of what you experienced? It is
+gnarly. We do not belong in the ocean.
+Tim:That's not our place. Look at that thing. 
+Jon:It's been hanging out on our planet with us. 
+Tim:Wow. 
+Jon:The chaos dragon. The sea dragon. 
+Tim:Yeah, totally.
+Jon:It's got like 20 different rows of these crazy teeth. 
+Tim:Yeah, dude, tohu wa-bohu - wild and waste.
+Jon:Yeah, man. So yeah, we got the dark abysmal water. 
+Tim:The fundamental image is what must be overcome and done away with is that. The
+dark chaotic waters that belch up terrifying creatures.
+Jon:They are thousands of feet below. 
+Tim:So how does God's Spirit hovering over the waters do that? Well, remember the
+whole thing of breath and word? 
+Jon:Yeah. 
+Tim:God's breath authors the word; the first word is "Let there be light." So "light"
+becomes a fundamental image of light opposed to darkness. Light representing
+God's creative life and energy just flooding the darkness. And God separates the
+light from darkness, day 1.
+Jon:In Hebrew thought they must know that light comes from the sun.
+11Crossing the Chaotic Waters
+Tim:Correct. Yes, that's right. 
+Jon:So what are they talking about here? Because in the narrative logic, the sun hasn't
+been created yet. 
+Tim:Two things going on here. One has to do with the literary design of Genesis 1. This is
+a little off topic, but that's okay. So it's set in two parallel panels. The six-day has
+been set in two parallel panels of separating light and dark. 
+Jon:Day 1 is connected to day 4?
+Tim:Day 1 is separating light and dark, day 2 is separating waters from the waters, day 3
+is separating waters and dry land. Then what day 4, 5, and 6 does is go back through
+that triad and name and provide inhabitants for the realm. 
+So the separating becomes an act of ordering - bringing order to the chaos. Then in
+that ordered space, inhabitants are connected. 
+Jon:So the inhabitants would be the sun and the moon and the star?
+Tim:Yes. In the ordering of time, light and dark, the creatures that inhabit that space, give
+that order through physical realities: the sun, moon, stars. 
+Jon:Got it.
+Tim:The creature's inhabiting the water above and below the fish and sea, that's day 2.
+And then days 3 and 6 is the land inhabitants.
+Jon:Got it. 
+Tim:What this patterning tells you is that even the sequence of those six days—
+Jon:It's more literary than anything else. 
+Tim:Yeah.  Or  it's  about  the  theological  claim  being  made  that  God  is  the  one,
+especially...I actually just read this and I actually think it's right. Tohu wa-bohu, the
+Hebrew words that introduced this account, wild and waste, connected to unformed
+and uninhabited. What's God doing on days 1 to 3 is forming order and what He's
+doing on day 4, 5, and 6 is creating inhabitants. So precisely the problem of the dark
+chaotic waters. 
+Jon:Wait. So Tohu wa-bohu, is that the literal meaning of that word or unformed and
+unhabited? 
+12Crossing the Chaotic Waters
+Tim:A wild wasteland. "Wild" meaning "unformed," "unordered," and "waste" meaning
+"uninhabited." Then that precisely corresponds. So the point is that the ordering of
+the six days seems more determined by a literary-theological agenda than like we're
+watching security camera footage of the first sentence. 
+Jon:Then you know what? Why don't we make that video?
+Tim:Just that point right there?
+Jon:Just that point. 
+Tim:It could be an awesome video.
+Jon:Yeah. 
+Tim:What this  allows  you  to  do then is,  once  you  separated  these  days  from  God
+bringing into physical material existence, things that did not material, that's not the
+framework here. It's about ordering and filling the habitats. Then all of a sudden, it
+makes perfect sense that the ordering of time can be separate from the inhabitants
+of  the  sun,  moon,  and  stars.  Because  God's  not  creating  photons  here.  He's
+establishing an order of light and dark.
+And when He names what the light and dark, He doesn't name them photons. He
+names it day and night, which are categories of time that are meaningful to humans.
+Jon:Right. 
+Tim:It's an ordering of the time. 
+Jon:It's kind of Walton's point, right? Is it same Jon Walton? 
+Tim:Oh, Walton. 
+Jon:Walton? 
+Tim:Yes, that's right. That's correct. 
+Jon:And what did he call it? 
+Tim:Functional.
+Jon:Functional versus...It's kind of having these examples of when you're creating a
+business,  you're  putting  together  the  paperwork  and  stuff.  You're  not  actually
+creating anything. You're just forming the structure in which it makes sense. But
+you're not—
+13Crossing the Chaotic Waters
+Tim:Bringing order and creating structures so that something new can operate.
+[00:27:11] 
+Tim:So my point in bringing up days 1, 2, and 3 - it's actually related - is that each of the
+first three days involves an act of separating and ordering. So separating of light and
+dark, day 2 is separating waters above and waters below by the dome - or some
+translations have firmament or expense. But it's a solid thing. 
+Jon:The rakia.
+Tim:The rakia, the blue thing up there that separates the waters above from the waters
+below. So again, it's separating but now waters from waters. And then day 3 is now
+the waters under.
+Jon:Is the same waters it says that was chaotic waters? Am I supposed to be imagining
+like this big just chaotic water getting separated?
+Tim:Well, yeah, it's as if some waters that we're all one turned into two to waters above
+and waters below. Now let's focus camera pan down, focus on the waters below.
+Those waters gather together and dry land emerges. So now it's a separating of
+water from dry land. 
+So that's the fundamental act of this "Let there be light." If at sunrise God begins
+separating three acts 1, 2, 3 and dry land emerges. That's where the humans can go.
+So out of the chaotic waters, God separates and provide a safe reliable place for
+humans, and the dry land is called the yabbashah.
+Jon:Yabbashah.
+Tim:Yabbashah. So you just read forward, keep reading the story, and wow, that's cool.
+All right. Just talk that all the way. Where's the next story where I'm going to come
+across chaos waters that are destructive and where waters need to be separated or
+rolled back for somebody to be saved? It's actually not that many. 
+Jon:Yeah, but there's a really big one.
+Tim:This is a really important one in just a few pages.
+Jon:About the flood. 
+Tim:About the flood. The flood story, is an introduction with the sons of God Noah, but
+once the water starts getting talked about, what God says is He's going to bring
+waters that wipe out the living nephesh - the beings. 
+14Crossing the Chaotic Waters
+And the first narrative statement of the flood is in Genesis 7:11. It says, "The springs
+of the cosmic deep split open." So have I heard of the cosmic deep before?
+Jon:Yeah, the waste in the wild." 
+Tim:Yeah, that's the wild and waste. This is why as we've talked about this before, the
+flood narrative is uncreation story.
+Jon:Creation reverse. 
+Tim:It's God letting. Yeah, it's a reversal of Genesis 1. It's God allowing creation to sink
+back into chaos again. "So the deep waters split." So tuck those both away.
+Jon:Deep waters splitting.
+Tim:It's  the  springs split open.  It's  the  idea that the  cosmic waters  that  have been
+submerged back from under, it's now—
+Jon:Because the idea is the waters on top now they're close to us that isn't the chaotic
+crazy waters. It's really the stuff that's out in deep?
+Tim:It's either out there around the disk of the land that run or its waters under the land
+that  run  that  you  can  tap  into  when  you  get  a  well  or  something.  But  then
+sometimes those will split open in like a geyser.
+[00:31:02]
+Tim:So the waters below burst up and the waters above the windows in the rakia— 
+Jon:Burst open.
+Tim:Literally  the  doors...Oh,  no,  it's  windows.  It's  the  windows  in  the  rakia's  open.
+Remember the waters were separated from the waters on day 2. So even right there,
+it's picking up the explicit words and ideas from Page 1, God allowing creation to
+fold back in on itself in wild and waste.
+Then we're told later in the story, everything that had the breath of life...is hard to do
+an English. It's nishmat-ruach chayim. So the breath of the breath of life. 
+Jon:The breath of the breath of life.
+Tim:It's the two words for breath. Nishmat—
+Jon:The breathing in.
+15Crossing the Chaotic Waters
+Tim:Breathing in. And then the "ruach" of life.
+Jon:The breathing in of the breath of life?
+Tim:Yeah. Everything that inhales the ruach that sustains life.
+Jon:Okay. Everything that inhales the life-giving breath? 
+Tim:Yeah.
+Jon:Got it. 
+Tim:Everything that has that, that lives on the dry ground, it died. Every being was wiped
+away from the face of the ground; human, adam, beast, creepers, birds of the skies.
+So he just named the list of the creatures from days 2 and 3. That's just precisely the
+list. 
+Jon:Days 4 and 5?
+Tim:Days 4 and 5, excuse me. So you read this list and you're going like, "Oh, no. The
+light, all the ordering of Genesis 1 collapsed, all the habitats going away.
+Jon:Decreation's happening.
+Tim:It's decreation. There's no hope. There's no hope. 
+Jon:The next thing would be all the waters...Well, no, all the waters have come back
+together. The next thing would be light and darkness—
+Tim:Yeah. That's itself collapsing.  
+Jon:It collapse. 
+Tim:But instead, the next sentence is, "But Noah remained." The idea is there's a remnant
+saved out of the collapse of creation. God preserves a remnant, Noah with Him in
+the ark. So Genesis 1 is undone but now it's just the one riff. Remember in altars
+example of the Gunslinger? But then the one appears with a rifle. 
+Jon:With a shotgun. 
+Tim:This is that moment where you go like, "Oh, no, Genesis, it's all being undone. Oh
+no, no, we're all going to die." 
+Jon:And then Noah is there.
+16Crossing the Chaotic Waters
+Tim:And then right there, but Noah remained. "Oh, there's hope. There's still hope." Then
+Noah's  out  there  floating.  The  key  hinge  moment  in  the  flood  narrative  is  a
+statement "but God remembered Noah." Which is kind of like, "Did He forget about
+him?" But He remembered Noah which means this is the moment that Noah can see
+that he's not forgotten because something's about to happen. God caused a ruach...
+Jon:A wind?
+Tim:...a wind to pass over the land and the waters began to decrease.
+Jon:Which is like a creation story again?
+Tim:Yeah, it's sentence two. It's God's ruach passing over, but now over the land and
+beginning to push back the wall and the waters turned back from upon the land. So
+it's reestablishing order by means of the ruach.
+Jon:Separating again?
+Tim:Separating again. And it came about on the six hundred and first year of the first of
+the month, the waters dried up—
+Jon:Six hundred and first year of what?
+Tim:This is the Genesis 1 through 11 chronology. 
+Jon:Okay. 
+Tim:It's mapped into the genealogy of Chapter 5.
+Jon:Got it. 
+Tim:By  the  second  of  the  month,  on  the  14th  day,  Noah  looked  up,  and  behold,
+yabbashah, the waters have been separated from the land. 
+Jon:Yabbashah.
+Tim:Just like they were on day 3 of Genesis 1 and the end of day three of Genesis 1 God
+called the dry land "yabbashah." After God causes the wind to blow back the waters
+to separate water from dry land, yabbashah is what Noah sees.
+[00:35:37] 
+Tim:So just pause. We have these two stories here. Genesis 1 and Genesis 2 narrative.
+You see all this? Somebody is trying to talk to me.
+17Crossing the Chaotic Waters
+Jon:What are they trying to say?
+Tim:What was God doing with all the separating? 
+Jon:He's creating room for life, but ultimately, human life. So He's separating chaos to
+create the space for life to flourish. We see that in Genesis 1?
+Tim:Yes. 
+Jon:Then in Genesis 7 with the flood - or is it starting in 6?
+Tim:Starts in Genesis 6, but what we looked at was on Genesis 7 and 8.
+Jon:Is got all de-escalating and collapsing back on itself.
+Tim:Sorry, let's pause. Let's think back. I didn't talk about this, but what's the cause of
+creation descending back into chaos? Why does God do this? 
+Jon:Because everything in humans hearts were evil all the time. 
+Tim:So in violence.
+Jon:In violence. 
+Tim:Evil and violence. 
+Jon:Okay.
+Tim:So humans are the ones who caused creation to descend back into chaos, and then
+God hands it over. That's an interesting difference. God fights back the chaos or
+tames it in Genesis 1 to create space for humans. But then humans create the chaos.
+Jon:Bring the chaos back.  
+Tim:Then God just says, "All right, if you want Me to let this thing go back to chaos, then
+go right ahead." And that's with the flood. So sorry.
+Jon:Yeah, that's cool. So these stories are trying to tell us that it's a good thing when
+God reigns in chaos for life, but it's something that we can undo, and that it's
+something that God can redo. 
+Tim:Yeah, that's right. So, God, He redoes us His act of "here it's a form of rescue for
+Noah." 
+Jon:Right. 
+18Crossing the Chaotic Waters
+Tim:So then that makes you go back to page one and think "That is a kind of rescue.
+There are no people—
+Jon:But He's rescuing just existence. 
+Tim:Or it's the beginning of the cycle I guess. It's the beginning of the paradigm. We're
+being given, like a template here for how God overcomes chaos, or in this case, evil,
+but yet, always sparing, and providing space for a means of escape or a remnant.
+That's what the Noah story is, is God's purpose is to cleanse His world of evil and
+chaos so that there can be space for humans to be what He intended them to be.
+That's the fundamental storyline here between these two. 
+As we move on, what's another story where we're going to have some kind of
+humans creating chaos, they're suffering, God remembers and He fights the waters
+to save His remnant. You start to see a storyline.
+Jon:Fights water?
+Tim:Or He does something. He confronts the waters. 
+Jon:Yeah, totally. 
+Tim:You start to take those two stories in Genesis and you go through, okay, think
+forward, where else am I going to find all these images packed together into one
+sequence?" Usually, there's not that many. So the Exodus narrative is the is the next
+big candidate.
+Jon:Because in Exodus narrative the water is being the sea that they walk through.
+Tim:Yeah, it's the next conspicuous story where a separating the waters becomes a way
+that God rescues.
+Jon:Oh, man. It's funny because the story of Exodus for me, and you get to the moment
+of the crossing of the Red Sea or the Reed sea and it just feels like a really cool
+parlor trick or something. Right? 
+Tim:Oh, okay. Yeah.
+Jon:It's a cool visual these big walls of water, the gelatinous walls of water. Do you
+remember that?
+Tim:Yeah.
+19Crossing the Chaotic Waters
+Jon:Like that's it. It's just kind of like, well, they needed a way through. I guess that's a
+nice little trick. But you connected to this idea of God separating waters to create
+space for humans to flourish, all of a sudden, you're like, "Oh, this is mapping on to a
+much bigger idea." That's cool. 
+Tim:Yeah, yeah. What we're getting in these narratives is a portrait of the fundamental
+salvation story, which itself is just an expression of God's purpose for creation in the
+first  place  is  to  push  back  the  chaos  to  separate  an  order  so  that  human
+communities can flourish. That's page 1. 
+Then that same creative purpose will get expressed to meet at all these different
+points now where humans reintroduce chaos. And so God will replay it. But never full
+replay. It's  these creative  patterning - design patterns.  I have  the Exodus  story
+mapped out just key relevant things here. 
+So the Exodus story begins with Israelites enslaved, and the key hinge point is
+Israelites cry out - this is at the end of Chapter 2 - and God remembers his covenant
+with Abraham. 
+Jon:Some phrase from Noah.
+Tim: It's exactly the phrase from Noah, the story of Noah. Then it's the moment where
+God appoints Moses. The next story after God remembers is raising up Moses. So He
+points,  Moses,  burning  bush,  all  that,  Moses  says,  "No,  thank  you,"  and  God
+convinces them otherwise. And He says to Moses at the end of Chapter 4 - and this
+is actually planting a seed for what's coming later on - He says, "This is what you
+shall say to Pharaoh, 'Israel is My son, My firstborn son, so I tell you, let my son go
+free so that he may serve Me.'" So now God's remembering the plight of His sons
+suffering in slavery. And this whole narrative is about God freeing His son. 
+Jon:And this is the first of an order. I'm trying to remember firstborn means like, first of a
+kind.
+Tim:Yes, firstborn son meaning "status."
+Jon:Okay. 
+Tim:The one in whom I am represented and my legacy is carried on. That kind of thing.
+All right?
+Jon:Yeah. 
+20Crossing the Chaotic Waters
+Tim:So you know, the story, there's 10 plagues, all that. I'm skipping a lot here. We're just
+touching down. Pharaoh eventually is compelled to let them go after the Passover,
+and the death of the firstborn, but then he regrets it. 
+So I'm fast forwarding to the scene at the see here at the waters. So you have
+Israelites are down at the coast and Pharaohs like, "What? Oh, no. Why did I let them
+go?" So he gets 600 chariots and here's Pharaoh and his chariots advancing on this
+band of escaped slaves. 
+The people start freaking out and here's Moses response. "Don't be afraid. Stand
+here and see the salvation of Yahweh He's going to accomplish for you today. The
+Egyptians that you see today, you won't see them anymore, Yahweh will fight for
+you." As for you here's your job is to stand here and do nothing. Keep quiet. "God
+tells Moses lift your staff extend your hand over the sea and split them." Split.
+Splitting the waters.
+Jon:That's the word from the flood story?
+Tim:From the flood story, it's the springs of the deep waters split open. 
+Jon:And this is a different word than "separate" but it's the same idea?
+Tim:Yeah, correct. So this is a good example where it's not a very common word, it's in
+both cases related to the key moment of God dealing with the waters. In the flood
+story, it was about the floodwaters unleashing - chaos unleashing. Here the splitting
+has to do with the taming of the waters. o the same word has opposite functions in
+the story but it's still meant to do—
+Jon:Remind you. 
+Tim:Yeah. So the "split the waters" and "let the sons of Israel go free" in the middle of
+the sea on the yabbashah. 
+Jon:Yabbashah.
+Tim:Think through Genesis 1, days 2 and 3. Day 2 is separating waters above and waters
+below. Day 3 is separating waters and dry land. Here it's split the waters so that the
+Israelites may go in the midst of the sea...
+Jon:The separated waters.
+Tim:...on the dry land. So it's merging days 2 and 3 where the water split, sea, and dry
+land split. 
+21Crossing the Chaotic Waters
+Jon:Splitting the water to create dry land. 
+Tim:Yeah. so good. All night long the wind's blowing. That's where we're going to
+see...Oh, we haven't had the wind yet. Sorry, that's what about to happen. Sorry. I
+should just read it. "Then God set a pillar of cloud and fire between the camps of
+Egypt and Israel all night long. Moses stretched out his hand over the sea and
+Yahweh led away the sea - caused it to go back - by a strong eastern wind. All night
+He turned the sea into dry ground and the waters were split." You can see all the
+vocabulary keeps getting repeated here. Oh, but the new thing is the wind. 
+Jon:It's the wind, yeah. The ruach. 
+Tim:The ruach. So that's the ruach from Genesis 1 and the ruach of the flood story - the
+pushback of the waters. "So the sons of Israel went right into the middle of the sea
+on the dry land, and the waters were a wall for them on the right and on the left. The
+Egyptians chased after them, every horse to Pharaoh, chariots, horsemen into the
+midst of the sea, and it came about in the morning watch at sunrise." The sunrise.
+So just the whole thing is now being painted as God has split the waters, His people
+are being delivered on the dry land through the waters as the sunrise. So now it's all
+of days 1 through 3 of Genesis. The light, the separating of waters. 
+Jon:It's all happening.
+Tim:It's all coming together here. 
+Jon:"Yahweh in the pillar of fire and cloud looked down at Egypt, confused the camp of
+Egypt and the waters began to turn back and cover the chariots." So now God's
+letting  the  waters  turn  back.  "They were  in the  sea and  not  one  of  them  was
+remaining." Not one of them remained. It's that remnant word from the Noah story.
+Jon:Oh, remnant.
+Tim:But again, the purpose of the words been reversed in the flood story, Noah's the
+only one remaining in the waters. Now Israel is passing through the waters like
+Noah, and as for the bad guys, there's no remnant because they're consumed in the
+floodwaters. But the sons of Israel went through on dry land. So rich. 
+So this becomes the foundational salvation story through the waters at sunrise.
+They're  like a new Noah and his family,  the remnant,  saved out of the waters,
+Pharaoh becomes like the sons of God, and the evil generation consumed in the
+flood. And all of this is mapped on to God's creative intent to tame the chaos so that
+22Crossing the Chaotic Waters
+human life can flourish on the dry land. All these stories meld together in these
+really beautiful ways. 
+Jon:Yeah. I mean, what's the purpose of doing this? I guess what I have always expected
+the Bible to do is to be really plain about like, what does it mean to be saved? And
+let's get really...what's the word I'm looking for? 
+Tim:Be clear. 
+Jon:Yeah, be clear.
+Tim:If it's essential for your eternal destiny, you would expect it to be just crystal clear. 
+Jon:Yeah, let's make it really crystal clear. But the way that we're looking at these stories
+and creation, and how salvation is kind of all tied into this, it gets more interesting
+and more rich, and beautiful, but it becomes less clear. 
+Tim:What's less clear?
+Jon:Well, it becomes less clear, like, "what does that mean for me?" Right? Because if you
+said, "Well, salvation is this. Say this prayer, do these things or something," but if you
+say, "Well, salvation is God splitting open chaos for you to be able to thrive" then it's
+like, "okay." 
+Tim:Yeah, I got it. Well, maybe we'd have to finish [unintelligible 00:49:08] and the
+second book of the Bible. 
+Jon:Yeah, okay.
+Tim:I mean, where we're going to land is baptism. Christian baptism is where all this
+comes together. 
+Jon:All right.
+Tim:Jesus's baptism and Christian baptism. But the point is that baptism becomes a
+symbol  loaded  with  every  one  of  these  stories,  and  we're  going  to  watch  the
+apostles  do  exactly  that.  They're  going  to  draw  on  all  these  stories  to  help
+understand the meaning of baptism. So it will become concrete for people who
+need to respond to Jesus. But it's this big, huge, beautiful thing that we're being
+invited into through baptism.
+Tim:All right, everybody. Thank you for listening to The Bible Project podcast. I hope this
+was helpful for you. Our show today was produced by Dan Gummel with music by
+Tae The Producer. The Bible Project is a nonprofit crowdfunded animation studio in
+23Crossing the Chaotic Waters
+Portland,  Oregon.  We  make  short  animated  movies  about  books  of  the  Bible,
+theological themes in the Bible, and we can produce these videos and this podcast
+because of your support. 
+We've got an army of amazing people and supporters behind us, and through their
+generosity, we can make all of this stuff and then put it up online to give it all away
+for free. So if you want to learn more about what we're doing, just check out our
+website at thebibleproject.com. Episode 4 of this conversation will be coming up
+pretty soon. So thanks for listening and we'll see you next time. Cheers. 
+Iorio:Hi, my name is Iorio Di Gisela [SP]. I'm from Portland, Oregon, born and raised, but I
+now reside in Baltimore. What I like about the Bible project is they do a beautiful job
+with visualizing what the Bible has to offer, which is the truth. We believe the Bible is
+a unified story that leads to Jesus. We are crowdfunded project by people like me.
+Find free videos, podcasts, study notes and more at thebibleproject.com.
+24

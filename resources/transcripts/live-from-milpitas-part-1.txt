@@ -1,0 +1,966 @@
+H2R P13 -Design Patterns E1
+Live from Milpitas!
+Podcast Date: April 2, 2018
+(76:52)
+Speakers in the audio file:
+Jon Collins 
+Tim Mackie
+Members of the audienceLive from Milpitas!
+Jon:Welcome  to  The  Bible  Project  podcast.  Last  year,  Tim  and  I,  were  in  Milpitas,
+California for a conference called Regeneration. While we were down there, we did a
+live recording of this podcast with a couple of hundred leaders from around that
+area, and today, we're going to release the first part of that live recording. It was a
+ton of fun being down there with Tim. 
+If you've never been in a room with Tim while he geeks out about the Bible, well,
+you're in for a treat. Tim just gets excited. No other topic lights Tim up like the topic
+we addressed that day. The topic at hand is what we've come to call Design Patterns
+in the Bible. 
+If you've been following this project, you know that we like to talk about how the
+Bible is literary genius. One of the things that makes the literature of the Bible so
+sophisticated is how every story in the Bible seems to be aware and riffing off of
+every other story in the Bible. No matter what author, no matter what time period, it
+all connects together with this amazing awareness of how stories are told, why
+they're told that way. The patterns that emerge become immensely important for us
+to understand what the authors were trying to communicate to us.
+This might seem really geeky, maybe not that useful, maybe just sounds really
+strange. Well, hang in there. We're going to break down what it is and we'll follow a
+few design patterns through Scripture. As we do, I guarantee you're going to see
+how rich, insightful, and profound the literature in the Bible is. Thanks for joining us.
+Here we go.
+Tim:How are you guys? Hello. Look at these chairs to sit in. I don't know if you can see
+them.
+Jon:We brought in down special from my grandma's house, which makes me feel at
+home. Thank you for doing that.
+Tim:Hello. How are you all? 
+Jon:It's good to be here. 
+Tim:Welcome  to  here.  Here  we  go.  We're  going  to  do  this.  This  is  a new kind  of
+experiment for us. As we were thinking about what to do with this time, Jon and I
+also have a to-do list for video production. And so we needed to actually have this
+conversation that we were going to have. Then Jon pitched the idea of "Let's just
+have it with a group of people." Because he's always prodding me with questions,
+and so let's just let a whole group people contribute. 
+2Live from Milpitas!
+This is actually part of our normal process where I put together a bunch of stuff, we
+talk for hours, then he goes and writes a summary, and that becomes the first draft
+of the script for the video. So a video will come out of this conversation. There you
+go. Is that cool deal? 
+Audience:Yeah. 
+Tim:Deal. Cheers. Let's see. What's some other maybe introductory stuff?
+Jon:Typically, it's just Tim and I in a room talking through his notes or have notes like
+this, which I've never seen. I feel like a magician now. I've never seen these notes.
+Then we'll also put them up on the screen so you could follow along? 
+Tim:Yes, what's in his hand, it'll just be up there. FYI. 
+Jon:Then, my role is just to be a really persistent, annoying student. What we'll try to do
+is at certain times, stop, we'll have a couple mics, and if you want to jump in on the
+annoying persistence, then you can ask a question as well. Tim loves it. He never
+ever gets frustrated with me. 
+Tim:No. 
+Jon:I'm always surprised. 
+Tim:For Jon and I, I guess we're just taking for granted that everyone knows what The
+Bible Project is and that we make Bible cartoons for the internet. 
+Jon:The Bible Project, we make Bible cartoons in it. They're up on YouTube and on our
+website. We go through themes of the Bible and how those themes are woven
+through all Scripture from beginning to end and how they have its climax in Jesus. 
+Then also, there's a whole series of videos that Tim's pretty much solely responsible
+for the literary structure and design of every book of the Bible, which are really
+helpful. We've been doing a new series called How to Read the Bible. That series is
+going to be about 15, 18 videos.
+Tim:22. 
+Jon:22 videos?
+Tim:Yeah.
+3Live from Milpitas!
+Jon:Perfect.  That's  going  to  be  22  videos.  And  we've  been  going  through  biblical
+narrative. Has anyone seen the biblical narrative videos? A couple of you guys? Cool.
+There's one out on plots. 
+Tim:That's the one that's up right now.
+Jon:Oh, that's the one that's up?
+Tim:Yeah. Then, next comes characters. Then after that is setting.
+Jon:Oh, yeah. Those aren't out yet. 
+Tim:They aren't out yet. They're in production, and written. But they are being made.
+Then, this one's yet to exist. 
+Jon:Let's do a quick overview of the biblical narrative, plot, setting, character, and then
+set this one out.
+Tim:Nearly half of the Bible is ancient Jewish narrative. Both in the Hebrew Scriptures and
+in  the  New  Testament,  the  Gospels  and  Acts  are  ancient  Jewish  style  biblical
+narrative. They're at the same time some of the most beloved parts of the Bible
+because narratives are really a universal form of human communication. It's just
+easy. But every culture has its own unique way of telling narratives. 
+In the biblical tradition, these authors developed a really brilliant, truly brilliant set of
+tools for how they tell their stories, and they're really, really, really different than how
+modern Westerners create, and perceive how stories work. 
+That was the goal of the video series. You might think, "Four videos?" Just read the
+narrative. And it's like, "Okay, yeah, that's fine." But there's going to be all kinds of
+things. I've discovered over the years, all kinds of really amazing layers of meaning
+to stories in the Bible that I just simply was unaware of, or never saw before until I've
+actually learned how to read them as Jewish narratives, Jewish literature with a really
+particular set of conventions and attributes and ways that these stories work. There
+you go.
+Jon:Big picture, biblical narrative, there's plot setting character. Let me try to summarize
+what the main takeaways for each of those were, really quickly.
+Tim:Deal. 
+Jon:And then you can correct me. Biblical plot - that video is out. I think the biggest
+takeaway for me is that a biblical plot is like any plot. We're familiar with plots. We
+watch movies, we read books. So there's character, and there's setting, there's this
+4Live from Milpitas!
+call to adventure, there's all this rising tension that leads up to a conflict, which
+ultimately has a resolution and then the characters change and comes to a new
+normal, a new world. Biblical stories have the same plot structures.
+In the video, we looked at Gideon and how if you don't see the overall plot and
+understand a story in that context, you could easily say something the author didn't
+intend. We looked at Gideon and The Fleece, and we saw how Gideon was asking
+God for a sign and he put a fleece on the ground, make the fleece dry, and the
+ground wet. And God does it. 
+You read that story and you're like, "Oh, my goodness, that's a great story on how to
+discern God's will." But then you read the story in context of the whole biblical plot
+and you realize that it's just one part of this whole rising plot tension of Gideon not
+trusting God. 
+That's a big takeaway. But I think the bigger takeaway with plot, which the video
+didn't have a lot of time to explain, but the podcast goes in a lot of detail if you've
+listened to our episode on plot, is that there's like embedded plots in the Bible. 
+You have the story of Gideon, which takes place in a whole series of stories that
+make up the Book of Judges, and that entire set of stories has its own plot structure.
+You call those what? 
+Tim:Movements. 
+Jon:Biblical movements? 
+Tim:I call them movements. It's like Acts because I thinking about acts of the play.
+Actually, I thought that was really helpful. 
+Jon:Then those all fit into a grand biblical plot from creation to new creation. So seeing
+how these plots are embedded, it's like at any given moment reading the Bible
+you're like in inception. You're like a plot within a plot within a plot. 
+Tim:That's good. I don't think you've brought that up before. That's a good analogy.
+Actually, each subplot you're in, it's easy to forget the governing plot. Like why are
+they in this little sub-world? Because of something a plot conflict caused up here
+that force them to go down and do this other one. It's actually really good. That's
+good.
+Jon:Good analogy?
+Tim:Yeah. 
+5Live from Milpitas!
+Jon:That's plot. the video is not out yet. It's almost out. Actually, I don't know if it's
+almost out.
+Tim:Sorry. For plot, to conceive of the Bible it's an epic narrative, which means it's a
+sprawling narrative - all huge cast of characters. It's like many epic narratives that are
+out there in the world. 
+For modern Westerners, the most familiar ones now are Tolkien's. J. R. R. Tolkien's
+world - "The Lord of the Rings." Epic narratives. Because even they're separate story
+worlds. There's the Ring trilogy but then there's "The Hobbit" which is its own totally
+own plot, but it is related. It's like the pre-plot that makes sense with the others. And
+that's totally how the Bible works. 
+So it's all it's difficult when you're in the thick of the Book of Kings, and you're
+looking at Jehoahaz and his wife Athaliah and you're like, "What does this have to do
+with anything? Why do I care about this?" So you always have to rise above and be
+like, "Family of Abraham, God's blessing to all of the nations through these people." 
+Another illustration I've used is of the Russian nesting doll of dolls within dolls,
+within dolls within dolls. The whole point is to see them as a set. It's not just that you
+have one of them, and then just sit them on whatever, your dresser. It's to display
+them as a set because that's how they make sense is as a collection.
+So learning how to keep track of the layer’s plot, each layer will give a new context
+and new layers of meaning to events happening down here at the ground level. If
+you begin to see how these authors have designed little mini-episodes within their
+larger arcs, you begin to see bigger patterns, which is what we're going to talk about
+today. But learning to track plots and subplots it's like one of the bread and butter
+things about learning to read biblical narrative well.
+Jon:Nice. Another basic element of narrative is characters. A character is the person
+experiencing the plot - going through the plot. Biblical narrative is full of characters.
+How would you summarize the big pic with characters?
+Tim:At least in the history of Christian reading, especially of the Hebrew Scriptures, we've
+had a hard time knowing what to do with these Bible characters. Some of them are
+very relatable, and we sympathize with their struggles, like an Abraham or David or
+Joseph or Ruth. But then other characters in the way they figure into God's plans are
+really problematic for us, like a Samson or a Jacob. 
+I think somehow, especially in the Western Christian tradition, we tend to view the
+Bible  as  some  kind  of  moral  instruction  book.  The  characters  in  the  Bible  are
+obviously there to be examples for us. The problem is that they're all mostly really
+6Live from Milpitas!
+immoral people, really screwed up people. And that's thrown Western readers for
+such a loop that look at our children's literature about the Bible. It's often hard to
+recognize the actual biblical story in the children's versions that our kids are raised
+on. 
+I have a version of the story of Jonah in a children's book at home. I don't read it to
+my kids, but I just remind my mind of an example of what so screwed up about how
+we read the Bible. It doesn't even have the last chapter of the book of Jonah, where
+he's doing outside the city bomb that his enemies didn't get roasted by fire from
+heaven. 
+Because if you end the story with Jonah obeying and going to Nineveh and then
+Nineveh is repenting, that's a great story. It teaches you to obey God. It's a very clear
+story. But the whole thing is about that last chapter, which turns the entire story
+upside down. And all of a sudden, everything means the opposite of what you
+thought it meant. It's absolutely brilliant. 
+Apparently, that's too sophisticated for children? In a way, it is because this is not
+children's literature. This is extremely sophisticated literature. 
+So what tends to happen is that biblical characters are presented to people who
+grew up in the church in these rewritten versions of biblical stories so that when they
+actually come to read the Bible itself, the way these characters actually behave in the
+real story is a scandalous to us. We don't understand it. Why does God bless people
+who lie and murder and why does the Holy Spirit come on Samson when he's a
+violent sex addict? Is he an example? Am I supposed to be like him? Well, I guess
+not. I'm not going to kill people with [inaudible 00:15:20]. You guys are with me?
+So what are these people here for in the stories? We're going to make a whole video
+about that. Because we are supposed to relate to them, but they are not put there as
+moral examples for us. They're more put there as mirrors for us to see ourselves and
+to see our own flaws, and failures, and successes. And how these characters relate to
+God begin to give me a clue of what it means to relate to God in complex ways.
+There you go. 
+Jon:Great, perfect. The final element is biblical settings or settings in general. Every story
+has to take place somewhere and that "where" is the setting. Settings are easy to
+gloss over in any story, and not appreciate how effective of a literary device it
+actually is. 
+If I'm telling you a story, and it takes place in a spooky house, just an old rundown
+house, that's the setting. You as a listener are going to remember other stories that
+7Live from Milpitas!
+happened to take place in an old run down house. And what are you going to think?
+You're going to think, "I know what's going to happen. I've been here before." 
+The author can set your expectation really quick about what a story is going to be
+about simply by the setting that the author puts it in. In the video, we're going to
+talk about the setting of Egypt as a case study, and how that setting becomes very
+important. But they're all over, and I was super surprised. 
+When we got into this, I realized we could do a whole series of videos on settings
+and how they're used. From the wilderness being a setting, Jerusalem, Mt Zion,
+Bethlehem, on and on and on, they become these very important places where
+certain things happen and author wants you to remember those stories. They're
+building on that. I don't know if we have to really get into more of it. 
+Tim:Yeah, it's awesome. It's awesome. Again,  for  modern  readers,  because  when  we
+read the stories were like, "Oh, this is the history part of the Bible," this is just what
+happened and that just is where that event happened. That event happened in
+Moab. That event happened in Gilead, Gibeah, or whatever. And so we don't think to
+come to these narratives with the expectation that the last story that happened in
+whatever, Gilead, that may be like four books ago, but the author knows. The author
+totally knows. 
+What you'll find is that key places keep getting repeated throughout the biblical
+narrative and places acquire a symbolism based off of the events that happened
+there. You have to start from page 1, and they began to build significance as you go
+through the story. It's absolutely brilliant. 
+Jon:Do you like to do wilderness? That's a good example. 
+Tim:Yeah, yeah. A great example is...maybe a shorter one, I think...I don't remember
+doing the video. I don't remember. To the east?
+Jon:Yeah, we did. 
+Tim:Especially, in the book of Genesis, there's this real echoing motif where after the
+garden rebellion of Adam and Eve, they're banished. Little detail. They're banished to
+the east. Then after Cain and his murdering his brother, he's also banished in the
+very next story to the east. 
+Then the culmination of all the rebellion stories in the book of Genesis is in the story
+of Babylon, where all the people had one speech and they moved to the east. What
+happens in the east? The east is where you go when you've been estranged from
+God. The East is where you go as a consequence of your stupid decisions. 
+8Live from Milpitas!
+Then with Babylon, where you end up is going to the east, where all humanity exalts
+itself up to the place of God. Then you just track with it. 
+As  you  go  through  the  biblical  narrative,  biblical  authors  now  that  they've
+established the drumbeat of East, they'll just throw it in there now and then. It's like
+a little seasoning - a little Easter season in the story or something. And so they'll just
+throw in. 
+Like the rebellion of Absalom comes in the story of David. And where does David
+flee from his own palace? He flees to the east. When all Israel rebels and has to go
+into exile, where do they go? They go to the east to Babylon. They replay the
+Genesis 3 to 11 thing.
+Jon:So that's not a detail because the author is like, "I should just put in where you
+happen to [inaudible 00:20:07]."
+Tim:It's not like an archival note. It's actually a really important part of the theological
+message of these stories is where things take place. 
+Jon:Michael W. Smith song is making a lot more sense. "Go West Young Man." Suddenly,
+it's clicking. I get it now. I do these Christian references; Tim never gets it because he
+didn't grow up in Christian culture. 
+Tim:I know about Michael W. Smith. I don't know that song. But also periods of time are
+a form of setting that work exactly the same way. We'll talk about that in the video. 
+Jon:So it's not just geographic location, it's also a situation like to the east, but then it's
+also time, like 40 days?
+Tim:Yeah. 
+Jon:The 40 as a time period becomes an important setting. 
+Tim:We're certain people get tested, and usually fail. 
+Jon:Except for Jesus. 
+Tim:Yeah, except for Jesus. 
+Jon:Yeah, he overcame. All of these elements of the plot are actually going to set us up
+nicely for this conversation because we want to talk about is patterns of comparison
+in biblical narrative - which sounds really boring. Tim has actually for the last six
+months, just every day, he's like, "I can't wait to talk about this. I can't wait to talk
+about this." Your mind's been exploding with things. 
+9Live from Milpitas!
+So it's a highly anticipated conversation for us. Hopefully, it will be really valuable for
+you guys. But basically, from what I understand is that all these things: the plot, the
+settings, the characters, they all become elements in which the biblical authors use
+to build on each other, create patterns. 
+And you use the word a lot "hyperlink." That the author will hyperlink back to other
+stories and ideas and just expect you the reader to see what's going on. He's not
+going to tell you, "Hey, just like Moses did this, sometimes, I guess Paul would say
+that." But oftentimes it will be just a very small hyperlink back to the story. So this is
+what we're talking about, hyperlinks and patterns.
+Tim:We still don't know the word we're going to use in the video. We're going to have to
+work that out. You guys, I feel like this has just blown my mind over the last year or
+so. I have a group of friends that we went through grad school. They're all Hebrew
+Bible nerd professors all around the world. But we have been coordinating our
+research efforts and reading around the set of topics. 
+So there are four other friends and it's like we've never read the Bible before. It feels
+so fresh to me right now. There are two analogies. There are actually two analogies.
+One is one that starts the notes, but the other one is...I've used it before already
+actually with you. It's Yoda. 
+Jon:Yeah.
+Tim:Yoda. It's the scene Dagobah in the "Empire Strikes Back" where Luke comes looking
+for Master Yoda, but what he finds as a silly green creature. Of course, that is the
+master. But the master is so wise that he won't impose his reputation on Luke. What
+he's going to do is let Luke come to realize that he's in the presence of the master. 
+So truly it becomes a story about reality is for Luke what he expects to see. And what
+he expects to see it is a silly green creature. Of course, this isn't the master, so he
+never sees the master until he has this breakthrough moment and he realizes as all
+along he's been in the presence. You're with me? It's a classic. That's how I feel
+about the Bible. 
+I think it's essentially the way our relationships to these scriptural texts grows over
+time, is realizing that we're in the presence of such brilliant minds, empowered by
+God's Spirit to write and compose this literature in ways that I just never even
+imagined was possible. But once you expect to see certain things, all of a sudden,
+narratives that you thought you understood, you had no clue. That is happening to
+me every day now. 
+Jon:When you say no clue, you do this like... 
+10Live from Milpitas!
+Tim:I'm being...
+[crosstalk 00:25:00] 
+Jon:Well, it goes deeper.
+Tim:It goes deeper. That's right. 
+Jon:It's like, "Oh, I got it, but now I get it so much more."
+Tim:I wasn't level one, but now I realize there's actually four other levels. 
+Jon:It's not like, "Oh, I was teaching this wrong completely"? 
+Tim:No, that's true. That's a good point. That's a good point. You're right. Section. 
+Jon:Or maybe not. 
+Tim:I think I've used cave spelunking - actually, it's a bad metaphor of you thought you
+had reached the deepest chamber, and then you realize there's a crack and then,
+"Oh, my gosh, it keeps going." And there's more depth here than you first realized. 
+This particular skill set, there's actually not a lot written on it. This is not something
+that you can find in any guidebooks on how to read the Bible. Where you do find it
+is scholars who are familiar with the history of Jewish interpretation of the Bible. 
+Of course, that makes sense. These were crafted by ancient Israelite minds steeped
+in this tradition and way of writing these texts. So it makes perfect sense that the
+Jewish they've been reading the Bible 1000 years longer than Christians have, and
+for one reason or another, the Christian tradition has lost touch with this dynamic
+going on in biblical narrative. There you go. That's why we're excited to make a
+video of it. We're hyping it up now. I think we should just dive in. 
+Jon:Let's jump in. 
+Tim:Notes appear on the screen. Are you guys ready for action?
+Audience:Yeah. 
+Tim:Jon:Deal. All right. Let's start with a Jewish scholar named Robert Alter who wrote
+one of the most helpful really profound introductions to Biblical narrative. It's called
+"The Art of Biblical Narrative." He has a chapter where he lays out what we're going
+to talk about, but it's like tip of the iceberg. 
+11Live from Milpitas!
+He begins it with this really great introduction and then there's analogy. He says, "A
+coherent reading of any work of art, whatever the medium, requires some detailed
+awareness of the grid of conventions upon which and against which this particular
+work operates. Usually, these are elaborate sets of tacit agreements between the
+artist  and  the  audience  that  create  the  enabling  context  in  which  complex
+communication of art occurs." He likes to write long sentences.
+"Though  through  our  awareness  of  convention,  we  can  recognize  significant or
+simply pleasing patterns of repetition, symmetry, or contrast, we can detect subtle
+clues and cues as to the meaning of the work. We can spot what is innovative, and
+what is traditional at each part of the artistic creation. One of the chief difficulties
+modern readers have in perceiving the artistry in biblical narrative is precisely that
+we have lost most of the keys to the conventions out of which these texts were
+shaped."
+That's a dense, nerdy way of putting it. Then, he has a great illustration that makes it
+crystal clear. If you don't get his point, how would you put into normal words?
+Jon:I think where this hits home for me the most is in telling jokes. Everyone kind of
+understands that there is a structure to a joke, except for my mom. She doesn't
+really get that. But you have a setup and then you have the punch line. 
+Oftentimes, especially in very simple jokes, the setup is one beat, second beat, and
+then something unexpected. Hahaha. Is that similar to like, it's creating...It's like we
+know as the audience, "Okay, I'm being set up for joke. I know what's coming," and
+then the punchline lands. 
+Tim:I think of our kids; trying to teach our kids humor. It's so hard to teach a four-year-
+old how to tell a joke. I realize you'd  have learned the conventions.  There are
+unspoken rules to a joke. My four-year-old just tells these jokes that aren't funny but
+because he tells them by the 1, 2, 3 pattern he thinks that's what makes it funny.
+Jon:Right. But, he's learning the pattern. 
+Tim:Yeah. So he'll be like, "A [net 00:29:42] crossed the street and then a book fell down,
+and the Jell-O fell out of the bowl." And he'll laugh or something because he thinks
+that what makes it funny. 
+Jon:And you're like, "Well, good try." 
+Tim:That's a good analogy, though on a smaller level. 
+Jon:But he's got to give example of Western film?
+12Live from Milpitas!
+Tim:Yeah. 
+Jon:Let's do it. 
+Tim:Let's do it. Let's pretend it's 1,200 years into the future and post-apocalyptic scene
+and archaeologists discover in the ruins of Hollywood this old film vault and they
+find all these cans of old Western films. Then they're given to some future university
+professor of film history. Then he spends all summer watching them all.
+I go to Robert Alter's quote here. He says, "Our future film critic notices that in 11 of
+the 12 films, the sheriff hero has the same anomalous neurological trait of hyper
+reflexivity. No matter what the situation in which his adversaries confront him, he's
+always able to pull his gun out of its holster and fire before they can, even if they're
+already poised with their own weapon." All right?
+Jon:Yeah, impressive. 
+Tim:Again, just think. If you don't have any context for that, pretend you're an alien, and
+you keep seeing this pattern in these human film. Would you make sense of that?
+You'd be like, "Oh, this was a superior race among the humans... 
+Jon:...and they're just really quick with their hand."
+Tim:Yeah. But then in the 12th film, let's say there's a sheriff with an injured arm and so
+instead of a pistol, he uses a rifle that he carries slung over his back. If you had only
+seen the 12th film, that's the only one you ever saw and you were whatever, this
+future film critic, you'd be like, "Oh, he has a rifle or he's different than the other...I
+don't know. Whatever." 
+But if you've watched all 11, then you've been prepared. You know that all of a
+sudden this 12 there's an innovation, it's a variation on the theme...
+Jon:And it seems important.
+Tim:And it's important. It becomes a contrastive spin on the motif. This is his conclusion.
+He says, "Contemporary viewers of westerns recognize the convention without even
+having to name it as such. Much of our pleasure in watching westerns derives from
+our awareness that the hero, however sinister the danger is looming ahead, leads a
+charmed life that will always, in the end, prove himself more successful than his
+enemies. For us, the repetitive pattern across all these cinematic works it's not an
+enigma to be explained." "Why does he have a rival over your shoulder? That's
+weird. Just you get it? 
+Jon:Let's go with it. 
+13Live from Milpitas!
+Tim:Why does this guy always drive faster than that guy in these different movies? In
+other  words,  we  don't  even  think  about  it.  It's  so  subconscious  because  we're
+familiar with this particular convention. 
+That what he says here. With our easy knowledge of the patterns, we naturally see
+the point of the 12th sheriff.
+Jon:What's the point of the 12th sheriff?
+Tim:Well, it would be like, he's the underdog. He's going to win anyway, but he doesn't
+have the advantage that the normal sheriff has. He has a disadvantage, but he leads
+such a charmed life he's going to overcome in the end. 
+So it becomes an underdog version of the story. But you already know he's going to
+win, he's just going to win even despite this disadvantage. Within just a few subtle
+moves, here in this 12th sheriff, it's actually the absence of the pattern that clues you
+into the pattern.
+Jon:Which then shows you the level of sophistication that the author intends for you to
+have, which they could just leave out something that they know you would expect
+and that is now bringing more meaning to the story. 
+Tim:That's right. 
+Jon:And that happens in the Bible?
+Tim:It do to like the nth degree. I mean, I'm just going to show you. We're just going to
+go through tons of example. But it's insane. What it means is that these narratives
+are actually designed to do what Psalm 1 tells you to do. With the Bible is just to
+constantly reread the thing, and to read it quietly aloud to yourself, to meditate,
+because there will be things that you'll never notice until like the 85th time.
+Something going on with Abraham story connecting with some weird thing in the
+David story connecting to some weird hyper-reflexivity thing in Jeremiah. Then you
+sit back and you realize, Oh, these are...Oh." And you see that they're all talking to
+each other. 
+Jon:It's like a perpetual murder mystery night with your friends trying to figure it out. 
+Tim:What I'm saying is that these are intentionally repeated motifs that have been woven
+into the fabric of the narrative by these authors.  Many people actually noticed
+patterns in the Bible. Maybe you've noticed them before - and we'll talk about a
+bunch - but you've never thought to make anything of them. 
+14Live from Milpitas!
+But 9 times out of 10, they do fit into something the author is intentionally laid a trail
+of breadcrumbs for you to go down, which is just like you're supposed to track with
+every 11th sheriff with the Quick Draw, so that you understand the punch line of the
+12th sheriff. There you go. 
+That's the basic point to be made. Repetition begins to build expectation, and then
+variation can give you the punch line. 
+Jon:Is the rest of this just examples?
+Tim:Yes. 
+Jon:Okay. So we're going to read a lot of the Bible?
+Tim:We're just going to look at a bunch of biblical stories. Because you can talk about it
+in theory, the brilliance...You can talk about the Mona Lisa. But talking about the
+Mona Lisa will never replace just actually staring at the Mona Lisa. It's like that. 
+Jon:Cool, great. Let's stop for a second, and see if anyone wants to jump in with a
+question. There's a mic here, mic there. If you want to jump in at this point before we
+start reading scripture, go ahead and raise your hand, we'll grab you. I'll ask a
+question just to warm us up. 
+It seems like you could see this as a very elite way of reading the Bible. I think
+everyone in this room is like a leader or a teacher in some capacity. It seems like
+enough work just to get the basics across. And from the pulpit especially, to be able
+to have someone track. 
+Now you're saying, well, let's go deeper and deeper and deeper. Are we just going
+to confuse everybody? What would you say to someone who's a leader how this
+should affect the way that they're thinking about not just them reading the Bible,
+but then how they help other people read the Bible?
+Tim:I'm trying to think of a good way to...It's kind of like really any form of music. Just
+take some of the classic forums, classical music, or like a symphony. Almost anybody,
+you  don't  even  have  to  know  anything  about  classical  music  to  appreciate
+Beethoven or Bach. But that doesn't mean that the uninitiated listener actually is
+understanding  and  tracking  with  a  full  capacity  of  this  particular  symphony  of
+everything that's going on there. 
+That's why these narratives are so brilliant because even on their first reading, or first
+few readings, you get the basic ideas of what's going on. And this is how art works.
+Art is like this condensation of meaning, this density of meaning.
+15Live from Milpitas!
+Jon:I like the image.
+Tim:And that's how art communicates. It does—
+Jon:Is that your image, condensation of meaning?
+Tim:I don't know. I just wasn't doing this and it was the word that came to mind. 
+Jon:Is the word that came to mind? 
+Tim:The condensation. 
+Jon:That's cool. Condensation of meaning.  
+Tim:Or think of the most dense...This is a phrase a friend of mine uses. The dense
+German bread. They're like, you cut into, it looks like a normal loaf of bread, like a
+croissant. French croissant," and then you realize, "Oh, there's nothing in here. It's
+just there." 
+But then there's the German bread, not the French bread, the German bread and
+then it's like, "Oh, my gosh, this is hard to cut. It's so thick." That's what it's like. 
+I think how this works practically is fine both...if you're a regular teacher of the
+Scriptures,  it's  just  yourself  having  this  conversion  of  your  imagination  to  how
+amazing these narratives are, and how they work and how profound the things that
+they're communicating are. Then once you yourself are ignited to that, then you'll
+find ways to invite people in. It's more about just the narratives never stop giving.
+No matter what level you're at, you're always...
+I wouldn't use the word elite. I would just say it's like the ultimate deep cave. You
+can go on a tour to the first three chambers or you can go to the [80th] chamber.
+Just like the matrix. The blue pill or the red pill.
+Jon:Well, speaking of movies, there is that sense where there's certain movies that
+they're so well-crafted you watch them over and over and over and you keep getting
+something from it.
+Tim:That's right. That's a good example. Coen Brothers movies are like that, I find.
+Jon:And so if someone hadn't seen the movie wouldn't be like, "Okay, well, forget it.
+You'll never get it." You'd be like, "You haven't seen the movie? Let's watch the
+movie." But while you're watching it, you're thinking of things that they probably
+aren't thinking about.
+16Live from Milpitas!
+Tim:That's right.
+Jon:Cool. 
+Tim:Just to close that loop, I think it can come across from one perspective as elitist. I
+think what I want is we invite people into this paradigm of reading the Bible is
+actually to see it the opposite way. It's an invitation to discovery, to a lifetime of
+discovery, that will likely never be exhausted because I'm not sure when human
+brain contract with everything that's happening here.
+Jon:Which means you have to do it in community. 
+Tim:Correct.
+Jon:And so you get to read the Bible with people your whole life.
+Tim:There you go. That's at least how it's designed to be read. 
+Jon:Cool. Anyone who Sheriff to jump in?
+Man:You had mentioned the role of setting in a narrative and I'm wondering if this might
+be a legitimate example or not. In the book of Jonah, the prophet flees from God's
+command to go to Nineveh leaving the city of Joppa going to Tarsus. Then in the
+book of Acts, Peter receives his vision of the clean and unclean that launches the
+mission to the Gentiles from the city of Joppa. Can we take it that it was intentional
+that Joppa is mentioned and we're supposed to be thinking about Nineveh and
+Jonah?
+Tim:Yeah. That's an excellent example. Actually, the video about setting is really just a
+whole set of examples of this technique right here. So yeah, it's so random. Like, why
+does Luke in Acts, why does he bring up Joppa as this really key moment? And why
+is it that Simon son of Jonah renamed by Jesus's Petrus, Peter? But his Jewish name
+is Simon Bar-Jonah? There you go. 
+Simon, son of Jonah goes to Joppa from which the mission to the Gentiles explodes.
+Come now. You what I'm saying? Do you get it? Here's what's brilliant about that is
+because we're crossing. That's Luke. That means Luke is tracking with what's going
+on with Joppa and Jonah, and he's intentionally introduced details into the story
+to...That's a perfect example. Thank you. That's a great example. And it crosses the
+testaments. This isn't just the Old Testament narrative. The Gospels and Acts are
+written right as a continuation of this tradition. That's a great example.
+Man:Hi. I know in some of the earlier podcast, you guys talked about kind of all stories as
+is being representations of the facts that happened. You discussed a little bit about
+17Live from Milpitas!
+how people think of truth or historical accuracy and things, but I'm curious in terms
+of how do you or other scholars think about in the history of the writing and the
+editing of the Scriptures, basically, maybe in the Jewish scriptures. To what extent do
+people think that things are written in this way and then they were added on? Or do
+some people think that these details we're back at it? 
+Like, say, for the east example that you mentioned where is it something where
+post-exilic time then it becomes something that is a detail that's added to tie it
+forward  to  where  at  the  time  they  would  have  been  putting  together  all  the
+Scripture together? I'm curious about the history and how people tend to see how
+that would have unfolded.
+Tim:Oh, man, that's an extremely complex conversation, mostly because we just have so
+little hard data about the timing of the final composition of the books of the Bible. In
+other words, we can date a whole bunch of stuff in terms of the events, but the
+composition of the books themselves, it gives every evidence of having been a really
+prolonged process with lots of Spirit-guided prophetic authors that were part of the
+process. 
+The best example is the conclusion of the Pentateuch, which the last chapter of the
+Deuteronomy is about the death of Moses. Then the last sentences of Deuteronomy
+are "And no one to this day knows where he was buried." Then the last sentence of
+the Torah is, "You know a prophet like Moses just has never arisen among our
+people." 
+So the time perspective, even if the composition of the Torah, is explicitly at a far
+distance from the events of Moses himself. Which doesn't mean the Moses didn't
+play a role in writing the materials in. It actually says that quite a lot in multiple parts.
+So the best analogy that I've found, at least one I've used the most is that these
+books are like family quilts where we have quilt pieces or earlier even sections that
+were already a bunch of quilt pieces combined, and they've been received and
+passed on, carefully studied and preserved. And at some point in the post-exilic
+period, the whole quilt of the Hebrew Scriptures gets put together. 
+A lot of times, that meant just providing stitching around pre-existing works, but
+other times it involved some rearranging of older works and this kind of thing. And
+the best example, you can see, this is in the book of Chronicles. The Chronicles is
+itself a representation of the representation of Samuel and kings. This is what Bible
+nerd scholars calls it. Author of Chronicles, they call them the chronicler. But you can
+see exactly where he's doing biblical theology. 
+18Live from Milpitas!
+He's representing the story of David in light of the Torah and the prophets. So he's
+constantly adding in little details or repeated phrases as hyperlinks to link the whole
+Hebrew Bible together. There's an author, we can actually watch the chronicler at
+work making the book in comparison with the sources. So anyway, I'm sorry.
+[crosstalk 00:46:05] 
+Jon:I think this gets people a little queasy because then you start asking yourself, well,
+can any of these stories be trusted? Are these authors just picking and choosing
+details to make the point or did this actually happen? And that becomes specifically
+really important when we talk about the life, death, and resurrection of Jesus. I mean,
+if it didn't happen, what are we doing? Can you speak to that queasiness?
+Tim:We've talked about this before. The biblical authors are both concerned to pass
+down to us their traditions and the memories of things that happened, but they're
+not just archivists. They also want to make very clear to the readers the meaning and
+significance of what these events have for God's purposes in history. 
+These events they both represent events and they present them in a way that shows
+you how to fit into God's purposes for all of history. And the primary way they do
+that is through narrative patterning. 
+One of the biggest ways this happens for sure is in characters’ names, like the
+symbolic names that people have. Whether or not the husbands that Ruth and
+Orpah married  their names in...Mahlon and Chilion.  Those  Hebrew words  mean
+"done  for"  and  "sicko."  [SP]  And  because  they  come  on  to  the  stage  for  one
+sentence only to die, the author brings them on to kill them off to create the tragedy
+of the whole story.
+Would you ever name your kid, sicko or done for? So I do think these authors
+writing literature and they think about history and how to represent that history in a
+different way than modern people do. We just have this hang up. And it's from a
+good motive that the events, the core events really represent things that happened. I
+think they care about that too. Otherwise, they wouldn't be telling us these stories. 
+But they also want us to understand the meaning of these stories. I don't think these
+authors were as nervous as we were about airbrushing the portraits. I don't think we
+need to be embarrassed of that either.
+I want to make sure my expectations of these narratives are the ones that lead me to
+see the master, not the ones that keep me in the presence of the silly green creature.
+19Live from Milpitas!
+Jon:You gave me a really great example on that as on a previous podcast episode, I'm
+sure of if I asked you how you met your wife, you and Jessica. You've told the story
+so many times that the story it's got its own shape, and rhythm and movements.
+And if you're telling it together, you have your own parts. 
+And if I actually had a video camera, and I saw exactly what happened, and I'm trying
+to match that to what you guys are saying, I'm going to see some discrepancies. Like
+you might have made a setting, maybe it wasn't exactly in that setting but that
+actually really helps this story.
+Tim:We will condense what was actually three conversations into one conversation or
+that kind of thing. 
+Jon:But for you, the integrity of your relationship with Jessica is actually mostly or is
+actually better explained in that way you're telling it. 
+Tim:That's right. It's a faithful representation, but it's not video camera footage.
+Jon:And it's hard to feel comfortable with honestly. Even we've talked through that many
+times, and it's kind of like, "Okay. It's weird." All right. One more question. Let's get
+into...
+Man:As we're talking about leading people through the Bible, through this literary artful
+approach, how do we help begin to navigate people through their own paradigm,
+which especially for the younger generation it's increasingly being literal and linear,
+where literature is not that way? They go to STEM programs where it's all about
+linear  thinking,  and  the  linear  approach,  but  we  have  this  artful  approach  to
+literature. How can we help them navigate, just break down some of those walls to
+help them at least get to the point to begin to view it as literature and not just
+literal?
+Tim:Wow. So interesting. It might just be a difference of culture and where people are
+from or where they live. Portland is a town that's obsessed with aesthetics, and
+beauty, and design to the fault of it actually being an idol that ruins people. In my
+mind, this is perfect. 
+This is perfect. There's no better way to bring people into the biblical story than to
+show its high literary aesthetic because that's compelling. But you're right, there's a
+whole other layer of our American culture that's like, "Why wouldn't you just say it
+the way it is? Why do you get to use a metaphor? Or why do you have to write
+poetry?"
+20Live from Milpitas!
+In a local church setting, I think it is about trying to find creative ways to imitate the
+literary diversity and beauty. Which the medium of the sermon can invite people into
+that, but it's certainly not the only or most effective way to do that. So whether that's
+having public readings of Scripture or biblical poetry or interpretation of Scripture
+through other mediums to help get people using a different part of their brain to
+process things that are real and true. Because that's what the Bible is doing. It's
+using such a diverse set of tools to engage the whole human not just our brains. I
+don't know if I answered your question. But it's a good one. 
+Jon:Yeah,  that's  a great  question.  Something  to keep  thinking  about.  Let's  do one
+example and then what we're going to do is we're going to then take a break to use
+the restroom or whatever, and we'll come back, we'll do a couple more. Let's jump
+in. 
+Tim:Actually, we can do more than we one. 
+Jon:We can do more than we one?
+Tim:Yeah, totally. 
+Jon:All right. Do it. 
+Tim:Here's the first tool. It's the most simple one to track in the biblical authors' toolset
+and it's the most basic thing to human communication, which is repetition. Like, if it
+matters, I'm going to keep saying it. The principle holds in biblical literature, but
+especially in narrative that if you want the clues to what an author is emphasizing in
+themes, just look for the repeated word image. 
+Jon:It is pretty basic. My kids get it. 
+Tim:It's super intuitive. You don't even need to say it. The way Hebrew works, Hebrew is
+able to actually repeat words in more creative ways than most languages. 
+Jon:Why?
+Tim:The language structure has three letter. All Hebrew words are built off of three
+letters. What that means is that verbs, and nouns, and adjectives, you will almost
+always see those three letters in them no matter what form the word is. So it's very
+easy to spot repetition because it can be a verb, it can be a noun, it can—
+Jon:The same three letters can be a verb, or a noun or...?
+Tim:Correct. Like in English, you would say, "I go to the store. I went to the store. I am
+going to the store." Well, I guess you have "go" and "going." That's an example. "Go"
+21Live from Milpitas!
+and "going." But in Hebrew, it's much more adherent to that pattern. It means they
+have this tool in their own language to create word plays and repetition in ways that
+it's hard to do in other languages. 
+An example. There was a German scholar I was going to quote, but let's just do an
+example. This will be intuitive to most people. I think it's the word "good," which, in
+Hebrews the word "tob," right through the very first pages of the Bible. It strikes
+most readers on page 1 of the Bible because you have that sevenfold repetition. 
+Jon:Yeah, it's really redundant. Good, it's good, it's good. 
+Tim:That's right. Each of each of the days, actually, not each of the days, day 2 doesn't
+have any "goodness." So it's double "good" on the next day. But it gets repeated six
+times. Then the seventh one, there's payoff if you've been noticing. Because this
+phrase, "God saw that it was good" and "God saw that it was good." And then the
+last one, "God saw that it was very good." 
+Jon:The last one, the sheriff was carrying a rifle over his shoulder.
+Tim:Yeah, totally. That's right. And even you don't have to know anything about Hebrew,
+ancient, anything. You just read page 1 of the Bible, the word good, keeps popping
+up. Then the last one, "very good." Right? you're with me? There's aesthetic pleasure
+that comes from tracking with that and it's the culminating point that God loves this
+world. It's very, very good. 
+Then you figure like, "Oh, good. That's important. That's an important word. "Tob."
+You go to page 2 and then you see that God provides all of these trees for humans
+that are good. And good for what in particular? They're good for eating. That's the
+first time where "good" appears after the sevenfold good in page 1. 
+Jon:For food.
+Tim:Good for food. Like, "Oh, that's what trees are good for. They're good for food." But
+then there's one particular tree, it's the tree of knowing good and not good. 
+Jon:Hold on a second. It doesn't say "not good." 
+Tim:It says "evil." 
+Jon:Yeah.
+Tim:Well, what it says is "rah." The Hebrew word is "rah." 
+Jon:Tob and rah. 
+22Live from Milpitas!
+Tim:Tob and rah, yeah. What is good and what is not good. I find that using the word
+evil...evil in English has all this philosophical baggage but metaphysical evil that
+Hebrew "rah" doesn't quite have. The point is—
+Jon:That sounds interesting. 
+Tim:It is interesting. 
+Jon:Tell us more. 
+Tim:The point is, God who up to page 2 who's responsible as the giver and seer and
+acknowledger of what is good. And it's very clear. Page 1, God. Then what He does is
+He gives that good now in a very tangible form to the humans. But also in front of
+the humans is a way of knowing what is good, and what is evil, or not good. That's a
+bit of a twist. It's like, "Oh, everything's been good, but now there's something that's
+good and the opposite of good. What's that about?" 
+And knowing humans can know what is good or not good. Then you have to go
+have a cup of tea, or you're supposed to go have a cup of tea. Well, if the humans
+right now what's prohibited to them is knowing what is good and what is not good,
+then, who does know what is good? Just think through the logic of the narrative.
+Who knows what is good? It very obvious. That's intuitive, you follow it through.
+That's off limits. 
+God is the provider of good and He's the knower. There's something about humans
+knowing and discerning good and not good that's going to go really bad if humans
+do that because the day you eat of it you'll die.
+You also get some stuff about the gold of that land. That was good. It's good. So it's
+not just what you eat, it's aesthetic beauty. Gold, value. The first thing that is not
+good explicitly, is something that God identifies within His world, and it's of a human
+alone. 
+Notice it's a repetition. He said, "It's not good." So God is both a provider of what is
+good and He's the knower of what is good, and what is not good, because He can
+discern what's not. So all these go together here. God's the one with knowledge of
+good and evil, and the male and the female, and so on. 
+The next time the phrase appears is when the snake comes to the woman and says,
+"You know about that tree. If you were to be the ones knowing what is good, and
+what is not good, you would be like God." Which introduces an irony into the
+narrative, because, of course, they are the image of God. But that's how we dupe
+them. 
+23Live from Milpitas!
+All of a sudden, knowing what is good and what is not good, it becomes into the
+human’s mind like, "Oh, maybe that's something that God's holding out on me."
+Which creates the irony in the story because all that God's been providing is good.
+That's what He wants for the humans. But now the humans have this choice in front
+of them. 
+The key line comes when the woman saw that the tree was good. Now, just that
+phrase right there, who's the only other character up to this point who has seen and
+truly identified "good"? 
+Jon:God? 
+Tim:This is very obvious. You have now the human who's putting themselves in the
+position of God to see what is good. It's a contrast. Using the same phrase, it's the
+human acting in the role that God has put themselves in. When God sees good,
+what results? More good. When the humans see something and be like, oh, that's
+the good thing, what happens? It's the opposite. 
+That's a good example of it's an identical phrase "God saw that it was good" "the
+woman saw that it was good," but they're contrasting. They are both in the motive
+and in the result of what happens. There you go. So let's just pause right there. 
+Just on pages 1 to 3, you see, all of a sudden, oh, this is really important. This
+keyword, it's not the only word, there are tons of other things we do, but this is a
+really easy one to identify.
+Jon:Like, the author could have chosen different words, different ways  of saying it.
+Obviously, it was crafted this way. 
+Tim:Yes. Just "tob," clearly it's keeps getting repeated. 
+Jon:We're  talking  about  jokes  before  and  it does  remind  me  of  a good  comedian
+chooses every single word very carefully and it's super important. The same thing
+with a good author. Especially for writing poetry, I guess any work, but poetry's like
+every single word, you're doing it for the exact reason. 
+Tim:Yeah.  Actually, poetry is a good example. Typically, you expect that of poetry,
+because, you know they're using fewer words to pack in more meaning. But in the
+Western tradition of say, fiction writing or novel, or even writing biographies, the
+point is not being concise. It's actually often the opposite. 
+Here with biblical narrative, it's already very spare, but you begin to realize every
+word is crafted in the same kind of intentionality.
+24Live from Milpitas!
+Jon:Because I could say, "I think you're getting a little too crazy in how you're..."
+Tim:Reading too much in?
+Jon:You're reading too much into this. You're trying to make it do too much because
+you think this is a special text. But you're saying like, "No, everything's intentional."
+Tim:It's a cumulative case. This is just the first example. This is about one keyword that
+you find linked throughout a whole bunch of stories. Here's an example from Luke
+where it's a key phrase—
+Jon:You didn't do the last bit of Genesis 4. Does it matter? It doesn't matter?
+Tim:Yeah.
+Jon:We're cruising?
+Tim:Yeah, we're cruising. Here's in Luke 3 and 4. This is where Jesus first comes on to the
+narrative scene in the Gospel of Luke. The first is the story of his baptism. For the
+reader, actually, Jesus has been introduced the birth narratives, but as an adult, this
+is his entry onto the scene. It's the classic baptism scene of the sky opens, the
+heavenly voice speaks, you are my son, the Spirit, all that. 
+So you walk away from that narrative. Who's Jesus? He's the beloved Son of the
+Father. There it is. He's the son of God. The next literary thing is the genealogy that
+Luke provides. He builds it in such a way that actually begins with Jesus, and then
+works backward, all the way back through the Hebrew Scriptures. It's the reversed
+genealogy all the way back through the Hebrew Scriptures, going back to the first
+human character who's called the Son of God.
+Jon:Luke calls him that?
+Tim:Luke call Adam the Son of God. 
+Jon:Okay.
+Tim:All of a sudden, you're like, "Oh, two stories right next to each other, both culminate
+in this phrase "the Son of God"" Jesus goes into the wilderness and the first thing
+that the Satan is testing Jesus with is trying to undermine, and get Jesus to doubt his
+identity as - it gets repeated - "If you really are God's Son, then do this."
+After that, Jesus goes to the town of Nazareth, and he's giving his sermon, his intro
+sermon. And the first thing Luke tells us that people ask is, "Whose son is this again?
+Wait a minute. Isn't this the kid who grew up in town here?" Now it's people
+25Live from Milpitas!
+doubting Jesus. After that is the story where Jesus cast out a demon and the first
+thing that the evil spirit say is, "You are the Son of God." 
+Look what he's done here. He's put five episodes right next to each other.
+Jon:All on a row?
+Tim:Yeah. They all culminate in this moment of Jesus's identity being the son of God. But
+notice in each of the stories it's a different type of claim being made. In the first, it's
+the father. In the second, it's Luke appealing to Jesus's son ship as in continuity with
+the story of the Scriptures. In the third one, it's about Jesus's identity as the son
+being tested. In the fourth one, it's his identity being doubted. Then in the fifth one,
+it's his identity being acknowledged but from a really surprising source, namely,
+spiritual evil. 
+So you can see it's creative. This is creative way of forcing the reader to look at Jesus
+identity from all these angles. It's Luke's way of trying to persuade you as to the
+identity of Jesus, but he does it by showing how the identity of Jesus is complex and
+contested, and it's something that you have to discover just like all these different
+characters, and people do. It's brilliant. Because he could just write like the way Mark
+does at the beginning. "This is the gospel about Jesus Christ, the Son of God."
+Jon:"And we're moving forward. We got thing to do."
+Tim:"Let's move on." But instead, he does this. And so it kind of goes back to the
+question of like, why didn't the biblical author just say it like it is? And it's just, well, I
+don't know.  It's a different culture. This is how God  chose to reveal Himself is
+through this literary tradition in Israelite culture that has a much more effective way,
+I think, of communicating.
+Jon:This sticks with you a lot more.
+Tim:Totally, yes. The first time I noticed this, this was years ago that I noticed this, and
+then it never left my memory. 
+Jon:Yeah, this will preach. 
+Tim:Yeah, totally. You want to do one more example and then maybe a potty break? 
+Jon:It looks like a long one. 
+Tim:This is the longest one, but it's cool. 
+Jon:All right. It's good. 
+26Live from Milpitas!
+Tim:This has to do with how the word site or seeing plays a crucial role in the story of the
+selection of Saul and then of Saul's failure in the book of 1 Samuel. This is where it
+begins to branch off into keywords is one crucial piece - repeated words. But also
+when you see keywords repeating, you're supposed to start noticing all kinds of
+other things happening in the story that begins to match up as you go through.
+Themes - repeated ideas. 
+The first time that people ask for a king, and that's kind of screwed up and that's a
+whole complex thing. We can't talk about that right now. But the people asked for a
+king, God allows them to choose a king. And then here comes the story. Were
+introduced to Saul son of Kish.
+The first thing we're told about him is, he was a man choice and good, that there
+was no man more good than him. From his shoulder up, he was taller than anyone
+else from among all the people. Now, I'm highlighting that detail because once you
+finish the story, it makes you want to go back and reread it and you realize, "Oh, I
+get it." But just ask yourself, why am I being told this information?
+Jon:That he was taller? 
+Tim:Of all the things that you could tell me about a person? 
+Jon:Yeah, because one thing we did bring up is in the character conversation is you
+made a point to talk about how in biblical storytelling characters aren't given a lot of
+detail.
+Tim:Physical appearance.
+Jon:Also what they're thinking...Oh, yeah, it was a physical appearance. So you get to a
+character and you have no idea what they look like most of the time, which is totally
+different than how when we read stories, we expect, like, "Let's fill this out. I want to
+know what this person looks like. Give me some important attributes." When the
+Bible does it, it's few and far between and it's always really significant. 
+Tim:That's right. Usually, it's not just an interesting detail. It's because that detail about
+their body is going to be crucial for the narrative or it's symbolic of something that's
+going to happen in the story, which is true in Saul's case. 
+Jon:Saul's tall.
+Tim:Saul's taller. Next bit of the story is his dad loses some donkeys so they goes to
+search for them. Saul goes off, he can't find them. He ends up in this town where a
+prophet lives. And that's Samuel. Then all of a sudden, the story gets interrupted,
+27Live from Milpitas!
+because Saul says, "Hey, let's go to the town and find the seer." The one who sees.
+It's an odd phrase. The one who sees.
+Jon:This isn't a typical Hebrew phrase?
+Tim:Not for prophet. No. But what he says is "let's go see the seer." Then the narrator
+interrupts the story and says, "Hey, dear reader, sorry just quick little glossary thing
+here. Today we use the word prophet, but back then in his day, they used the word
+seer." Then the story just keeps on going. You're just like, "What was that for?" I
+guess that was helpful. 
+But right there is somebody breaking into say, "Why didn't the narrator just use the
+word prophet?" All sudden, it highlights...
+Jon:Then he wouldn't have had to make a comment. 
+Tim:Exactly. All of sudden, my radars up, oh, the word see is really important in the story.
+Everything comes forward to the moment in 1 Samuel 9 when Samuel sees Saul for
+the first time, and the Lord says, "This is the man who will direct my people." Then
+Samuel after he anoints Saul, he then presents him to all of the people and he says,
+"Everyone, do you all see the one whom the Lord has chosen? There's no one like
+him among all the people." Now, what does that mean? What makes him unique
+among all of the people?
+Jon:He's tall.
+Tim:He's tall. So the seer, the one who sees, the one whom God chooses to see Israel's
+King - what Samuel see? He sees that Saul is awesome. He's a giant, which is not
+insignificant for where the narrative is going in the book of Samuel if you know what
+I'm saying. Tall people, tall soldiers in the book of Samuel? Come now.
+In other words, Samuel's being depicted here as somebody who's impressed by
+Saul's height. That's where he first noticed, and now that's what he's introducing him
+to the people. He's supposed to be the one who sees as the Prophet, but we're
+beginning to wonder, like, he's just impressed with Saul's height.
+Saul goes on to then have all these narratives of failure of how he doesn't obey
+God's word, and so on. Samuel says, "You Saul have rejected the word of the Lord
+and so the Lord's rejected you as king." The next part of the story is the introduction
+of David. We hear the Lord say to Samuel, "I've rejected Saul as king over Israel. I will
+send you Jesse from Bethlehem because, among his sons, God says, 'I have seen for
+my people a king.'" 
+28Live from Milpitas!
+In other words, the narrative has introduced the seer and you're supposed to trust
+him. He's a prophet. He will see accurately. He's the leader of the God's people. But
+then the story tells you what it is Samuel saw. Samuel saw that he was tall and
+powerful. Then what does that tall, powerful guy do? He totally fails. 
+Now God comes onto the scene and says, "okay, since you didn't see in the right
+way," God says, "Let me show you who I see." Jesse brings seven out of eight sons
+before Samuel. Then the narrative is great. It says, "When Samuel Eliab, the firstborn
+of Jesse, he said, "Oh, surely the LORD's anointed is before me." And the Lord said to
+Samuel, "Don't focus on his appearance." This is a good example. 
+In Hebrew, the word "see" is "ra'ah." In Hebrew "sight" is "mar'eh." It's the same
+three letters at the root of the word. Literally, it's "don't focus on his site or his see
+ability." So don't focus on what is seen. What is it that Samuel saw? How tall this guy
+is. Now, he's not talking about Saul. Who's he talking about? Who's he talking
+about? Who is Samuel seeing? 
+Jon:Eliab.
+Tim:He's seeing. So Eliab becomes like a stand-in for Saul. "So don't look at his height.
+I've rejected Eliab. For God doesn't see like humans see. Humans see with their eyes,
+God sees the heart." Dude, that's good. That's good. Now, you probably maybe you
+knew that line from the David story. But did you know that it's the climate of a whole
+trail of breadcrumbs that's been going since chapter 9?
+Jon:Thanks for listening to this episode of The Bible Project podcast. We have a video on
+design patterns in Scripture coming out on our YouTube channel. All the videos on
+our YouTube channel can be found at Youtube.com/thebibleproject. They also can
+be found on our website, thebibleproject.com. 
+This particular video will be out soon. It's called "Design Patterns in the Bible." It's
+part of our how to read the Bible series. This episode was edited and produced by
+Dan Gummel and it was made possible by the hundreds of people who support this
+project. 
+The  Bible  project  is  a  nonprofit  crowdfunded  operation,  and  you  can  find  out
+everything  we're  up  to  at  thebibleproject.com.  Next  week,  we'll  continue  this
+conversation on design patterns in the Bible. Until then, thanks for being a part of
+this with us. 
+Man:We believe the Bible...
+Kid:We believe the Bible...
+29Live from Milpitas!
+Man:Is a unified story...
+Kid:It's a unified story...
+Man:That leads to Jesus...
+Kid:That leads to Jesus... 
+Man:We are a crowdfunded...
+Kid:We are a crowdfunded... 
+Man:Projects...
+Kid:project...
+Man:By people like me...
+Kid:By people like me...
+Man:Find free videos...
+Kid:Find free videos...
+Man:Study notes...
+Kid:Study notes...
+Man:And more...
+Kid:And more... 
+Man:At thebibleproject.com.
+Kid:At thebibleproject.com.
+Man:Perfect.
+30

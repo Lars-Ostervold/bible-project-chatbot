@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+google-cloud-storage = "*"
+beautifulsoup4 = "*"
+selenium = "*"
+google-cloud-speech = "*"
+pypdf2 = "*"
+spacy = "*"
+pinecone-client = "*"
+streamlit = "*"
+openai = "*"
+langchain = "*"
+langchain-community = "*"
+langchainhub = "*"
+langchain-openai = "*"
+langchain-pinecone = "*"
+numpy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.13"
