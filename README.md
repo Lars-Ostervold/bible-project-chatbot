@@ -1,9 +1,12 @@
 **Currently a work in progress, just updating the README as I go.**
-Latest update - scraping script for podcasts completed. Audio files were converted to text using Google's speech-to-text before this PR.
+Latest update - chatbot functions in the CLI on my local environment. Others would have to generate they own database still.
 
 
 # bible-project-chatbot
 A chatbot that will answer questions from Bible Project material. Augmented with all podcasts, videos, study notes, and blog posts from Bible Project.
+
+# Instructions
+Currently it just functions in the CLI, but next PR will include a streamlit interface. Just install the dependecies from the pipfile and run the 'app.py' script in the primary directory. Right now you'd have to generate your own Pinecone vector database and use your own OpenAI API key. Once I get the frontend rolling I'll have a deployment that includes these.
 
 # Data Scraping
 Files for data scraping are found in ./data-scraping. Podcasts, videos, study notes, and blog posts each have their own scraping function.
