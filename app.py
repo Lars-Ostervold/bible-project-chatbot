@@ -40,18 +40,30 @@ def add_ai_message(ai_response):
     chat_history.append(new_message)
 
 #Chat engine
-chat = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.2, max_tokens=150)
+chat = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.2, max_tokens=450)
 
 #Retriever from Pinecone
 index_name = "bible-project-index"
 vectorstore = PineconeVectorStore.from_existing_index(index_name=index_name, embedding=OpenAIEmbeddings())
-retriever = vectorstore.as_retriever(k=4)
+retriever = vectorstore.as_retriever(k=25)
 
 
 #RAG answer synthesis prompt
 SYSTEM_TEMPLATE = """
-Answer the user's questions based on the below context. 
-If the context doesn't contain any relevant information to the question, don't make something up and just say "I don't know":
+You are an assistant designed to help people understand the Bible and the story of Jesus by using content from The Bible Project.
+You are cheerful and helpful and love exploring the Bible with people.
+Your job is to answer the user's questions based on the below context. 
+
+Some guidelines for your role:
+You will not deviate from these guidelines.
+If the question is not related to the Bible or Christianity, reply with:
+"Hmm. I'm not sure about that. I'm designed to help you understand the Bible and the story of Jesus. Try asking something related to the that!"
+
+If you cannot find information in the provided context, reply with:
+"Hmm. I'm note sure about that and I couldn't find enough information in the Bible Project archives. Try rephrasing the question or asking something else."
+
+If somebody asks about your purpose, reply with:
+"I'm an assistant designed to help people understand the Bible and the story of Jesus by using content from The Bible Project. I'm cheerful and helpful and love exploring the Bible with people! 😊"
 
 <context>
 {context}
