@@ -1,4 +1,5 @@
 import os
+import json
 from operator import itemgetter
 from typing import List, Tuple, Dict
 from dotenv import load_dotenv
@@ -25,6 +26,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 import streamlit as st
+import time
 
 chat_history = []
 
@@ -38,6 +40,58 @@ def add_user_message(user_input):
 def add_ai_message(ai_response):
     new_message = AIMessage(content=ai_response)
     chat_history.append(new_message)
+
+#TODO: There's a cleaner way to do this. Maybe separate into its own file?
+def get_sources(response):
+
+    #Take source and just get the hyphenated part to search the json
+    def format_source(source):
+        source_name = os.path.basename(source)
+        #split at period and take first part
+        source_name = source_name.split(".")[0]
+        return source_name
+
+    sources = [document.metadata['source'] for document in response["context"]]
+
+    #Make a new list of sources with the hyphenated part
+    cleaned_sources = []
+    for source in sources:
+        cleaned_source = format_source(source)
+        cleaned_sources.append(cleaned_source)
+
+    #Now we search the json for the sources
+    with open('./map-files-to-links/aaa_all_link_maps.json') as f:
+        data = json.load(f)
+
+    #Get the matching keys
+    relevant_keys = []
+    for source in cleaned_sources:
+       for key in data.keys():
+           if source in key:
+               relevant_keys.append(key)
+    
+    #Store the values for the matching keys
+    relevant_sources = []
+    for key in relevant_keys:
+        relevant_sources.append(data[key])
+
+    #Now we format for the return. If it's a podcast, return the link.
+    #If study notes, return the title and link.
+    #If script references, just a string including the title suggesting to search for the video.
+    further_info = []
+    for source in relevant_sources:
+        #TODO: For podcast, need to figure out how to make the link the video title
+        #once I get to the frontend
+        if "podcast" in source[0]:
+            further_info.append(f"Listen to the \"{source[1]}\" podcast located here: {source[0]}")
+        elif "study-notes" in source[0]:
+            further_info.append(f"See the study notes on \"{source[1]}\", at {source[0]}")
+        elif "video" in source[0]:
+            further_info.append(f"Search for \"{source[1]}\"{source[0]}")
+        else:
+            further_info.append("We didn't find a source for this in our mapping. Please report this error.")
+
+    return further_info
 
 #Chat engine
 chat = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.2, max_tokens=450)
@@ -60,7 +114,7 @@ If the question is not related to the Bible or Christianity, reply with:
 "Hmm. I'm not sure about that. I'm designed to help you understand the Bible and the story of Jesus. Try asking something related to the that!"
 
 If you cannot find information in the provided context, reply with:
-"Hmm. I'm note sure about that and I couldn't find enough information in the Bible Project archives. Try rephrasing the question or asking something else."
+"Hmm. I'm not sure about that and I couldn't find enough information in the Bible Project archives. Try rephrasing the question or asking something else."
 
 If somebody asks about your purpose, reply with:
 "I'm an assistant designed to help people understand the Bible and the story of Jesus by using content from The Bible Project. I'm cheerful and helpful and love exploring the Bible with people! 😊"
@@ -120,60 +174,54 @@ conversational_retrieval_chain = RunnablePassthrough.assign(
 )
 
 
-#Set up a 10x loop for testing
-for i in range(10):
-    #User input
-    user_input = input("You: ")
-    add_user_message(user_input)
 
+
+def display_chat_history():
+    """Displays conversation history in Streamlit chat format"""
+    # Display chat messages from history on app rerun
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+
+def run_rag_conversation(user_input):
+    """Runs RAG conversation and returns AI response with additional sources"""
+    add_user_message(user_input)
     response = conversational_retrieval_chain.invoke(
         {
             "messages": chat_history,
         }
     )
-
     ai_response = response["answer"]
+    sources = get_sources(response)
+    ai_response += f"\n\nHere's what we'd suggest for further learning: \n" + '\n'.join(sources)
     add_ai_message(ai_response)
-    print("AI: ", ai_response)
+    return ai_response
+
+#Lets us stream the response
+def response_streamer(response):
+    #Streamlit uses html, so need to replace newlines with <br/>
+    for word in response.replace('\n', '  \n').split():
+        yield word + " "
+        time.sleep(0.05)
 
 
-#----Let's worry about streamlit later-------
-# st.set_page_config(page_title="Chat with the Podcast Bot", page_icon="🎙️", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.title("Bible Project RAG Chatbot")
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+display_chat_history()
 
-# st.title("Chat with the Podcast Bot 🎙️")
-# st.info("Ask me a question about my favorite podcast!")
+if prompt := st.chat_input("Ask me a question about the Bible!"):
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    
+    # Run RAG conversation and get AI response
+    response = run_rag_conversation(prompt)
 
-# if "messages" not in st.session_state.keys(): # Initialize the chat messages history
-#     st.session_state.messages = [
-#         {"role": "assistant", "content": "Ask me a question about my favorite podcast!"}
-#     ]
+    # Display assistant response in chat message container
+    with st.chat_message("assistant"):
+        response = response.replace('\n', '<br>')
+        st.markdown(response, unsafe_allow_html=True)
 
-# @st.cache_resource(show_spinner=False)
-# def load_data():
-#     with st.spinner(text="Loading and indexing the podcast data – hang tight! This should take 1-2 minutes."):
-#         # Load your data into Pinecone here
-#         # index = pinecone.load_data(...)
-#         return index
-
-# index = load_data()
-
-# if "chat_engine" not in st.session_state.keys(): # Initialize the chat engine
-#     # Use Langchain to initialize your chat engine here
-#     # st.session_state.chat_engine = langchain.initialize_chat_engine(...)
-
-# if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
-#     st.session_state.messages.append({"role": "user", "content": prompt})
-
-# for message in st.session_state.messages: # Display the prior chat messages
-#     with st.chat_message(message["role"]):
-#         st.write(message["content"])
-
-# # If last message is not from assistant, generate a new response
-# if st.session_state.messages[-1]["role"] != "assistant":
-#     with st.chat_message("assistant"):
-#         with st.spinner("Thinking..."):
-#             # Use Langchain and Pinecone to generate a response here
-#             # response = st.session_state.chat_engine.chat(prompt)
-#             st.write(response)
-#             message = {"role": "assistant", "content": response}
-#             st.session_state.messages.append(message) # Add response to message history
+    # Add assistant response to chat history
+    st.session_state.messages.append({"role": "assistant", "content": response})
