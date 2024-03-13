@@ -46,7 +46,12 @@ def get_sources(response):
 
     #Take source and just get the hyphenated part to search the json
     def format_source(source):
+        #Normalize the path for consistent formatting
+        source = source.replace("\\", "/")
+        
+        print("Before clean: ", source)
         source_name = os.path.basename(source)
+        print("After clean: ", source_name)
         #split at period and take first part
         source_name = source_name.split(".")[0]
         return source_name
