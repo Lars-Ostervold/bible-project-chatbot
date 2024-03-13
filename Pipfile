@@ -18,7 +18,7 @@ langchain-community = "*"
 langchainhub = "*"
 langchain-openai = "*"
 langchain-pinecone = "*"
-numpy = "*"
+numpy = "*" 
 
 [dev-packages]
 

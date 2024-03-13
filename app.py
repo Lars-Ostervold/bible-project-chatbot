@@ -181,7 +181,7 @@ def display_chat_history():
     # Display chat messages from history on app rerun
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+            st.markdown(message["content"].replace('\n', '  \n'), unsafe_allow_html=True)
 
 def run_rag_conversation(user_input):
     """Runs RAG conversation and returns AI response with additional sources"""
@@ -220,8 +220,7 @@ if prompt := st.chat_input("Ask me a question about the Bible!"):
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
-        response = response.replace('\n', '<br>')
-        st.markdown(response, unsafe_allow_html=True)
+        st.markdown(response.replace('\n', '  \n'), unsafe_allow_html=True)
 
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
