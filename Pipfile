@@ -18,6 +18,7 @@ langchain-community = "*"
 langchainhub = "*"
 langchain-openai = "*"
 langchain-pinecone = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
