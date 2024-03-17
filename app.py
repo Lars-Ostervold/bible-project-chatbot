@@ -209,8 +209,18 @@ def response_streamer(response):
         yield word + " "
         time.sleep(0.05)
 
+with st.sidebar:
+    hide_disclaimer = st.checkbox("Hide disclaimer", value=False)
+    st.warning("This project is a work in progress so you may encounter errors or unexpected behavior. The interface will undergo some improvements in the future. 😋")
+    st.divider()
+    st.write("This is a conversational chatbot designed to help you understand the Bible and the story of Jesus by using content from The Bible Project. When you submit a question, the chatbot searches for relevant information in a database containing most of BibleProject's content. Then, your question and any relevant content are sent to ChatGPT to generate an answer. None of your data is saved in any way. If you have any questions or feedback, please reach out to me at [my email](mailto:lars.ostervold.3@gmail.com).👨🏼‍🍳")
 
 st.title("Bible Project RAG Chatbot")
+if not hide_disclaimer:
+    st.warning("This project is not affiliated with BibleProject in any way. Please do not consider the information provided as official BibleProject content.")
+st.divider()
+
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 display_chat_history()
