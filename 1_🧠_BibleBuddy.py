@@ -48,7 +48,8 @@ def get_sources(response):
     def format_source(source):
         #Normalize the path for consistent formatting
         source = source.replace("\\", "/")
-        
+        source_name = os.path.basename(source)
+
         #split at period and take first part
         source_name = source_name.split(".")[0]
         return source_name
