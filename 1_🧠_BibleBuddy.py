@@ -228,7 +228,7 @@ if st.session_state.show_wip:
 
 cols = st.columns([5,1])
 with cols[0]:
-    st.title("BibleProject Chatbot")
+    st.title("BibleBuddy Chatbot")
     st.subheader("Ask me a question about the Bible!")
 with cols[1]:
     st.image("resources/images/logo.png", width=100)
