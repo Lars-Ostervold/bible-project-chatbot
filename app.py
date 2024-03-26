@@ -209,15 +209,38 @@ def response_streamer(response):
         yield word + " "
         time.sleep(0.05)
 
+#page config
+st.set_page_config(
+    page_title="BibleBuddy Chatbot",
+    page_icon="📖",
+    layout="centered",
+    initial_sidebar_state="expanded",
+)
+
 with st.sidebar:
-    hide_disclaimer = st.checkbox("Hide disclaimer", value=False)
-    st.warning("This project is a work in progress so you may encounter errors or unexpected behavior. The interface will undergo some improvements in the future. 😋")
-    st.divider()
     st.write("This is a conversational chatbot designed to help you understand the Bible and the story of Jesus by using content from The Bible Project. When you submit a question, the chatbot searches for relevant information in a database containing most of BibleProject's content. Then, your question and any relevant content are sent to ChatGPT to generate an answer. None of your data is saved in any way. If you have any questions or feedback, please reach out to me at [my email](mailto:lars.ostervold.3@gmail.com).👨🏼‍🍳")
 
-st.title("Bible Project RAG Chatbot")
+if "show_wip" not in st.session_state:
+    st.session_state.show_wip = True
+
+if st.session_state.show_wip:
+    st.warning("This project is a work in progress so you may encounter errors or unexpected behavior. I'll also give it a facelift in the future. 😋")
+    if st.button("Got it! Take me to the chatbot!"):
+        st.session_state.show_wip = False
+        st.rerun()
+    st.stop()
+
+cols = st.columns([5,1])
+with cols[0]:
+    st.title("BibleProject Chatbot")
+    st.subheader("Ask me a question about the Bible!")
+with cols[1]:
+    st.image("resources/images/logo.png", width=100)
+    hide_disclaimer = st.checkbox("Hide disclaimer", value=False)
+
 if not hide_disclaimer:
     st.warning("This project is not affiliated with BibleProject in any way. Please do not consider the information provided as official BibleProject content.")
+
 st.divider()
 
 
