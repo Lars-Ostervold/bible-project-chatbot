@@ -212,13 +212,9 @@ def response_streamer(response):
 #page config
 st.set_page_config(
     page_title="BibleBuddy Chatbot",
-    page_icon="📖",
-    layout="centered",
-    initial_sidebar_state="expanded",
+    page_icon="https://raw.githubusercontent.com/Lars-Ostervold/bible-project-chatbot/main/resources/images/favicon.ico",
+    layout="centered"
 )
-
-with st.sidebar:
-    st.write("This is a conversational chatbot designed to help you understand the Bible and the story of Jesus by using content from The Bible Project. When you submit a question, the chatbot searches for relevant information in a database containing most of BibleProject's content. Then, your question and any relevant content are sent to ChatGPT to generate an answer. None of your data is saved in any way. If you have any questions or feedback, please reach out to me at [my email](mailto:lars.ostervold.3@gmail.com).👨🏼‍🍳")
 
 if "show_wip" not in st.session_state:
     st.session_state.show_wip = True
