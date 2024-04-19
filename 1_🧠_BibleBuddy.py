@@ -233,7 +233,7 @@ with cols[1]:
     hide_disclaimer = st.checkbox("Hide disclaimer", value=False)
 
 if not hide_disclaimer:
-    st.warning("This project is not affiliated with BibleProject in any way. Please do not consider the information provided as official BibleProject content.")
+    st.warning("This project is not affiliated with BibleProject. Please do not consider the information provided as official BibleProject content.")
 
 st.divider()
 
