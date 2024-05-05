@@ -35,10 +35,19 @@ import { saveChat } from '@/app/actions'
 import { SpinnerMessage, UserMessage } from '@/components/stocks/message'
 import { Chat } from '@/lib/types'
 import { auth } from '@/auth'
+import { Pinecone } from '@pinecone-database/pinecone'
+import { TempCard } from '@/components/ui/temp-card'
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY || ''
 })
+const embed_model = 'text-embedding-ada-002'
+
+const pinecone = new Pinecone({ apiKey: process.env.PINECONE_API_KEY || '' })
+const index = pinecone.index('bible-project-index')
+const CONDENSE_QUESTION_TEMPLATE = 'Given the above conversation, generate a search query to look up in order to get information relevant to the conversation. Only respond with the query, nothing else.'
+// const CONDENSE_QUESTION_TEMPLATE = 'What is the last thing I asked you? What about two things ago? What is the context of the conversation? Please provide a summary of the conversation so far'
+
 
 async function confirmPurchase(symbol: string, price: number, amount: number) {
   'use server'
@@ -125,6 +134,7 @@ async function submitUserMessage(content: string) {
   'use server'
 
   const aiState = getMutableAIState<typeof AI>()
+  let search_text = content;
 
   aiState.update({
     ...aiState.get(),
@@ -138,6 +148,51 @@ async function submitUserMessage(content: string) {
     ]
   })
 
+  //Check if the user message is the first message in the chat history
+  const firstMessage = aiState.get().messages.length === 1
+
+  //If not the first question, we need to generate a single query for the vector database
+  if (!firstMessage) {
+    //Store chat history (just role and content) in a list (chat_history)
+    const chat_history = aiState.get().messages.map((message: any) => ({
+      role: message.role,
+      content: message.content
+    }));
+    // Add the condense prompt to the chat history so the LLM can generate a single query for the vector database
+    const condense_prompt = { role: 'system', content: CONDENSE_QUESTION_TEMPLATE}
+    chat_history.push(condense_prompt)
+    const completion = await openai.chat.completions.create({
+      model: 'gpt-3.5-turbo',
+      messages: chat_history,
+    });
+    search_text = completion.choices[0].message.content
+  }
+
+  // Embed user message using OpenAI embeddings
+  const embed = await openai.embeddings.create({
+    input: [search_text],
+    model: embed_model
+  });
+
+  // Retrieve from Pinecone
+  const xq = embed.data[0].embedding;
+
+  // Get relevant contexts (including the questions)
+  const chunks = await index.query({ vector: xq, topK: 10, includeMetadata: true, includeValues: true});
+
+  //Store each source in a list
+  const sources = []
+  for (const chunk of chunks.matches) {
+    sources.push(chunk.metadata.source)
+  }
+
+  //Store context chunks in user message, surround by tags '<context>' '</context>'
+  let context = '';
+  for (const chunk of chunks.matches) {
+    context += chunk.metadata.text + '\n\n\n';
+  }
+  context = '<context>\n' + context + '</context>';
+
   let textStream: undefined | ReturnType<typeof createStreamableValue<string>>
   let textNode: undefined | React.ReactNode
 
@@ -149,20 +204,12 @@ async function submitUserMessage(content: string) {
       {
         role: 'system',
         content: `\
-You are a stock trading conversation bot and you can help users buy stocks, step by step.
-You and the user can discuss stock prices and the user can adjust the amount of stocks they want to buy, or place an order, in the UI.
+You are a chatbot that helps people explore Christianity using content from an organization called BibleProject.
+You and the user can discuss themes, personal problems, difficult questions, and more.
+You will answer according to the chat history and the context denoted by <context>string</context>. Do not hallucinate answers that are not in the context.
+However, if somebody asks a personal question that you cannot find context for, you can answer with a general response.
 
-Messages inside [] means that it's a UI element or a user event. For example:
-- "[Price of AAPL = 100]" means that an interface of the stock price of AAPL is shown to the user.
-- "[User has changed the amount of AAPL to 10]" means that the user has changed the amount of AAPL to 10 in the UI.
-
-If the user requests purchasing a stock, call \`show_stock_purchase_ui\` to show the purchase UI.
-If the user just wants the price, call \`show_stock_price\` to show the price.
-If you want to show trending stocks, call \`list_stocks\`.
-If you want to show events, call \`get_events\`.
-If the user wants to sell stock, or complete another impossible task, respond that you are a demo and cannot do that.
-
-Besides that, you can also chat with users and do some calculations if needed.`
+${context}`
       },
       ...aiState.get().messages.map((message: any) => ({
         role: message.role,
@@ -194,202 +241,15 @@ Besides that, you can also chat with users and do some calculations if needed.`
       }
 
       return textNode
-    },
-    functions: {
-      listStocks: {
-        description: 'List three imaginary stocks that are trending.',
-        parameters: z.object({
-          stocks: z.array(
-            z.object({
-              symbol: z.string().describe('The symbol of the stock'),
-              price: z.number().describe('The price of the stock'),
-              delta: z.number().describe('The change in price of the stock')
-            })
-          )
-        }),
-        render: async function* ({ stocks }) {
-          yield (
-            <BotCard>
-              <StocksSkeleton />
-            </BotCard>
-          )
-
-          await sleep(1000)
-
-          aiState.done({
-            ...aiState.get(),
-            messages: [
-              ...aiState.get().messages,
-              {
-                id: nanoid(),
-                role: 'function',
-                name: 'listStocks',
-                content: JSON.stringify(stocks)
-              }
-            ]
-          })
-
-          return (
-            <BotCard>
-              <Stocks props={stocks} />
-            </BotCard>
-          )
-        }
-      },
-      showStockPrice: {
-        description:
-          'Get the current stock price of a given stock or currency. Use this to show the price to the user.',
-        parameters: z.object({
-          symbol: z
-            .string()
-            .describe(
-              'The name or symbol of the stock or currency. e.g. DOGE/AAPL/USD.'
-            ),
-          price: z.number().describe('The price of the stock.'),
-          delta: z.number().describe('The change in price of the stock')
-        }),
-        render: async function* ({ symbol, price, delta }) {
-          yield (
-            <BotCard>
-              <StockSkeleton />
-            </BotCard>
-          )
-
-          await sleep(1000)
-
-          aiState.done({
-            ...aiState.get(),
-            messages: [
-              ...aiState.get().messages,
-              {
-                id: nanoid(),
-                role: 'function',
-                name: 'showStockPrice',
-                content: JSON.stringify({ symbol, price, delta })
-              }
-            ]
-          })
-
-          return (
-            <BotCard>
-              <Stock props={{ symbol, price, delta }} />
-            </BotCard>
-          )
-        }
-      },
-      showStockPurchase: {
-        description:
-          'Show price and the UI to purchase a stock or currency. Use this if the user wants to purchase a stock or currency.',
-        parameters: z.object({
-          symbol: z
-            .string()
-            .describe(
-              'The name or symbol of the stock or currency. e.g. DOGE/AAPL/USD.'
-            ),
-          price: z.number().describe('The price of the stock.'),
-          numberOfShares: z
-            .number()
-            .describe(
-              'The **number of shares** for a stock or currency to purchase. Can be optional if the user did not specify it.'
-            )
-        }),
-        render: async function* ({ symbol, price, numberOfShares = 100 }) {
-          if (numberOfShares <= 0 || numberOfShares > 1000) {
-            aiState.done({
-              ...aiState.get(),
-              messages: [
-                ...aiState.get().messages,
-                {
-                  id: nanoid(),
-                  role: 'system',
-                  content: `[User has selected an invalid amount]`
-                }
-              ]
-            })
-
-            return <BotMessage content={'Invalid amount'} />
-          }
-
-          aiState.done({
-            ...aiState.get(),
-            messages: [
-              ...aiState.get().messages,
-              {
-                id: nanoid(),
-                role: 'function',
-                name: 'showStockPurchase',
-                content: JSON.stringify({
-                  symbol,
-                  price,
-                  numberOfShares
-                })
-              }
-            ]
-          })
-
-          return (
-            <BotCard>
-              <Purchase
-                props={{
-                  numberOfShares,
-                  symbol,
-                  price: +price,
-                  status: 'requires_action'
-                }}
-              />
-            </BotCard>
-          )
-        }
-      },
-      getEvents: {
-        description:
-          'List funny imaginary events between user highlighted dates that describe stock activity.',
-        parameters: z.object({
-          events: z.array(
-            z.object({
-              date: z
-                .string()
-                .describe('The date of the event, in ISO-8601 format'),
-              headline: z.string().describe('The headline of the event'),
-              description: z.string().describe('The description of the event')
-            })
-          )
-        }),
-        render: async function* ({ events }) {
-          yield (
-            <BotCard>
-              <EventsSkeleton />
-            </BotCard>
-          )
-
-          await sleep(1000)
-
-          aiState.done({
-            ...aiState.get(),
-            messages: [
-              ...aiState.get().messages,
-              {
-                id: nanoid(),
-                role: 'function',
-                name: 'getEvents',
-                content: JSON.stringify(events)
-              }
-            ]
-          })
-
-          return (
-            <BotCard>
-              <Events props={events} />
-            </BotCard>
-          )
-        }
-      }
     }
-  })
+  }
+)
+  
 
   return {
     id: nanoid(),
-    display: ui
+    display: ui,
+    sources: sources
   }
 }
 

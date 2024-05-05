@@ -11,6 +11,9 @@ import { useAIState, useActions, useUIState } from 'ai/rsc'
 import type { AI } from '@/lib/chat/actions'
 import { nanoid } from 'nanoid'
 import { UserMessage } from './stocks/message'
+import { TempCard } from './ui/temp-card'
+
+import { SourceBlocks } from '@/components/source-blocks'
 
 export interface ChatPanelProps {
   id?: string
@@ -36,24 +39,24 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'What is the meaning of',
+      subheading: 'life?',
+      message: `What is the meaning of life according to the Bible?`
     },
     {
-      heading: 'What is the price of',
-      subheading: '$DOGE right now?',
-      message: 'What is the price of $DOGE right now?'
+      heading: 'Tell me about',
+      subheading: 'Jesus',
+      message: 'Tell me about Jesus and his teachings.'
     },
     {
-      heading: 'I would like to buy',
-      subheading: '42 $DOGE',
-      message: `I would like to buy 42 $DOGE`
+      heading: 'What are the Ten',
+      subheading: 'Commandments?',
+      message: `What are the Ten Commandments and their significance?`
     },
     {
-      heading: 'What are some',
-      subheading: `recent events about $DOGE?`,
-      message: `What are some recent events about $DOGE?`
+      heading: 'Can you recommend a',
+      subheading: `Bible study plan?`,
+      message: `Can you recommend a Bible study plan for beginners?`
     }
   ]
 
@@ -85,6 +88,7 @@ export function ChatPanel({
                   const responseMessage = await submitUserMessage(
                     example.message
                   )
+                  console.log(responseMessage.sources)
 
                   setMessages(currentMessages => [
                     ...currentMessages,
@@ -102,6 +106,7 @@ export function ChatPanel({
 
         {messages?.length >= 2 ? (
           <div className="flex h-12 items-center justify-center">
+            <TempCard />
             <div className="flex space-x-2">
               {id && title ? (
                 <>
@@ -129,6 +134,7 @@ export function ChatPanel({
           </div>
         ) : null}
 
+        
         <div className="space-y-4 border-t bg-background px-4 py-2 shadow-lg sm:rounded-t-xl sm:border md:py-4">
           <PromptForm input={input} setInput={setInput} />
           <FooterText className="hidden sm:block" />

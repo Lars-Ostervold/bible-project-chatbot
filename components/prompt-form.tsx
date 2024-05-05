@@ -17,6 +17,17 @@ import {
 import { useEnterSubmit } from '@/lib/hooks/use-enter-submit'
 import { nanoid } from 'nanoid'
 import { useRouter } from 'next/navigation'
+import { supabase } from '@/lib/supabaseClient'
+import { SourceBlocks } from '@/components/source-blocks'
+
+import path from 'path'
+
+function getBaseName(filePath: string) {
+  filePath = filePath.replace(/\\/g, '/')
+  filePath = path.basename(filePath, path.extname(filePath))
+  filePath = filePath.split('.') //remove extension if still there
+  return filePath[0] ;
+}
 
 export function PromptForm({
   input,
@@ -63,6 +74,15 @@ export function PromptForm({
 
         // Submit and get response message
         const responseMessage = await submitUserMessage(value)
+       
+        const baseNames = responseMessage.sources.map(getBaseName)
+
+        const { data, error } = await supabase
+          .from('source-links')
+          .select()
+          .in('file_name', baseNames)
+        console.log(data)
+        
         setMessages(currentMessages => [...currentMessages, responseMessage])
       }}
     >

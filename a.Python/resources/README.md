@@ -1,0 +1,1 @@
+I should probably go store these .txt files somewhere else.. Maybe one day 😊
