@@ -88,7 +88,6 @@ export function ChatPanel({
                   const responseMessage = await submitUserMessage(
                     example.message
                   )
-                  console.log(responseMessage.sources)
 
                   setMessages(currentMessages => [
                     ...currentMessages,
@@ -106,7 +105,6 @@ export function ChatPanel({
 
         {messages?.length >= 2 ? (
           <div className="flex h-12 items-center justify-center">
-            <TempCard />
             <div className="flex space-x-2">
               {id && title ? (
                 <>

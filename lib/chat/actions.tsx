@@ -36,7 +36,8 @@ import { SpinnerMessage, UserMessage } from '@/components/stocks/message'
 import { Chat } from '@/lib/types'
 import { auth } from '@/auth'
 import { Pinecone } from '@pinecone-database/pinecone'
-import { TempCard } from '@/components/ui/temp-card'
+import { supabase } from '@/lib/supabaseClient'
+import { SourceBlocks } from '@/components/source-blocks'
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY || ''
@@ -46,8 +47,16 @@ const embed_model = 'text-embedding-ada-002'
 const pinecone = new Pinecone({ apiKey: process.env.PINECONE_API_KEY || '' })
 const index = pinecone.index('bible-project-index')
 const CONDENSE_QUESTION_TEMPLATE = 'Given the above conversation, generate a search query to look up in order to get information relevant to the conversation. Only respond with the query, nothing else.'
-// const CONDENSE_QUESTION_TEMPLATE = 'What is the last thing I asked you? What about two things ago? What is the context of the conversation? Please provide a summary of the conversation so far'
 
+const sourcesToRender = 2
+
+import path from 'path'
+function getBaseName(filePath: string) {
+  filePath = filePath.replace(/\\/g, '/')
+  filePath = path.basename(filePath, path.extname(filePath))
+  const fileSplit = filePath.split('.') //remove extension if still there
+  return fileSplit[0];
+}
 
 async function confirmPurchase(symbol: string, price: number, amount: number) {
   'use server'
@@ -186,6 +195,14 @@ async function submitUserMessage(content: string) {
     sources.push(chunk.metadata.source)
   }
 
+  const baseNames = sources.map(getBaseName)
+
+  const { data, error } = await supabase
+    .from('source-links')
+    .select()
+    .in('file_name', baseNames)
+  const sourceMap = data
+
   //Store context chunks in user message, surround by tags '<context>' '</context>'
   let context = '';
   for (const chunk of chunks.matches) {
@@ -220,7 +237,7 @@ ${context}`
     text: ({ content, done, delta }) => {
       if (!textStream) {
         textStream = createStreamableValue('')
-        textNode = <BotMessage content={textStream.value} />
+        textNode = <BotMessage content={textStream.value} sources={sourceMap.slice(0,sourcesToRender)}/>
       }
 
       if (done) {

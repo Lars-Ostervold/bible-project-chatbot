@@ -10,6 +10,7 @@ import { CodeBlock } from '@/components/ui/codeblock'
 import { MemoizedReactMarkdown } from '@/components/markdown'
 import { IconOpenAI, IconUser } from '@/components/ui/icons'
 import { ChatMessageActions } from '@/components/chat-message-actions'
+import { TempCard } from './ui/temp-card'
 
 export interface ChatMessageProps {
   message: Message
@@ -21,6 +22,7 @@ export function ChatMessage({ message, ...props }: ChatMessageProps) {
       className={cn('group relative mb-4 flex items-start md:-ml-12')}
       {...props}
     >
+      <TempCard />
       <div
         className={cn(
           'flex size-8 shrink-0 select-none items-center justify-center rounded-md border shadow',

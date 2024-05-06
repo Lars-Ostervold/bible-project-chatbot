@@ -9,6 +9,9 @@ import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
 import { StreamableValue } from 'ai/rsc'
 import { useStreamableText } from '@/lib/hooks/use-streamable-text'
+import { TempCard } from '../ui/temp-card'
+import { SourceBlocks } from '@/components/source-blocks';
+import { useEffect, useState } from 'react';
 
 // Different types of message bubbles.
 
@@ -27,12 +30,22 @@ export function UserMessage({ children }: { children: React.ReactNode }) {
 
 export function BotMessage({
   content,
-  className
+  className,
+  sources
 }: {
   content: string | StreamableValue<string>
   className?: string
+  sources: Array<{ file_name: string, link: string, title: string }>
 }) {
-  const text = useStreamableText(content)
+  const { text, done } = useStreamableText(content)
+  const [showSourceBlocks, setShowSourceBlocks] = useState(false);
+
+  useEffect(() => {
+    if (done){
+      console.log('TEXT DONE TRIGGERED')
+      setShowSourceBlocks(true);
+    }
+  }, [done]);
 
   return (
     <div className={cn('group relative flex items-start md:-ml-12', className)}>
@@ -77,12 +90,14 @@ export function BotMessage({
                 />
               )
             }
-          }}
+          }} 
         >
           {text}
         </MemoizedReactMarkdown>
+        {showSourceBlocks && <SourceBlocks sources={sources} />}
       </div>
     </div>
+
   )
 }
 
