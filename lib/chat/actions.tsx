@@ -50,12 +50,28 @@ const CONDENSE_QUESTION_TEMPLATE = 'Given the above conversation, generate a sea
 
 const sourcesToRender = 2
 
-import path from 'path'
+// We don't need the 'path' module, so we remove the import statement
+// import path from 'path'
 function getBaseName(filePath: string) {
-  filePath = filePath.replace(/\\/g, '/')
-  filePath = path.basename(filePath, path.extname(filePath))
-  const fileSplit = filePath.split('.') //remove extension if still there
-  return fileSplit[0];
+  // Replace all backslashes with forward slashes
+  filePath = filePath.replace(/\\/g, '/');
+
+  // Split the file path into segments
+  const segments = filePath.split('/');
+
+  // Get the last segment, which should be the file name with extension
+  const fileNameWithExtension = segments.pop();
+
+  // Split the file name into name and extension
+  const fileNameParts = fileNameWithExtension.split('.');
+
+  // Remove the extension part
+  fileNameParts.pop();
+
+  // Join the remaining parts back together
+  const fileName = fileNameParts.join('.');
+
+  return fileName;
 }
 
 async function confirmPurchase(symbol: string, price: number, amount: number) {
