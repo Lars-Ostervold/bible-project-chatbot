@@ -160,7 +160,7 @@ async function confirmPurchase(symbol: string, price: number, amount: number) {
   }
 }
 
-async function submitUserMessage(content: string) {
+async function submitUserMessage(content: string): Promise<{ id: string, display: React.ReactNode, sources: string[] }> {
   'use server'
 
   const aiState = getMutableAIState<typeof AI>()
@@ -195,7 +195,11 @@ async function submitUserMessage(content: string) {
       model: 'gpt-3.5-turbo',
       messages: chat_history,
     });
-    search_text = completion.choices[0].message.content
+    const completionResponse = completion.choices[0]?.message?.content;
+    if (!completionResponse) {
+      throw new Error('Failed to retrieve completion response from completion');
+    }
+    search_text = completionResponse;
   }
 
   // Embed user message using OpenAI embeddings
@@ -211,9 +215,11 @@ async function submitUserMessage(content: string) {
   const chunks = await index.query({ vector: xq, topK: 10, includeMetadata: true, includeValues: true});
 
   //Store each source in a list
-  const sources = []
+  const sources: string[] = []
   for (const chunk of chunks.matches) {
-    sources.push(chunk.metadata.source)
+    if (chunk.metadata) {
+      sources.push(String(chunk.metadata.source))
+    }
   }
 
   const baseNames = sources.map(getBaseName)
@@ -227,7 +233,9 @@ async function submitUserMessage(content: string) {
   //Store context chunks in user message, surround by tags '<context>' '</context>'
   let context = '';
   for (const chunk of chunks.matches) {
-    context += chunk.metadata.text + '\n\n\n';
+    if (chunk.metadata) {
+      context += chunk.metadata.text + '\n\n\n';
+    }
   }
   context = '<context>\n' + context + '</context>';
 
@@ -280,9 +288,7 @@ ${context}`
 
       return textNode
     }
-  }
-)
-  
+  })
 
   return {
     id: nanoid(),
