@@ -15,6 +15,11 @@ import requests
 import re
 import os
 
+from supabase import create_client, Client
+url: str = os.environ.get('SUPABASE_URL')
+key: str = os.environ.get('SUPABASE_KEY')
+supabase: Client = create_client(url, key)
+
 #Take a string and convert it to something that can be used as a file name.
 def convert_to_file_friendly_format(title):
     # Remove characters that may cause issues
@@ -94,5 +99,38 @@ def main():
     # Close the driver
     driver.quit()
 
-if __name__ == "__main__":
-    main()
+#TODO: I should rewrite this whole script to use send data to Supabase, but for now I'm just going to
+#copy the bits I need and then upload the thumbnails.
+def get_thumbnails():
+
+    response = requests.get("https://bibleproject.com/downloads/study-notes/")
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    img_tags = soup.find_all("img")
+
+    # Extract the src attribute from each img tag
+    image_links = [img['src'] for img in img_tags if 'src' in img.attrs]
+
+    image_alts = [img['alt'] for img in img_tags if 'alt' in img.attrs]
+
+    for i in range(len(image_alts)):
+        image_alts[i] = convert_to_file_friendly_format(image_alts[i])
+        image_alts[i] += "-study-notes"
+
+    for i in range(len(image_links)):
+        if image_links[i].startswith('//'):
+            image_links[i] = 'https:' + image_links[i]
+        if 'w-' in image_links[i]:
+            image_links[i] = image_links[i][:-6]
+
+    for i in range(len(image_links)):
+        data, count = supabase.table('source-links')\
+            .update({'thumbnail_url': image_links[i]})\
+            .eq('file_name', image_alts[i])\
+            .execute()
+
+        if data[1]:
+            print(f"Thumbnail for {image_alts[i]} updated to {image_links[i]}")
+        else:
+            print(f"We didn't find a file_name match for {image_alts[i]}.")

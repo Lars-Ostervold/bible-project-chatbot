@@ -40,23 +40,23 @@ export function ChatPanel({
   const exampleMessages = [
     {
       heading: 'What is the meaning of',
-      subheading: 'life?',
-      message: `What is the meaning of life according to the Bible?`
+      subheading: 'the parable of the Sower?',
+      message: `What is the meaning of the parable of the Sower and the Seed in the Bible?`
     },
     {
       heading: 'Tell me about',
-      subheading: 'Jesus',
+      subheading: 'Jesus and his teachings.',
       message: 'Tell me about Jesus and his teachings.'
     },
     {
-      heading: 'What are the Ten',
-      subheading: 'Commandments?',
+      heading: 'What are',
+      subheading: 'the Ten Commandments?',
       message: `What are the Ten Commandments and their significance?`
     },
     {
-      heading: 'Can you recommend a',
-      subheading: `Bible study plan?`,
-      message: `Can you recommend a Bible study plan for beginners?`
+      heading: 'Recommend a',
+      subheading: `Bible study plan`,
+      message: `Can you recommend a Bible study plan over the Book of Exodus for beginners?`
     }
   ]
 

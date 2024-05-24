@@ -19,6 +19,7 @@ langchainhub = "*"
 langchain-openai = "*"
 langchain-pinecone = "*"
 python-dotenv = "*"
+supabase = "*"
 
 [dev-packages]
 

@@ -27,6 +27,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import re
 
+from supabase import create_client, Client
+url: str = os.environ.get('SUPABASE_URL')
+key: str = os.environ.get('SUPABASE_KEY')
+supabase: Client = create_client(url, key)
+
 
 def get_podcasts_loaded(driver_source):
     soup = BeautifulSoup(driver_source, 'html.parser')
@@ -152,5 +157,90 @@ def main():
 
     driver.quit()
 
-if __name__ == "__main__":
-    main()
+#TODO: I should rewrite this whole script to use send data to Supabase, but for now I'm just going to
+#copy the bits I need and then upload the thumbnails.
+def get_thumbnails():
+    driver = webdriver.Chrome()
+
+    # URL of the page with all the podcasts
+    url = "https://bibleproject.com/podcasts/the-bible-project-podcast/"
+
+    #Open the page in a browser
+    driver.get(url)
+
+    # Wait for the "Load More" button to become clickable
+    wait = WebDriverWait(driver, 10)
+    load_more_button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "hero-podcast-subscribe-loadmore-button")))
+
+    
+    # Keep clicking the "Load More" button until it disappears. 
+    # Try to click the button twice after waiting to make sure it's not just a loading issue.
+    for i in range(1000):
+        try:
+            load_more_button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "hero-podcast-subscribe-loadmore-button")))
+            load_more_button.click() 
+            print("Number of podcasts loaded is now: " + str(get_podcasts_loaded(driver.page_source)))
+            time.sleep(0.5)
+        except:
+            print("Attempting backup method to load more podcasts")
+            time.sleep(5)
+            try:
+                load_more_button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "hero-podcast-subscribe-loadmore-button")))
+            except:
+                print("Backup failed")
+                print("Number of podcasts loaded is now: " + str(get_podcasts_loaded(driver.page_source)))
+                print("Last podcast loaded is: " + get_last_podcast_loaded(driver.page_source))
+                break
+
+    #Parse the driver page with BeautifulSoup
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+    # Find all the podcast elements on the page. Podcast class pulled from the website.
+    podcasts = soup.find_all("a", class_="cardpodcast cardpodcast-episode cardpodcast-type-horizontal-narrow")
+    print("Total number of podcasts: " + str(len(podcasts)))
+
+    # Loop through each podcast
+    for podcast in podcasts:
+        # Get the podcast title. Title is in a class called 'cardpodcast-title' and is a child of the podcast element.
+        title = podcast.find("div", class_="cardpodcast-title").text
+
+        #Pull the link to the podcast. The link is in the href attribute of the podcast element.
+        link = podcast["href"]
+
+        #Load html from the podcast page. Use driver.
+        driver.get(link)
+        podcast_soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+        #Take a string and convert it to something that can be used as a file name.
+        def convert_to_file_friendly_format(title):
+            # Remove characters that may cause issues
+            title = re.sub(r'[^\w\s-]', '', title)
+            # Convert to lowercase
+            title = title.lower()
+            # Replace spaces with dashes
+            title = title.replace(' ', '-')
+            return title
+        
+        transcript_file_name = convert_to_file_friendly_format(title)
+        thumbnail_element = podcast_soup.find("img")
+        thumbnail_link = thumbnail_element["src"]
+        #add https to thumbnail
+        if thumbnail_link.startswith('//'):
+            thumbnail_link = 'https:' + thumbnail_link
+        #remove w-xxx from the end of the thumbnail link
+        if 'w-' in thumbnail_link:
+            thumbnail_link = thumbnail_link[:-6]
+
+        data, count = supabase.table('source-links')\
+            .update({'thumbnail_url': thumbnail_link})\
+            .eq('file_name', transcript_file_name)\
+            .execute()
+
+        if data[1]:
+            print(f"Thumbnail for {transcript_file_name} updated to {thumbnail_link}")
+        else:
+            print(f"We didn't find a file_name match for {transcript_file_name}.")
+
+    driver.quit()
+
+# get_thumbnails()
