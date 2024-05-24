@@ -266,7 +266,7 @@ ${context}`
     text: ({ content, done, delta }) => {
       if (!textStream) {
         textStream = createStreamableValue('')
-        textNode = <BotMessage content={textStream.value} sources={sourceMap.slice(0,sourcesToRender)}/>
+        textNode = <BotMessage content={textStream.value} sources={sourceMap ? sourceMap.slice(0,sourcesToRender) : []}/>
       }
 
       if (done) {
@@ -321,7 +321,7 @@ export const AI = createAI<AIState, UIState>({
   },
   initialUIState: [],
   initialAIState: { chatId: nanoid(), messages: [] },
-  unstable_onGetUIState: async () => {
+  onGetUIState: async () => {
     'use server'
 
     const session = await auth()
@@ -337,7 +337,7 @@ export const AI = createAI<AIState, UIState>({
       return
     }
   },
-  unstable_onSetAIState: async ({ state, done }) => {
+  onSetAIState: async ({ state, done }) => {
     'use server'
 
     const session = await auth()
@@ -393,7 +393,7 @@ export const getUIStateFromAIState = (aiState: Chat) => {
         ) : message.role === 'user' ? (
           <UserMessage>{message.content}</UserMessage>
         ) : (
-          <BotMessage content={message.content} />
+          <BotMessage content={message.content} sources={[]} />
         )
     }))
 }
