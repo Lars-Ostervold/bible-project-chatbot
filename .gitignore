@@ -1,5 +1,8 @@
 #My additions
 creds/*
+.devcontainer/*
+.vscode/*
+.node_modules/*
 
 
 # Byte-compiled / optimized / DLL files
