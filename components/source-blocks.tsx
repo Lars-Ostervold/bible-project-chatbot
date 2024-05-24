@@ -1,11 +1,22 @@
 import React from 'react';
 import Image from 'next/image';
 
-export const SourceBlocks = ({ sources }) => {
+interface Source {
+  file_name: string;
+  link: string;
+  title: string;
+  type_of_media: string;
+  thumbnail_url: string;
+}
+type Sources = Source[];
+
+export const SourceBlocks = ({ sources }: { sources: Sources }) => {
     if (!Array.isArray(sources) || sources.length === 0) {
         return null;
       }
-      
+    
+    console.log(sources)
+
     return (
         <div className="mx-auto sm:max-w-2xl sm:px-4">
             <p className="prose prose-neutral dark:text-white mb-1 animate-swoop-in">

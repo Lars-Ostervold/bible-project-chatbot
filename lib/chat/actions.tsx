@@ -62,6 +62,11 @@ function getBaseName(filePath: string) {
   // Get the last segment, which should be the file name with extension
   const fileNameWithExtension = segments.pop();
 
+  // Check if fileNameWithExtension is undefined
+  if (!fileNameWithExtension) {
+    throw new Error('Invalid file path');
+  }
+
   // Split the file name into name and extension
   const fileNameParts = fileNameWithExtension.split('.');
 
