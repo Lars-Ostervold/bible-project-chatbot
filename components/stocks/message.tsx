@@ -35,7 +35,7 @@ export function BotMessage({
 }: {
   content: string | StreamableValue<string>
   className?: string
-  sources: Array<{ file_name: string, link: string, title: string }>
+  sources: Array<{ file_name: string, link: string, title: string, type_of_media: string, thumbnail_url: string  }>
 }) {
   const { text, done } = useStreamableText(content)
   const [showSourceBlocks, setShowSourceBlocks] = useState(false);
