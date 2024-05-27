@@ -95,10 +95,6 @@ export default function LoginForm() {
             <FaGoogle className="mr-6 text-2xl" />
             Sign in with Google
           </button>
-          <button className="rounded-lg bg-white dark:bg-zinc-950 flex items-center border p-3 pl-5 pr-11 gap-2" onClick={handleAppleSignIn}>
-            <FaApple className="mr-6 text-3xl" />
-            Sign in with Apple
-          </button>
           <button className="rounded-lg bg-white dark:bg-zinc-950 flex items-center border p-3 pl-5 pr-11 gap-2" onClick={handleGitHubSignIn}>
             <FaGithub className="mr-6 text-2xl" />
             Sign in with GitHub

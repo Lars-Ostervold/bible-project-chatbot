@@ -11,7 +11,6 @@ import { getUser } from './app/login/actions'
 export const { handlers, auth, signIn, signOut } = NextAuth({
   ...authConfig,
   providers: [
-    Apple,
     Google, 
     GitHub,
     Credentials({
