@@ -10,7 +10,6 @@ import { getUser } from './app/login/actions'
 
 export const { handlers, auth, signIn, signOut } = NextAuth({
   ...authConfig,
-  debug: true,
   providers: [
     Apple,
     Google, 
