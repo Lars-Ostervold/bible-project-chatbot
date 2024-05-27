@@ -10,10 +10,11 @@ import { getUser } from './app/login/actions'
 
 export const { handlers, auth, signIn, signOut } = NextAuth({
   ...authConfig,
+  debug: true,
   providers: [
+    Apple,
     Google, 
     GitHub,
-    Apple,
     Credentials({
       async authorize(credentials) {
         const parsedCredentials = z
