@@ -20,7 +20,7 @@ interface Result {
 export async function authenticate(
   _prevState: Result | undefined,
   formData: FormData,
-  authMethod: 'credentials' | 'google' | 'apple' | 'github' = 'credentials'
+  authMethod: 'credentials' | 'google' | 'apple' | 'github' | 'facebook' = 'credentials'
 ): Promise<Result | undefined> {
   if (authMethod === 'google') {
     await signIn('google');
@@ -38,6 +38,13 @@ export async function authenticate(
   }
 
   if (authMethod === 'github') {
+    await signIn('github');
+    return {
+      type: 'success',
+      resultCode: ResultCode.UserLoggedIn
+    };
+  }
+  if (authMethod === 'facebook') {
     await signIn('github');
     return {
       type: 'success',

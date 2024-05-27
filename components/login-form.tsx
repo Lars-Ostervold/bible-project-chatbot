@@ -8,7 +8,7 @@ import { toast } from 'sonner'
 import { IconSpinner } from './ui/icons'
 import { getMessageFromCode } from '@/lib/utils'
 import { useRouter } from 'next/navigation'
-import { FaGoogle, FaApple, FaGithub } from 'react-icons/fa'
+import { FaGoogle, FaApple, FaGithub, FaFacebook } from 'react-icons/fa'
 import { IconGitHub } from '@/components/ui/icons'
 
 export default function LoginForm() {
@@ -36,6 +36,10 @@ export default function LoginForm() {
 
   const handleGitHubSignIn = async () => {
     await authenticate(undefined, new FormData(), 'github');
+  }
+
+  const handleFacebookSignIn = async () => {
+    await authenticate(undefined, new FormData(), 'facebook');
   }
  
   return (
@@ -95,6 +99,10 @@ export default function LoginForm() {
             <FaGoogle className="mr-6 text-2xl" />
             Sign in with Google
           </button>
+          {/* <button className="rounded-lg bg-white dark:bg-zinc-950 flex items-center border p-3 pl-5 pr-11 gap-2" onClick={handleFacebookSignIn}>
+            <FaFacebook className="mr-6 text-2xl" />
+            Sign in with Facebook
+          </button> */}
           <button className="rounded-lg bg-white dark:bg-zinc-950 flex items-center border p-3 pl-5 pr-11 gap-2" onClick={handleGitHubSignIn}>
             <FaGithub className="mr-6 text-2xl" />
             Sign in with GitHub

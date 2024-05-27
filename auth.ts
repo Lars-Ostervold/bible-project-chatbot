@@ -3,6 +3,7 @@ import Credentials from 'next-auth/providers/credentials'
 import Google from 'next-auth/providers/google'
 import GitHub from 'next-auth/providers/github'
 import Apple from 'next-auth/providers/apple'
+import Facebook from 'next-auth/providers/facebook'
 import { authConfig } from './auth.config'
 import { z } from 'zod'
 import { getStringFromBuffer } from './lib/utils'
@@ -13,6 +14,7 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   providers: [
     Google, 
     GitHub,
+    // Facebook,
     Credentials({
       async authorize(credentials) {
         const parsedCredentials = z
