@@ -19,8 +19,31 @@ interface Result {
 
 export async function authenticate(
   _prevState: Result | undefined,
-  formData: FormData
+  formData: FormData,
+  authMethod: 'credentials' | 'google' | 'apple' | 'github' = 'credentials'
 ): Promise<Result | undefined> {
+  if (authMethod === 'google') {
+    await signIn('google');
+    return {
+      type: 'success',
+      resultCode: ResultCode.UserLoggedIn
+    };
+  }
+  if (authMethod === 'apple') {
+    await signIn('apple');
+    return {
+      type: 'success',
+      resultCode: ResultCode.UserLoggedIn
+    };
+  }
+
+  if (authMethod === 'github') {
+    await signIn('github');
+    return {
+      type: 'success',
+      resultCode: ResultCode.UserLoggedIn
+    };
+  }
   try {
     const email = formData.get('email')
     const password = formData.get('password')

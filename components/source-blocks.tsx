@@ -15,7 +15,6 @@ export const SourceBlocks = ({ sources }: { sources: Sources }) => {
         return null;
       }
     
-    console.log(sources)
 
     return (
         <div className="mx-auto sm:max-w-2xl sm:px-4">

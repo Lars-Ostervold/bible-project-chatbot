@@ -1,13 +1,19 @@
 import NextAuth from 'next-auth'
 import Credentials from 'next-auth/providers/credentials'
+import Google from 'next-auth/providers/google'
+import GitHub from 'next-auth/providers/github'
+import Apple from 'next-auth/providers/apple'
 import { authConfig } from './auth.config'
 import { z } from 'zod'
 import { getStringFromBuffer } from './lib/utils'
 import { getUser } from './app/login/actions'
 
-export const { auth, signIn, signOut } = NextAuth({
+export const { handlers, auth, signIn, signOut } = NextAuth({
   ...authConfig,
   providers: [
+    Google, 
+    GitHub,
+    Apple,
     Credentials({
       async authorize(credentials) {
         const parsedCredentials = z
@@ -34,7 +40,7 @@ export const { auth, signIn, signOut } = NextAuth({
           if (hashedPassword === user.password) {
             return user
           } else {
-            return null
+            return null 
           }
         }
 

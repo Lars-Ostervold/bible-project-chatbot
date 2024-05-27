@@ -42,7 +42,6 @@ export function BotMessage({
 
   useEffect(() => {
     if (done){
-      console.log('TEXT DONE TRIGGERED')
       setShowSourceBlocks(true);
     }
   }, [done]);
