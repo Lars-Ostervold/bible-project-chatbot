@@ -41,7 +41,7 @@ return (
         <div className="card bg-white dark:bg-zinc-950 text-black dark:text-white rounded-lg shadow-md p-4 md:pd-2 border border-gray-400 dark:border-gray-600 overflow-hidden w-[40%]">
             <h1 className="font-medium text-3xl mb-2 tracking-tighter"> Contact us!</h1>
             <p className="prose prose-neutral dark:text-white mb-8">
-                Questions, comments, or concerns? We'd love to hear from you! Just fill out the form below and we'll get back to you as soon as we can.
+              Questions, comments, or concerns? We&apos;d love to hear from you! Just fill out the form below and we&apos;ll get back to you as soon as we can.
             </p>
             <form onSubmit={handleSubmit} className="space-y-4">
                 <label className="block">
