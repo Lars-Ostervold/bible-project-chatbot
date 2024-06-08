@@ -1,4 +1,4 @@
-import { Message } from 'ai'
+import { Message } from '@/lib/chat/actions'
 
 export interface Chat extends Record<string, any> {
   id: string

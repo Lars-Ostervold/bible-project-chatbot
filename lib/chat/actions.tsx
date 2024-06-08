@@ -166,18 +166,6 @@ async function submitUserMessage(content: string): Promise<{ id: string, display
   const aiState = getMutableAIState<typeof AI>()
   let search_text = content;
 
-  aiState.update({
-    ...aiState.get(),
-    messages: [
-      ...aiState.get().messages,
-      {
-        id: nanoid(),
-        role: 'user',
-        content
-      }
-    ]
-  })
-
   //Check if the user message is the first message in the chat history
   const firstMessage = aiState.get().messages.length === 1
 
@@ -215,20 +203,21 @@ async function submitUserMessage(content: string): Promise<{ id: string, display
   const chunks = await index.query({ vector: xq, topK: 10, includeMetadata: true, includeValues: true});
 
   //Store each source in a list
-  const sources: string[] = []
+  const source_file_name: string[] = []
   for (const chunk of chunks.matches) {
     if (chunk.metadata) {
-      sources.push(String(chunk.metadata.source))
+      source_file_name.push(String(chunk.metadata.source))
     }
   }
-
-  const baseNames = sources.map(getBaseName)
+  const baseNames = source_file_name.map(getBaseName)
 
   const { data, error } = await supabase
     .from('source-links')
     .select()
     .in('file_name', baseNames)
   const sourceMap = data
+
+  const sources = sourceMap ? sourceMap.slice(0,sourcesToRender) : []
 
   //Store context chunks in user message, surround by tags '<context>' '</context>'
   let context = '';
@@ -238,6 +227,18 @@ async function submitUserMessage(content: string): Promise<{ id: string, display
     }
   }
   context = '<context>\n' + context + '</context>';
+
+  aiState.update({
+    ...aiState.get(),
+    messages: [
+      ...aiState.get().messages,
+      {
+        id: nanoid(),
+        role: 'user',
+        content,
+      }
+    ]
+  })
 
   let textStream: undefined | ReturnType<typeof createStreamableValue<string>>
   let textNode: undefined | React.ReactNode
@@ -266,7 +267,7 @@ ${context}`
     text: ({ content, done, delta }) => {
       if (!textStream) {
         textStream = createStreamableValue('')
-        textNode = <BotMessage content={textStream.value} sources={sourceMap ? sourceMap.slice(0,sourcesToRender) : []}/>
+        textNode = <BotMessage content={textStream.value} sources={sources}/>
       }
 
       if (done) {
@@ -278,7 +279,8 @@ ${context}`
             {
               id: nanoid(),
               role: 'assistant',
-              content
+              content,
+              sources: sources
             }
           ]
         })
@@ -297,11 +299,20 @@ ${context}`
   }
 }
 
+type Source = {
+  file_name: string;
+  link: string;
+  title: string;
+  type_of_media: string;
+  thumbnail_url: string;
+}
+
 export type Message = {
   role: 'user' | 'assistant' | 'system' | 'function' | 'data' | 'tool'
   content: string
   id: string
-  name?: string
+  name?: string,
+  sources?: Source[]
 }
 
 export type AIState = {
@@ -313,6 +324,8 @@ export type UIState = {
   id: string
   display: React.ReactNode
 }[]
+
+
 
 export const AI = createAI<AIState, UIState>({
   actions: {
@@ -393,7 +406,7 @@ export const getUIStateFromAIState = (aiState: Chat) => {
         ) : message.role === 'user' ? (
           <UserMessage>{message.content}</UserMessage>
         ) : (
-          <BotMessage content={message.content} sources={[]} />
+          <BotMessage content={message.content} sources={message?.sources || []}  />
         )
     }))
 }

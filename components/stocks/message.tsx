@@ -9,7 +9,6 @@ import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
 import { StreamableValue } from 'ai/rsc'
 import { useStreamableText } from '@/lib/hooks/use-streamable-text'
-import { TempCard } from '../ui/temp-card'
 import { SourceBlocks } from '@/components/source-blocks';
 import { useEffect, useState } from 'react';
 
@@ -39,6 +38,7 @@ export function BotMessage({
 }) {
   const { text, done } = useStreamableText(content)
   const [showSourceBlocks, setShowSourceBlocks] = useState(false);
+
 
   useEffect(() => {
     if (done){
