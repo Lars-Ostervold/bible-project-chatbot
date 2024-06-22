@@ -10,10 +10,8 @@ import { ChatShareDialog } from '@/components/chat-share-dialog'
 import { useAIState, useActions, useUIState } from 'ai/rsc'
 import type { AI } from '@/lib/chat/actions'
 import { nanoid } from 'nanoid'
-import { UserMessage } from './stocks/message'
-import { TempCard } from './ui/temp-card'
+import { UserMessage } from './messages/message'
 
-import { SourceBlocks } from '@/components/source-blocks'
 
 export interface ChatPanelProps {
   id?: string
