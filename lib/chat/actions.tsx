@@ -164,70 +164,6 @@ async function submitUserMessage(content: string): Promise<{ id: string, display
   'use server'
 
   const aiState = getMutableAIState<typeof AI>()
-  let search_text = content;
-
-  //Check if the user message is the first message in the chat history
-  const firstMessage = aiState.get().messages.length === 1
-
-  //If not the first question, we need to generate a single query for the vector database
-  if (!firstMessage) {
-    //Store chat history (just role and content) in a list (chat_history)
-    const chat_history = aiState.get().messages.map((message: any) => ({
-      role: message.role,
-      content: message.content
-    }));
-    // Add the condense prompt to the chat history so the LLM can generate a single query for the vector database
-    const condense_prompt = { role: 'system', content: CONDENSE_QUESTION_TEMPLATE}
-    chat_history.push(condense_prompt)
-    const completion = await openai.chat.completions.create({
-      model: 'gpt-3.5-turbo',
-      messages: chat_history,
-    });
-    const completionResponse = completion.choices[0]?.message?.content;
-    if (!completionResponse) {
-      throw new Error('Failed to retrieve completion response from completion');
-    }
-    search_text = completionResponse;
-  }
-
-  // Embed user message using OpenAI embeddings
-  const embed = await openai.embeddings.create({
-    input: [search_text],
-    model: embed_model
-  });
-
-  // Retrieve from Pinecone
-  const xq = embed.data[0].embedding;
-
-  // Get relevant contexts (including the questions)
-  const chunks = await index.query({ vector: xq, topK: 10, includeMetadata: true, includeValues: true});
-
-  //Store each source in a list
-  const source_file_name: string[] = []
-  for (const chunk of chunks.matches) {
-    if (chunk.metadata) {
-      source_file_name.push(String(chunk.metadata.source))
-    }
-  }
-  const baseNames = source_file_name.map(getBaseName)
-
-  const { data, error } = await supabase
-    .from('source-links')
-    .select()
-    .in('file_name', baseNames)
-  const sourceMap = data
-
-  const sources = sourceMap ? sourceMap.slice(0,sourcesToRender) : []
-
-  //Store context chunks in user message, surround by tags '<context>' '</context>'
-  let context = '';
-  for (const chunk of chunks.matches) {
-    if (chunk.metadata) {
-      context += chunk.metadata.text + '\n\n\n';
-    }
-  }
-  context = '<context>\n' + context + '</context>';
-
   aiState.update({
     ...aiState.get(),
     messages: [
@@ -239,6 +175,83 @@ async function submitUserMessage(content: string): Promise<{ id: string, display
       }
     ]
   })
+
+  let search_text = content;
+  let context = '';
+
+  //Send the user message to the AI model to ask if it is on topic
+  const lastUserMessage = aiState.get().messages[aiState.get().messages.length - 1]
+  const on_topic_check_message = `Is the message below on topic for a Christian chatbot? Respond with either 'Yes.' or 'No.'\n\n${lastUserMessage.content}`;
+  const completion = await openai.chat.completions.create({
+    model: 'gpt-3.5-turbo',
+    messages: [{role: 'user', content: on_topic_check_message}],
+  });
+  if (completion.choices[0]?.message?.content === 'No.') {
+    context = 'NO CONTEXT BECAUSE MESSAGE IS OFF TOPIC';
+    var sources: any[] = []
+  } else {
+    //Check if the user message is the first message in the chat history
+    const firstMessage = aiState.get().messages.length === 1
+
+    //If not the first question, we need to generate a single query for the vector database
+    if (!firstMessage) {
+      //Store chat history (just role and content) in a list (chat_history)
+      const chat_history = aiState.get().messages.map((message: any) => ({
+        role: message.role,
+        content: message.content
+      }));
+      // Add the condense prompt to the chat history so the LLM can generate a single query for the vector database
+      const condense_prompt = { role: 'system', content: CONDENSE_QUESTION_TEMPLATE}
+      chat_history.push(condense_prompt)
+      const completion = await openai.chat.completions.create({
+        model: 'gpt-3.5-turbo',
+        messages: chat_history,
+      });
+      const completionResponse = completion.choices[0]?.message?.content;
+      if (!completionResponse) {
+        throw new Error('Failed to retrieve completion response from completion');
+      }
+      search_text = completionResponse;
+    }
+
+    // Embed user message using OpenAI embeddings
+    const embed = await openai.embeddings.create({
+      input: [search_text],
+      model: embed_model
+    });
+
+    // Retrieve from Pinecone
+    const xq = embed.data[0].embedding;
+
+    // Get relevant contexts (including the questions)
+    const chunks = await index.query({ vector: xq, topK: 10, includeMetadata: true, includeValues: true});
+
+    //Store each source in a list
+    const source_file_name: string[] = []
+    for (const chunk of chunks.matches) {
+      if (chunk.metadata) {
+        source_file_name.push(String(chunk.metadata.source))
+      }
+    }
+    const baseNames = source_file_name.map(getBaseName)
+
+    const { data, error } = await supabase
+      .from('source-links')
+      .select()
+      .in('file_name', baseNames)
+    const sourceMap = data
+
+    var sources = sourceMap ? sourceMap.slice(0,sourcesToRender) : []
+
+    //Store context chunks in user message, surround by tags '<context>' '</context>'
+    for (const chunk of chunks.matches) {
+      if (chunk.metadata) {
+        context += chunk.metadata.text + '\n\n\n';
+      }
+    }
+    context = '<context>\n' + context + '</context>';
+  }
+
 
   let textStream: undefined | ReturnType<typeof createStreamableValue<string>>
   let textNode: undefined | React.ReactNode
@@ -253,9 +266,9 @@ async function submitUserMessage(content: string): Promise<{ id: string, display
         content: `\
 You are a chatbot that helps people explore Christianity using content from an organization called BibleProject.
 You and the user can discuss themes, personal problems, difficult questions, and more.
-You will answer according to the chat history and the context denoted by <context>string</context>. Do not hallucinate answers that are not in the context.
-However, if somebody asks a personal question that you cannot find context for, you can answer with a general response.
+You will answer according to the chat history and the context denoted by <context>string</context>. Do not hallucinate answers that are not in the context I provide.
 
+Here is the context to answer the user's question:
 ${context}`
       },
       ...aiState.get().messages.map((message: any) => ({
@@ -410,3 +423,4 @@ export const getUIStateFromAIState = (aiState: Chat) => {
         )
     }))
 }
+ 

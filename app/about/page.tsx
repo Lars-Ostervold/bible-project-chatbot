@@ -1,3 +1,4 @@
+import { ExternalLink } from '@/components/external-link'
 export default function AboutPage() {
     return (
         <div className="flex justify-center">
@@ -6,7 +7,7 @@ export default function AboutPage() {
                     <section className="mb-8">
                         <h2 className="text-2xl font-bold mb-2 text-center">How&apos;s it work?</h2>
                         <p className="mb-4">
-                            The chatbot is what is called a &apos;retrival augmented generation&apos; (RAG) chatbot. Feel free to read up on it <a href="https://huggingface.co/transformers/model_doc/rag.html">here</a>. But here&apos;s the gist of how it works:
+                            The chatbot is what is called a &apos;retrival augmented generation&apos; (RAG) chatbot. Feel free to read up on it <ExternalLink href="https://huggingface.co/transformers/model_doc/rag.html">here</ExternalLink>. But here&apos;s the gist of how it works:
                         </p>
                         <ol className="mb-4 p-6">
                             <li className="mb-2">
@@ -35,10 +36,10 @@ export default function AboutPage() {
                     <section className="mb-8">
                         <h2 className="text-2xl font-bold mb-2 text-center">Who made this thing?</h2>
                         <p className="mb-4">
-                            The main infrastructure for this project was based on a <a href="https://vercel.com/templates/next.js/nextjs-ai-chatbot"> chatbot template</a> from Vercel. But the custom code was mostly made by a dude named <a href="https://lars-ostervold.vercel.app/">Lars</a>. Though he also had help from some friends 😊.
+                            The main infrastructure for this project was based on a <ExternalLink href="https://vercel.com/templates/next.js/nextjs-ai-chatbot"> chatbot template</ExternalLink> from Vercel. But the custom code was mostly made by a dude named <ExternalLink href="https://lars-ostervold.vercel.app/" >Lars</ExternalLink>. Though he also had help from some friends 😊.
                         </p>
                         <p>
-                            We&apos;re always looking to make askBP better, so if you have any feedback or suggestions, feel free to reach out to us at <a href="/contact">contact</a>.
+                            We&apos;re always looking to make askBP better, so if you have any feedback or suggestions, feel free to reach out to us at <ExternalLink href="/contact">contact</ExternalLink>.
                         </p>
                     </section>
                     <section className="mb-8">

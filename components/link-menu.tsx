@@ -41,7 +41,7 @@ return (
           <div className="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
             <Link href="/about" className="block px-4 py-2 text-sm hover:bg-zinc-200 dark:hover:bg-zinc-600">About Us</Link>
             <Link href="/contact" className="block px-4 py-2 text-sm hover:bg-zinc-200 dark:hover:bg-zinc-600">Contact Us</Link>
-            <Link href="https://buy.stripe.com/4gw00c3q41Tl0sU7ss" className="block px-4 py-2 text-sm hover:bg-zinc-200 dark:hover:bg-zinc-600">Support Us</Link>
+            <Link href="https://donate.stripe.com/dR614g6CgfKb2B2bIJ" className="block px-4 py-2 text-sm hover:bg-zinc-200 dark:hover:bg-zinc-600">Support Us</Link>
           </div>
         </div>
       )}

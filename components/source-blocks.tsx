@@ -31,7 +31,7 @@ export const SourceBlocks = ({ sources }: { sources: Sources }) => {
                         <div className="ml-6 flex flex-col justify-center">
                             <h2>{source.title}</h2>
                             <p className="italic text-sm dark:text-white">
-                                Podcast
+                                {source.type_of_media}
                             </p>
                         </div>
                     </div>

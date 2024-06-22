@@ -38,16 +38,23 @@ export function BotMessage({
 }) {
   const { text, done } = useStreamableText(content)
   const [showSourceBlocks, setShowSourceBlocks] = useState(false);
+  
 
 
   useEffect(() => {
     if (done){
+      //Check if we need sources based on the response in the bot
+      if (text.includes("We didn't think this question was related to BibleProject content")) {
+        setShowSourceBlocks(false);
+        return;
+      }
+      
       setShowSourceBlocks(true);
     }
   }, [done]);
 
   return (
-    <div className={cn('group relative flex items-start md:-ml-12', className)}>
+    <div className={cn('group relative flex items-start md:-ml-1  2', className)}>
       <div className="flex size-[24px] shrink-0 select-none items-center justify-center rounded-md border bg-primary text-primary-foreground shadow-sm">
         <IconOpenAI />
       </div>
