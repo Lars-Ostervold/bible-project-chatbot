@@ -10,7 +10,8 @@ import remarkMath from 'remark-math'
 import { StreamableValue } from 'ai/rsc'
 import { useStreamableText } from '@/lib/hooks/use-streamable-text'
 import { SourceBlocks } from '@/components/source-blocks';
-import { useEffect, useState } from 'react';
+import { use, useEffect, useState } from 'react';
+import { set } from 'date-fns'
 
 // Different types of message bubbles.
 
@@ -39,16 +40,8 @@ export function BotMessage({
   const { text, done } = useStreamableText(content)
   const [showSourceBlocks, setShowSourceBlocks] = useState(false);
   
-
-
   useEffect(() => {
     if (done){
-      //Check if we need sources based on the response in the bot
-      if (text.includes("We didn't think this question was related to BibleProject content")) {
-        setShowSourceBlocks(false);
-        return;
-      }
-      
       setShowSourceBlocks(true);
     }
   }, [done]);

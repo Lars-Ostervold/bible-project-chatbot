@@ -38,7 +38,7 @@ export default function ContactPage() {
 
   return (
       <section className="flex items-center justify-center mt-[10vh]">
-          <div className="card w-4/5 md:w-2/5 bg-white dark:bg-zinc-950 text-black dark:text-white rounded-lg shadow-md p-4 md:pd-2 border border-gray-400 dark:border-gray-600 overflow-hidden">
+          <div className="card w-[90%] sm:w-2/5 bg-white dark:bg-zinc-950 text-black dark:text-white rounded-lg shadow-md p-4 md:pd-2 border border-gray-400 dark:border-gray-600 overflow-hidden">
               <h1 className="font-medium text-3xl mb-2 tracking-tighter"> Contact us!</h1>
               <p className="prose prose-neutral dark:text-white mb-8">
                 Questions, comments, or concerns? We&apos;d love to hear from you! Just fill out the form below and we&apos;ll get back to you as soon as we can.

@@ -23,18 +23,18 @@ export function EmptyScreen() {
   return (
     <div className="mx-auto max-w-2xl px-4">
       <div className="flex flex-col gap-2 rounded-lg border bg-background p-8">
-        <h1 className="text-lg font-semibold">
+        <h1 className="text-base sm:text-lg font-semibold">
           Welcome to BibleProject - Ask AI!
         </h1>
-        <p className="leading-normal text-muted-foreground">
+        <p className="text-sm sm:text-base leading-normal text-muted-foreground">
           This is an is an AI-powered chat interface that can help you with explore the Bible as a unified story that leads to Jesus.
 
           We hope this chatbout can give you quick answers to your questions and that it sparks a curiosity to dive deeper.
         </p>
-        <p className="leading-normal text-muted-foreground">
+        <p className="text-sm sm:text-base leading-normal text-muted-foreground">
           We are still in the beta phase, so we would love to hear your feedback! Please try it out and give us your thoughts <ExternalLink href="/contact">here</ExternalLink>.
         </p>
-        <h2 className="text-md font-semibold">
+        <h2 className="text-sm sm:text-md font-semibold">
           We are not affiliated with BibleProject. Do not take these answers as official BibleProject content. Always check the original source.
         </h2>
       </div>

@@ -2,7 +2,7 @@ import { ExternalLink } from '@/components/external-link'
 export default function AboutPage() {
     return (
         <div className="flex justify-center">
-            <div className="w-3/5">
+            <div className="w-max sm:w-3/5">
                 <main className="flex flex-col p-4">
                     <section className="mb-8">
                         <h2 className="text-2xl font-bold mb-2 text-center">How&apos;s it work?</h2>
@@ -45,7 +45,7 @@ export default function AboutPage() {
                     <section className="mb-8">
                         <h2 className="text-2xl font-bold mb-2 text-center">User Data and Privacy</h2>
                         <p className="mb-4">
-                            None of your data is harvested and made publicly available. The way it&apos;s set up, we can&apos;t even access it other than to display it for you (that&apos;s right, we even locked ourselves out! That&apos;s how good we are.) This means your questions, your passwords, and your answers are all safe and secure. You are the only one who will ever see them, unless you share them yourselves. 
+                            None of your data is harvested and made publicly available. The way it&apos;s set up, we can&apos;t access it other than to display it for you (that&apos;s right, we even locked ourselves out! That&apos;s how good we are.) This means your questions, your passwords, and your answers are all safe and secure. You are the only one who will ever see them, unless you share them yourselves. 
                         </p>
                     </section>
                 </main>

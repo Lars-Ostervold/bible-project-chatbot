@@ -3,7 +3,7 @@ import { ExternalLink } from '@/components/external-link'
 export default function TermsOfServicePage() {
     return (
         <div className="flex justify-center">
-            <div className="w-3/5">
+            <div className="w-full sm:w-3/5">
                 <main className="flex flex-col p-4">
                     <section className="mb-8">
                         <h2 className="text-2xl font-bold mb-2 text-center">Agreement to Terms</h2>
