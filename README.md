@@ -3,6 +3,8 @@
 
 Welcome to the Bible Project Chatbot repository! This project aims to provide an interactive chatbot experience, allowing users to explore biblical content in an engaging and innovative way. We just want to help people experience the Bible as a unified story that leads to Jesus.
 
+This project is live <a href="https://askbibleprojectai.com/">here.</a>
+
 This is still a 'beta' version, so we would love to have feedback, suggestions, and contributions!
 
 **This project is not affiliated with the BibleProject. Do not take responses as official BibleProject content. We encourage you to explore the original sources.**
