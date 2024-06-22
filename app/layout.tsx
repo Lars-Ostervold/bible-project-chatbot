@@ -13,8 +13,8 @@ export const metadata = {
     ? new URL(`https://${process.env.VERCEL_URL}`)
     : undefined,
   title: {
-    default: 'Ask BP Chatbot',
-    template: `%s - Ask BP Chatbot`
+    default: 'Ask BibleProject AI',
+    template: `Ask BibleProject AI`
   },
   description: 'An AI-powered chatbot supplemented with BibleProject content.',
   icons: {
