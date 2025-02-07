@@ -24,7 +24,7 @@ export function EmptyScreen() {
     <div className="mx-auto max-w-2xl px-4">
       <div className="flex flex-col gap-2 rounded-lg border bg-background p-8">
         <h1 className="text-base sm:text-lg font-semibold">
-          Welcome to BibleProject - Ask AI!
+          Welcome to askAI - BibleProject!
         </h1>
         <p className="text-sm sm:text-base leading-normal text-muted-foreground">
           This is an AI-powered chat interface that can help you explore the Bible as a unified story that leads to Jesus.
@@ -37,6 +37,11 @@ export function EmptyScreen() {
         <h2 className="text-sm sm:text-md font-semibold">
           We are not affiliated with BibleProject. Do not take these answers as official BibleProject content. Always check the original source.
         </h2>
+      </div>
+      <div className="flex flex-col gap-2 rounded-lg border bg-background p-8 m-4">
+        <div className="text-sm sm:text-base leading-normal text-yellow-100">
+          <strong>⚠️</strong> The service we used for logging in has been discontinued. We are currently working to restore the ability to log in and save your chat history.
+        </div>
       </div>
     </div>
   )
