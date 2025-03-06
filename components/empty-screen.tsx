@@ -39,7 +39,7 @@ export function EmptyScreen() {
         </h2>
       </div>
       <div className="flex flex-col gap-2 rounded-lg border bg-background p-8 m-4">
-        <div className="text-sm sm:text-base leading-normal text-yellow-100">
+        <div className="text-sm sm:text-base leading-normal">
           <strong>⚠️</strong> The service we used for logging in has been discontinued. We are currently working to restore the ability to log in and save your chat history.
         </div>
       </div>
