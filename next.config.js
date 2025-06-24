@@ -15,5 +15,15 @@ module.exports = {
         pathname: '**'
       }
     ]
-  }
+  },
+  // Optimize for production builds
+  typescript: {
+    ignoreBuildErrors: false,
+  },
+  eslint: {
+    ignoreDuringBuilds: false,
+  },
+  // Ensure proper handling of static generation
+  trailingSlash: false,
+  generateEtags: false,
 }
